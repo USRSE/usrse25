@@ -1,5 +1,7 @@
 - label: About
   items:
+    - name: Planning Committee
+      link: about/organization/
     - name: Important Dates
       link: about/dates/
     - name: Code of Conduct

@@ -1,4 +1,4 @@
-# The US-RSE Association Conference 2025 (US-RSE'25)
+# US-RSE'25 Conference Website
 
 This repository is the website landing page for the [US-RSE Association Conference 2025](https://us-rse.org/usrse25/).
 
