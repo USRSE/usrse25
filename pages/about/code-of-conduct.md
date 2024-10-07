@@ -3,6 +3,7 @@ layout: page
 title: Code of Conduct
 description: 
 menubar: about
+menubar_toc: false
 permalink: about/code-of-conduct/
 set_last_modified: true
 ---

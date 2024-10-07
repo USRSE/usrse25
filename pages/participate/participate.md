@@ -9,7 +9,7 @@ set_last_modified: true
 
 # Volunteers
 
-We are currently seeking volunteers for the [Conference Planning Committee](/about/organization.md).
+We are currently seeking volunteers for the [Conference Planning Committee](/usrse25/about/organization).
 
 # Call for Participation
 

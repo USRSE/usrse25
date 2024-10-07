@@ -22,10 +22,15 @@
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
+  --infodk: #138496;
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
+  --usrsemain: #741755;
+  --usrselight: #bd8ba6;
+  --usrsegrn: #17746e;
+  --usrseblue: #175574;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;

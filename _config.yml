@@ -1,8 +1,8 @@
 # Site Settings
 lang: en
 
-title: US-RSE'25
-description: US-RSE Conference 2025
+title: USRSE'25
+description: USRSE 2025 Conference
 
 url: "https://us-rse.org"
 baseurl: "/usrse25"
@@ -12,7 +12,7 @@ banner: /assets/img/main_logo_transparent.png
 icon: /assets/img/main_logo_transparent.png
 domain: https://us-rse.org
 
-email: contact@us-rse.org
+email: usrse25-conference@us-rse.org
 permalink: /:year-:month-:day-:title/
 
 favicon: /assets/img/favicon.ico
@@ -21,7 +21,8 @@ fixed_navbar: top
 paginate: 5
 paginate_path: "/news/page:num/"
 
-excerpt_length: 200
+excerpt_length: 1000
+excerpt_separator: "<!--more-->"
 
 # social media
 twitter: us_rse

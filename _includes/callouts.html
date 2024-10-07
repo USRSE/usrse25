@@ -2,7 +2,7 @@
     {% assign callouts=site.data.callouts.[page.callouts] %}
 
 <section id="features" class="block block-grid outer">
-  <div class="inner">    
+  <div class="inner">
     <div class="block-content">
       <div class="grid grid-col-3">
         {% for callout in callouts.items %}
@@ -14,7 +14,7 @@
             <div class="grid-item-content">
                <p>{% if callout.subtitle %}{{ callout.subtitle | newline_to_br }}{% endif %}
                {% if callout.description %}{{ callout.description | newline_to_br }}{% endif %}
-               </p>               
+               </p>
             </div>
             <div class="grid-item-buttons">
             {% if callout.link %}

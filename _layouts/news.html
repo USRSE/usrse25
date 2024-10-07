@@ -1,23 +1,37 @@
 ---
-layout: default
+layout: page
 ---
 
 {{ content }}
 
-<div class="columns is-multiline">
-    <div class="column is-12">
-        {% include pagination.html %}
+<div class="posts-list">
+  {% for post in site.posts %}
+  <article class="post-preview" style="margin-top: 4ex;">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h3 class="post-title">{{ post.title }}</h3>
+    </a>
+
+    <p class="post-meta" style="margin-top: -1ex;">
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry-container">
+      <div class="post-entry">
+        {% if post.tags contains 'full' %}
+          {{ post.excerpt  }}
+        {% else %}
+          {{ post.excerpt | xml_escape | truncatewords: site.excerpt_length }}
+          {% assign excerpt_word_count = post.excerpt | number_of_words %}
+          {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+          {% endif %}
+        {% endif %}
+        <br>
+        <hr>
+      </div>
     </div>
-    &nbsp;
-    {% for post in paginator.posts %}
-    <div class="column is-12">
-        {% include post-card.html %}
-    </div>
-    {% endfor %}
-    <div class="column is-12">
-        {% include pagination.html %}
-    </div>
-    <div class="column is-12">
-        {% include subscribe.html %}
-    </div>
+
+   </article>
+  {% endfor %}
 </div>
+

@@ -549,7 +549,7 @@ textarea {
 .line-left {
   position: relative; }
   .line-left:after {
-    background: darkmagenta;
+    background: var(--info);
     display: block;
     content: "";
     height: 100%;
@@ -1436,7 +1436,7 @@ textarea {
 .grid-item-inside {
   background: #fff;
   border: 1px solid #dde0e7;
-  border-radius: 3px;
+  border-radius: 10px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.08);
   box-sizing: border-box;
   -ms-flex-positive: 1;
@@ -1743,8 +1743,13 @@ blockquote cite:before {
     padding-right: 5px;
 }
 a:visited {
-    color: #cc6ca5
-;
+    color: #741755;
+}
+a.btn:visited {
+    color: #fff;
+}
+a.btn {
+    color: #fff;
 }
 a:hover {
     color: #3a0638;
