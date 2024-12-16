@@ -33,8 +33,8 @@ TBD
 
 ### Communications
 
-* Ritika Giri, Northwestern University
-* TBD
+* Chair: Joel Bretheim, Princeton University
+* Vice Chair: Ritika Giri, Northwestern University
 
 ### Sponsorship
 
