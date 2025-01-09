@@ -29,7 +29,11 @@ Contact the organizers: [usrse25-conference@us-rse.org](mailto:usrse25-conferenc
 
 ### Logistics
 
-TBD
+* A/V Liasion: Ethan Blackwood, University of Pennsylvania
+* Hotel/Local Info:	Christian Tabedzki, Princeton University
+* Transportation and Room Moderators: Jennifer Melot, Georgetown University
+* Registration and Signage: Anibely Torres, Oak Ridge National Lab
+* Photographer and Posters: Stephanie Brink, Lawrence Livermore National Lab
 
 ### Communications
 
