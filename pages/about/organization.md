@@ -53,7 +53,7 @@ Contact the organizers: [usrse25-conference@us-rse.org](mailto:usrse25-conferenc
 ### Diversity, Equity, and Inclusion
 
 * Chair: Cordero Core, University of Washington
-* Vice Chair: TBD
+* Vice Chair: Sydney Grooms, University of Alabama at Birmingham
 
 
 
