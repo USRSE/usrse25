@@ -9,7 +9,7 @@ menubar_toc: true
 set_last_modified: true
 ---
 
-<img src = "../../assets/img/group_long.jpg">
+<img src = "https://us-rse.org/usrse25/assets/img/group_long.jpg">
 
 ## Venue Information
 
