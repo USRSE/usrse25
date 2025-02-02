@@ -9,6 +9,8 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+<img src = "../../assets/img/group_long.jpg">
+
 ## Venue Information
 
 [Philadelphia Marriott Old City](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/)
