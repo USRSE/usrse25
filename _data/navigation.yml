@@ -2,10 +2,17 @@
   link: news/
 - name: Participate
   link: participate/
-#- name: Program
-#  link: program/
-#- name: Attend
-#  link: attend/
+- name: Program
+  link: program/
+- name: Attend
+  link: attend/
+  dropdown:
+    - name: Overview
+      link: attend/
+    - name: Hotel and Travel
+      link: attend/travel/
+    - name: Registration
+      link: attend/register/
 - name: Sponsor
   link: sponsor/
 - name: About

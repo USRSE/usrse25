@@ -9,11 +9,11 @@
     {% assign minHeader = include.h_min | default: 1 %}
     {% assign maxHeader = include.h_max | default: 6 %}
     {% assign nodes = include.html | split: '<h' %}
-    {% assign firstHeader = true %}
+    {% assign firstHeader = false %}
 
     {% capture listModifier %}{% if orderedList %}1.{% else %}-{% endif %}{% endcapture %}
 
-    {% for node in nodes %}
+    {% for node in nodes  %}
         {% if node == "" %}
             {% continue %}
         {% endif %}

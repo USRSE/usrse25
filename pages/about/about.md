@@ -4,6 +4,7 @@ title: About USRSE'25
 description: About the USRSE Conference Series
 menubar: about
 permalink: about/
+toc_title: About USRSE'25
 menubar_toc: false
 set_last_modified: true
 ---

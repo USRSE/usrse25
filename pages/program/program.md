@@ -7,4 +7,6 @@ permalink: program/
 set_last_modified: true
 ---
 
-More information to come...
+The full conference program will be posted by August 1, 2025.  
+
+An [overview of the schedule](../attend/#sched_overview) is available.

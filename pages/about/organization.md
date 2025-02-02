@@ -7,9 +7,6 @@ menubar_toc: true
 set_last_modified: true
 ---
 
-Our planning committees are looking for volunteers.  If you would like to help make the conference a success, reach out to the committee chairs on the US-RSE Slack or email [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org).
-
-<hr>
 
 ## General Chairs
 
@@ -50,7 +47,7 @@ Contact the organizers: [usrse25-conference@us-rse.org](mailto:usrse25-conferenc
 * Chair: Suzanne Prentice, Oak Ridge National Lab
 * Vice Chair: Jamil Gafur, University of Iowa
 
-### Diversity, Equity, and Inclusion
+### Community Engagement
 
 * Chair: Cordero Core, University of Washington
 * Vice Chair: Sydney Grooms, University of Alabama at Birmingham
