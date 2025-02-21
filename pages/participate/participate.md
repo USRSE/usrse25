@@ -9,43 +9,155 @@ permalink: participate/
 set_last_modified: true
 ---
 
+## Call for Submissions
 
-## Call for Participation
+We invite submissions for USRSE'25, the third annual conference
+from the United States Research Software Engineer Association 
+(US-RSE), to be held in Philadelphia, Pennsylvania, October 
+6-8, 2025. 
 
-Following on the conference theme, USRSE'25 is looking for submissions in three main areas:
+This year’s conference theme is “Code, Practices, and People.”
+Topics of interest include, but are not limited to:
 
-* Code: share your research software
-* Practices: discuss research software engineering practices
-* People: all things related to research software engineers 
-
-Submissions will be sought in several categories:
-
-* Talks: Short presentations of work shared in a paper, code notebook, or abstract
-* Tutorials/Workshops: Sessions that teach participants a new skill
-* Birds of Feather: Group sessions that bring together participants to discuss a common topic of interest
-* Posters 
-
-Student submissions are welcome in all categories and will be evaluated with other submissions.
-
-Further details will be posted soon.  
+- Code: Share your software with the community
+  - Research software applications
+  - Impact of software on research
+  - Software and application design
+  - Code assist tools, templates, and frameworks
 
 
-## Reviewers 
-
-The submission reviewer volunteer interest form will be open soon.  
-
-Volunteers should plan to conduct reviews of most materials between mid-May and mid-June.  Poster reviewers will conduct their reviews the last week of July and the first week of August.
-
-## Timeline
-
-* Submission deadline - everything but posters: 2025-05-02
-  * Notifications: 2025-07-14
-* Submission deadline - posters: 2025-07-20
-  * Notifications: 2025-08-15
-
-Presenter conference registration deadline: 2025-08-08
+- Practices: Discuss how RSEs code and how they can code better
+  - Open source development
+  - Secure research software 
+  - Best practices for research software engineering
+  - Making research software sustainable
+  - Creating reproducible code
 
 
-## Submit 
+- People: Support the development of the RSE community
+  - Leadership and management of RSE teams
+  - Training and workforce development
+  - Accessibility and belonging for RSEs
+  - Efforts to expand the RSE movement
+  - Impact of RSEs
+  - Collaboration between RSEs and researchers
 
-Submissions will open mid-February 2025. 
+Accepted abstracts will be placed on the website ahead of the conference.
+
+## Important Dates
+
+[Submissions now open on EasyChair](https://easychair.org/conferences/?conf=usrse25)
+
+Everything except Posters: 
+- Submissions due: Friday, May 2, 2025
+- Notifications sent by: July 14, 2025
+
+Posters: 
+- Submissions due: July 20, 2025
+- Notifications sent by: August 15, 2025
+
+## Submission Types
+USRSE'25 is looking for three main types of submissions:
+- Participatory sessions:
+  - Birds of a Feather (BoFs): discussion-focused sessions led by 
+the session organizers
+  - Workshops: teaching-focused sessions where participants learn a 
+new skill through hands-on exercises
+
+- Short talks: we accept several submission types for those looking to 
+give a short presentation during the conference
+  - Papers: write and submit an original paper
+  - Talk abstracts: oral presentation based on a 1-page (maximum) 
+abstract (slides not needed at submission deadline)
+  - Notebooks: create a computational notebook to share your work
+
+- Posters: share your work through one-on-one conversations during our 
+poster session reception
+
+## Submission Details
+*Session times noted in the descriptions are subject to 
+change pending finalization of the conference program.*  
+
+## Birds of a Feather (BoFs)
+
+Birds of a Feather sessions are an opportunity to discuss a topic 
+of shared interest to the RSE community.  Successful submissions 
+should appeal to a quarter to a half of conference attendees. 
+BoFs may be organized as a structured discussion with participants,
+a panel, or a question and answer session. BoF abstracts/descriptions 
+are not included in the conference proceedings. BoF sessions are
+75-90 minutes.  [BoF submission template](https://docs.google.com/document/d/19Yto8Vbgv90avxSStFHyZ4ImvCGizWmJ/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true). 
+
+## Workshops
+This year, workshops (aka Tutorials) will take place in person at the conference.
+Workshops should teach the participants a new skill and include exercises or 
+other active learning components.  Both technical and professional skills 
+workshops are welcome.  Workshop abstracts/descriptions are not included in the 
+conference proceedings.  Workshop sessions are 90 minutes.
+[Workshop submission template](https://docs.google.com/document/d/1gVP7gDM4nyhON35kqC27hUT7CATl-DQH/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
+
+## Papers
+Paper submissions must be original work not published elsewhere.  Papers 
+may be up to 10 pages in length, including figures, not counting 
+references. Submissions should adhere to the 
+[IEEE format](https://www.ieee.org/conferences/publishing/templates.html) in US letter 
+size as a PDF file. Papers will be published via Zenodo. Paper authors 
+will likely have an opportunity to submit their paper to a special 
+journal issue for publication after the conference. Accepted papers will 
+have approximately 15 minutes to present their work during the conference. 
+
+## Talks
+Talks on all topics of interest to the conference are encouraged.  Talk 
+proposals sharing work published elsewhere are permitted. Talk abstracts 
+and presentation slides will be included in the conference proceedings 
+on Zenodo.  Accepted talks will have approximately 15 minutes to present 
+their work during the conference. [Talk submission template](https://docs.google.com/document/d/1qI71P2LgZzylRllHtqWLxrYyEXYtx2dm/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true). 
+
+## Notebooks
+Notebooks are a way to share your code or analysis directly with the 
+community.  Computational notebooks should include discussion along 
+with the code and analysis.  To account for the broad variety of use 
+cases for notebooks, we are accepting submissions in three categories 
+(Jupyter, Shiny, Voila) via an online repository; further details 
+coming soon.  Notebooks will be included in the conference 
+proceedings on Zenodo.  Accepted notebooks will have approximately 
+15 minutes to present their work during the conference. 
+[Notebook submission instructions](https://docs.google.com/document/d/1rOrL0u7xNgAL7vBpyVipc76zeX7VSnOf/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
+
+## Posters
+Posters are a chance to discuss your work with the community during 
+an evening reception.  Both typical academic posters and less 
+traditional poster formats are encouraged.  Papers, talks, and 
+notebooks that are not accepted may be resubmitted as posters using 
+the poster submission template. Poster size constraints will be 
+announced to accepted posters. Posters may be submitted for optional 
+inclusion in the conference proceedings. [Poster submission template](https://docs.google.com/document/d/1ryYqg8He6a3oHRFLfxjbz9bp4DpZn4Zk/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
+
+**For the usage of AI-Generated Text/Large language model (LLM) usage, 
+refer to the “Guidelines for Artificial Intelligence (AI)-Generated 
+Text” section in [IEEE Submission and Peer Review Policies](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/#ai-generated-text).** 
+
+## Reviews
+All submissions are peer-reviewed for quality, relevance, and novelty, 
+which will determine acceptance. Reviewers are expected to provide 
+constructive feedback and maintain confidentiality and fairness 
+throughout the review process. The final decision will be based on 
+reviewer recommendations and program committee deliberations.
+
+
+You can volunteer as a reviewer by [filling out this form](https://forms.gle/wj2ufbMJaLB1ExR77).
+The [Reviewers' guide](https://docs.google.com/document/d/1i1H96ZCkOqnisZDpgxw7F2fPRhVcSs-WaWNXNJpOx_c/edit?tab=t.0) will be passed to reviewers for reference. 
+
+## Submit
+
+All submissions except posters are due Friday, May 2, 2025 
+(anywhere on Earth).  
+
+Poster submissions are due July 20, 2025 (anywhere on Earth).
+
+Notifications for submissions other than posters will be sent by 
+July 14, 2025. Poster notifications will be sent by August 15, 2025.  
+
+Accepted abstracts/descriptions will be published in the conference program.
+
+[Submit Here](https://easychair.org/my/conference?conf=usrse25)
