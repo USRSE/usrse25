@@ -15,7 +15,7 @@ USRSE'25 is the third installment of the annual US Research Software Engineering
 
 To contact the USRSE'25 organizers, email [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org).
 
-We are currently seeking volunteers for the [Conference Planning Committee](organization/).
+Many thanks to the [conference planning committee]({{ site.baseurl }}/about/organization) for all of their hard work.
 
 # Past Conferences
 

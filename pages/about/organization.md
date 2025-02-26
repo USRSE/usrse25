@@ -23,9 +23,18 @@ Contact the organizers: [usrse25-conference@us-rse.org](mailto:usrse25-conferenc
 
 * Chair: Fang (Cherry) Liu, Georgia Tech
 * Vice Chair: Pengyin (Wendy) Shan, National Center for Supercomputing Applications, University of Illinois
+* Committee Members: 
+  * Workshops: Priya Ronald DCosta, Julie Barnum, Tajudeen Akinosho
+  * Papers: Angela Herring, Keith Beattie, Ronald Rahaman
+  * Talks: Drew Paine, Yuxi (Ethan) Cui
+  * BoFs: Vijay Mahadevan, Anjali Badlani
+  * Notebooks: Sajith Sasidharan, Fan Li, Christopher Heller
+  * Publication: Patrick Diehl, Chen Zhang
+  * Posters: Somasundaram Muthukrishnan, Kapil Jadhav
 
 ### Logistics
 
+* Logistics Coordinator: Andrea Rubenstein, Princeton University
 * A/V Liaison: Ethan Blackwood, University of Pennsylvania
 * Hotel/Local Info:	Christian Tabedzki, Princeton University
 * Transportation and Room Moderators: Jennifer Melot, Georgetown University
