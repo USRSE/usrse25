@@ -8,6 +8,23 @@ description:
   permalink: participate/
   set_last_modified: true
 ---
+In today's research landscape, software is essential across various disciplines. Many researchers utilize high-performance scientific codes to obtain simulation results, conduct data analysis, and visualize their findings. These codes streamline researchers' workflows and enhance scientific progress. To make this possible, research software engineers work behind the scenes to maintain these codes or improve the user experience. Research software engineers dedicate significant time to programming, while full-time software engineers focus on writing code to address research challenges, with many professionals falling somewhere in between.
+This special issue, titled “Code, Practices, and People,” will focus on the interactions among those who develop code and applications, as well as the practices they engage in, such as code reviews. Additionally, it will explore leadership and career paths for research software engineers.
+
+Topics of interest include (but are not limited to):
+
+* Discovery enabled by software
+* Architectures, frameworks, libraries, and technology trends
+* Research data management
+* Support for scalability and data-driven methods
+* Improving the reproducibility of research
+* Usability, portals, workflows, and tools
+* Sustainability, security, and stability
+* Software engineering approaches supporting research
+* Community engagement
+* Diversity, Equity, and Inclusion for RSEs and in RSEng
+* Training and workforce development
+* Building an RSE profession
 
 ## Editorial board
 
