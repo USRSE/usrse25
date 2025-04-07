@@ -51,10 +51,14 @@ Accepted abstracts will be placed on the website ahead of the conference.
 Everything except Posters: 
 - Submissions due: Friday, May 2, 2025
 - Notifications sent by: July 14, 2025
-
+- Camera-ready versions uploaded to [Zenodo](https://zenodo.org/communities/usrse25) by: October 3, 2025
+ 
 Posters: 
 - Submissions due: July 20, 2025
 - Notifications sent by: August 15, 2025
+- Camera-ready versions uploaded to [Zenodo](https://zenodo.org/communities/usrse25) by: October 17, 2025
+
+Note that authors will receive instructions to upload their artifact to Zenodo two weeks before the deadlines via email.
 
 ## Submission Types
 USRSE'25 is looking for three main types of submissions:
@@ -101,7 +105,7 @@ Paper submissions must be original work not published elsewhere.  Papers
 may be up to 10 pages in length, including figures, not counting 
 references. Submissions should adhere to the 
 [IEEE format](https://www.ieee.org/conferences/publishing/templates.html) in US letter 
-size as a PDF file. Papers will be published via Zenodo. Paper authors 
+size as a PDF file. Papers will be published on [Zenodo](https://zenodo.org/communities/usrse25). Paper authors 
 will likely have an opportunity to submit their paper to a special 
 journal issue for publication after the conference. Accepted papers will 
 have approximately 15 minutes to present their work during the conference. 
@@ -120,7 +124,7 @@ with the code and analysis.  To account for the broad variety of use
 cases for notebooks, we are accepting submissions in three categories 
 (Jupyter, Shiny, Voila) via an online repository; further details 
 coming soon.  Notebooks will be included in the conference 
-proceedings on Zenodo.  Accepted notebooks will have approximately 
+proceedings on [Zenodo](https://zenodo.org/communities/usrse25). Accepted notebooks will have approximately 
 15 minutes to present their work during the conference. 
 [Notebook submission instructions](https://docs.google.com/document/d/1rOrL0u7xNgAL7vBpyVipc76zeX7VSnOf/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
 
@@ -130,8 +134,7 @@ an evening reception.  Both typical academic posters and less
 traditional poster formats are encouraged.  Papers, talks, and 
 notebooks that are not accepted may be resubmitted as posters using 
 the poster submission template. Poster size constraints will be 
-announced to accepted posters. Posters may be submitted for optional 
-inclusion in the conference proceedings. [Poster submission template](https://docs.google.com/document/d/1ryYqg8He6a3oHRFLfxjbz9bp4DpZn4Zk/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
+announced to accepted posters. Posters will be included in the conference proceedings on [Zenodo](https://zenodo.org/communities/usrse25). [Poster submission template](https://docs.google.com/document/d/1ryYqg8He6a3oHRFLfxjbz9bp4DpZn4Zk/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
 
 **For the usage of AI-Generated Text/Large language model (LLM) usage, 
 refer to the “Guidelines for Artificial Intelligence (AI)-Generated 
