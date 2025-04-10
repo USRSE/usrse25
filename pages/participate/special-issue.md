@@ -23,7 +23,8 @@ Topics of interest include (but are not limited to):
 * Software engineering approaches supporting research
 * Community engagement
 * Training and workforce development
-* Building an RSE profession
+* Building an research software engineer (RSE) profession
+* Accessibility and belonging for RSEs
 
 ## Editorial board
 
@@ -41,7 +42,7 @@ Topics of interest include (but are not limited to):
 ## Requirements
 
 * Only accepted papers to USRSE are invited to submit to the special issue.
-* The accepted papers *needs* to be extended with **40%** new content. 
+* The accepted papers *need* to be extended with **40%** new content. 
 * We will try to have at least one reviewer of the conference paper as a reviewer for the journal paper to assist with the decision.
 * The journal submission will undergo a separate evaluation process from the conference paper and acceptance is not guaranteed.
 
