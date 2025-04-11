@@ -2,6 +2,9 @@
   link: news/
 - name: Participate
   link: participate/
+  dropdown:
+  - name: Special Issue
+    link: participate/special-issue/
 - name: Program
   link: program/
 - name: Attend
