@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Special issue
+title: Special Issue
 description:
   menubar: participate
-  toc_title: Special issue
+  toc_title: Special Issue
   menubar_toc: true
-  permalink: participate/
+  permalink: participate/special-issue/
   set_last_modified: true
 ---
 In today's research landscape, software is essential across various disciplines. Many researchers utilize high-performance scientific software to obtain simulation results, conduct data analysis, and visualize their findings. These codes streamline researchers' workflows and enhance scientific progress. To make this possible, research software engineers work behind the scenes to maintain these codes or improve the user experience. Research software engineers dedicate significant time to programming, while full-time software engineers focus on writing code to address research challenges, with many professionals falling somewhere in between.
