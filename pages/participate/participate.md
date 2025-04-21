@@ -49,7 +49,7 @@ Accepted abstracts will be placed on the website ahead of the conference.
 [Submissions now open on EasyChair](https://easychair.org/conferences/?conf=usrse25)
 
 Everything except Posters: 
-- Submissions due: Friday, May 2, 2025
+- Submissions due: Friday, May 16, 2025
 - Notifications sent by: July 14, 2025
 - Camera-ready versions uploaded to [Zenodo](https://zenodo.org/communities/usrse25) by: October 3, 2025
  
@@ -105,10 +105,10 @@ Paper submissions must be original work not published elsewhere.  Papers
 may be up to 10 pages in length, including figures, not counting 
 references. Submissions should adhere to the 
 [IEEE format](https://www.ieee.org/conferences/publishing/templates.html) in US letter 
-size as a PDF file. Papers will be published on [Zenodo](https://zenodo.org/communities/usrse25). Paper authors 
-will likely have an opportunity to submit their paper to a special 
-journal issue for publication after the conference. Accepted papers will 
-have approximately 15 minutes to present their work during the conference. 
+size as a PDF file. Papers will be published on [Zenodo](https://zenodo.org/communities/usrse25). Paper authors will have an opportunity to submit their paper to 
+a [special journal issue](https://us-rse.org/usrse25/participate/special-issue/) for publication 
+after the conference. Accepted papers will have approximately 15 minutes to present their work 
+during the conference. 
 
 ## Talks
 Talks on all topics of interest to the conference are encouraged.  Talk 
