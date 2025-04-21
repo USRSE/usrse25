@@ -153,7 +153,7 @@ The [Reviewers' guide](https://docs.google.com/document/d/1i1H96ZCkOqnisZDpgxw7F
 
 ## Submit
 
-All submissions except posters are due Friday, May 2, 2025 
+All submissions except posters are due Friday, May 16, 2025 
 (anywhere on Earth).  
 
 Poster submissions are due July 20, 2025 (anywhere on Earth).
