@@ -9,7 +9,7 @@ permalink: participate/special-issue/
 set_last_modified: true
 ---
 In today's research landscape, software is essential across various disciplines. Many researchers utilize high-performance scientific software to obtain simulation results, conduct data analysis, and visualize their findings. These codes streamline researchers' workflows and enhance scientific progress. To make this possible, research software engineers work behind the scenes to maintain these codes or improve the user experience. Research software engineers dedicate significant time to programming, while full-time software engineers focus on writing code to address research challenges, with many professionals falling somewhere in between.
-This special issue, titled “Code, Practices, and People” will focus on the interactions among those who develop code and applications, as well as the practices they engage in, such as code reviews. Additionally, it will explore leadership and career paths for research software engineers.
+This special issue, titled “Code, Practices, and People”, will focus on the interactions among those who develop code and applications, as well as the practices they engage in, such as code reviews. Additionally, it will explore leadership and career paths for research software engineers.
 
 Topics of interest include (but are not limited to):
 
@@ -23,13 +23,13 @@ Topics of interest include (but are not limited to):
 * Software engineering approaches supporting research
 * Community engagement
 * Training and workforce development
-* Building an research software engineer (RSE) profession
+* Building a research software engineer (RSE) profession
 * Accessibility and belonging for RSEs
 
 ## Editorial board
 
 * Patrick Diehl, Los Alamos National Laboratory 
-* Miranda Mundt, Sandia National Laboratory 
+* Miranda Mundt, Sandia National Laboratories 
 * Chen Zhang, Oak Ridge National Laboratory
 
 ## Important dates
@@ -52,4 +52,4 @@ Please follow the [submission guidelines](https://www.sciencedirect.com/journal/
 
 ## Previous special issues
 
-* Research Software Engineering – Software-Enabled Discovery and Beyond, Future Generation Computer Systems, USRSE 23, [Link](https://www.sciencedirect.com/special-issue/10GXQ2MQKBW)
+* Research Software Engineering – [Software-Enabled Discovery and Beyond](https://www.sciencedirect.com/special-issue/10GXQ2MQKBW), Future Generation Computer Systems, USRSE'23.
