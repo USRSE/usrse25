@@ -1,9 +1,9 @@
 items:
   - title: Sponsor
     subtitle: >
-      Help make USRSE'25 a success 
+      Help make USRSE'25 a success <br><br>
     link: sponsor/
-    link_name: Learn About Sponsorship Opportunities <br><br>
+    link_name: Learn About Sponsorship Opportunities 
   - title: Submissions Open
     subtitle: >
       Submit your talk, paper, computational notebook, workshop, or birds of a feather session by May 16th
