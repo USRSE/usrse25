@@ -3,14 +3,14 @@ items:
     subtitle: >
       Help make USRSE'25 a success 
     link: sponsor/
-    link_name: Learn About Sponsorship Opportunities
+    link_name: Learn About Sponsorship Opportunities <br><br>
   - title: Submissions Open
     subtitle: >
-      Submit Your talk, paper, computational notebook, workshop, or birds of a feather session by May 16th
+      Submit your talk, paper, computational notebook, workshop, or birds of a feather session by May 16th
     link: participate/
     link_name: Learn More
   - title: Have Questions?
     subtitle: >
-      Contact the conference organizers <br>
+      Contact the conference organizers <br><br>
     link: mailto:usrse25-conference@us-rse.org
     link_name: Get in Touch
