@@ -4,11 +4,11 @@ items:
       Help make USRSE'25 a success 
     link: sponsor/
     link_name: Learn About Sponsorship Opportunities
-  - title: Join the Mailing List
+  - title: Submissions Open
     subtitle: >
-      Keep up to date with conference information <br>
-    link: https://groups.google.com/a/us-rse.org/g/usrse-conference
-    link_name: Add Your Email
+      Submit Your talk, paper, computational notebook, workshop, or birds of a feather session by May 16th
+    link: participate/
+    link_name: Learn More
   - title: Have Questions?
     subtitle: >
       Contact the conference organizers <br>
