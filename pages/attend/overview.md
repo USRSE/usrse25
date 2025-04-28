@@ -56,7 +56,7 @@ We are still finalizing event details and will provide more information as it is
 * The conference registration form will ask about any food restrictions or allergies.  The planned, general menu will be shared before the conference starts.
 * The [hotel website](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/) includes floorplan information and 3D walk-throughs of the common spaces if you'd like to familiarize yourself with venue before attending.
 * If you need a letter to support a travel visa application, please contact [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org).
-* We take the [Code of Conduct](about/code-of-conduct/) seriously.
+* We take the [Code of Conduct](https://us-rse.org/usrse25/about/code-of-conduct/) seriously.
 
 If there is something that you're concerned about, please contact us at [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org).  We want all members of the US-RSE community to be comfortable attending the event. 
 
