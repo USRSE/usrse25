@@ -122,10 +122,10 @@ Notebooks are a way to share your code or analysis directly with the
 community.  Computational notebooks should include discussion along 
 with the code and analysis.  To account for the broad variety of use 
 cases for notebooks, we are accepting submissions in three categories 
-(Jupyter, Shiny, Voila) via an online repository; further details 
-coming soon.  Notebooks will be included in the conference 
-proceedings on [Zenodo](https://zenodo.org/communities/usrse25). Accepted notebooks will have approximately 
-15 minutes to present their work during the conference. 
+(Jupyter, Shiny, Voila) via an online repository.  Notebooks will be 
+included in the conference proceedings on [Zenodo](https://zenodo.org/communities/usrse25).
+Authors of accepted notebooks will have approximately 15 minutes to 
+present their work during the conference. 
 [Notebook submission instructions](https://docs.google.com/document/d/1rOrL0u7xNgAL7vBpyVipc76zeX7VSnOf/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
 
 ## Posters
