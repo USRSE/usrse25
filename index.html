@@ -108,24 +108,33 @@ fb-img:
 
 <div class="sectionheader">
   <center>
-<h2 class="sectionheader"> US-RSE Organizational Members </h2>
+<h2 class="sectionheader"> US-RSE Organizational Founding Members </h2>
   </center>
 </div>
 <div>
   <center>
-  {% assign orgs = site.data.org-members %}
 
-  {%- for item in orgs -%}
-  <a href="{{ item.url }}"><img src="{{ site.baseurl }}/assets/img/org-logos/{{ item.figure }}" 
-    {% if item.background -%}
-    style=" margin-left: auto; margin-right: auto; width: 20%; padding: 10px; background-color: {{ item.background }}"
-    {%- else -%}
-    style="margin-left: auto; margin-right: auto; width: 20%; padding: 10px; "
-    {%- endif -%}
-         
-         alt="{{ item.name }} logo"></a>
-    {%- endfor -%}
-    </center>
-</div>
+{% if site.data.org-members.premier %}
+<h3>Premier Level</h3>
+
+{% assign org_tier = site.data.org-members.premier | sort: "date_joined" %}
+{% include org-card-group.html %}
+{% endif %}
+
+
+{% if site.data.org-members.standard %}
+<h3>Standard Level</h3>
+
+{% assign org_tier = site.data.org-members.standard | sort: "date_joined" %}
+{% include org-card-group.html %}
+{% endif %}
+
+
+{% if site.data.org-members.basic %}
+<h3>Basic Level</h3>
+
+{% assign org_tier = site.data.org-members.basic | sort: "date_joined" %}
+{% include org-card-group.html %}
+{% endif %}    
 
 
