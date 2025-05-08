@@ -90,14 +90,15 @@ should appeal to a quarter to a half of conference attendees.
 BoFs may be organized as a structured discussion with participants,
 a panel, or a question and answer session. BoF abstracts/descriptions 
 are not included in the conference proceedings. BoF sessions are
-75-90 minutes.  [BoF submission template](https://docs.google.com/document/d/19Yto8Vbgv90avxSStFHyZ4ImvCGizWmJ/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true). 
+75-90 minutes. *Make sure to attach the PDF to your submission.*
+[BoF submission template](https://docs.google.com/document/d/19Yto8Vbgv90avxSStFHyZ4ImvCGizWmJ/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true). 
 
 ## Workshops
 This year, workshops (aka Tutorials) will take place in person at the conference.
 Workshops should teach the participants a new skill and include exercises or 
 other active learning components.  Both technical and professional skills 
 workshops are welcome.  Workshop abstracts/descriptions are not included in the 
-conference proceedings.  Workshop sessions are 90 minutes.
+conference proceedings.  Workshop sessions are 90 minutes. *Make sure to attach the PDF to your submission.*
 [Workshop submission template](https://docs.google.com/document/d/1gVP7gDM4nyhON35kqC27hUT7CATl-DQH/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
 
 ## Papers
@@ -108,14 +109,15 @@ references. Submissions should adhere to the
 size as a PDF file. Papers will be published on [Zenodo](https://zenodo.org/communities/usrse25). Paper authors will have an opportunity to submit their paper to 
 a [special journal issue](https://us-rse.org/usrse25/participate/special-issue/) for publication 
 after the conference. Accepted papers will have approximately 15 minutes to present their work 
-during the conference. 
+during the conference. *Make sure to attach the PDF to your submission.*
 
 ## Talks
 Talks on all topics of interest to the conference are encouraged.  Talk 
 proposals sharing work published elsewhere are permitted. Talk abstracts 
 and presentation slides will be included in the conference proceedings 
 on Zenodo.  Accepted talks will have approximately 15 minutes to present 
-their work during the conference. [Talk submission template](https://docs.google.com/document/d/1qI71P2LgZzylRllHtqWLxrYyEXYtx2dm/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true). 
+their work during the conference. *Make sure to attach the PDF to your submission.*
+[Talk submission template](https://docs.google.com/document/d/1qI71P2LgZzylRllHtqWLxrYyEXYtx2dm/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true). 
 
 ## Notebooks
 Notebooks are a way to share your code or analysis directly with the 
@@ -134,7 +136,9 @@ an evening reception.  Both typical academic posters and less
 traditional poster formats are encouraged.  Papers, talks, and 
 notebooks that are not accepted may be resubmitted as posters using 
 the poster submission template. Poster size constraints will be 
-announced to accepted posters. Posters will be included in the conference proceedings on [Zenodo](https://zenodo.org/communities/usrse25). [Poster submission template](https://docs.google.com/document/d/1ryYqg8He6a3oHRFLfxjbz9bp4DpZn4Zk/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
+announced to accepted posters. Posters will be included in the conference proceedings on [Zenodo](https://zenodo.org/communities/usrse25).
+*Make sure to attach the PDF to your submission.*
+[Poster submission template](https://docs.google.com/document/d/1ryYqg8He6a3oHRFLfxjbz9bp4DpZn4Zk/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
 
 **For the usage of AI-Generated Text/Large language model (LLM) usage, 
 refer to the “Guidelines for Artificial Intelligence (AI)-Generated 
