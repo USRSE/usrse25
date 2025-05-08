@@ -1,3 +1,14 @@
+basic:
+  - name: "Open OnDemand"
+    url: https://openondemand.org/
+    figure: logo-open-ondemand.png
+    acronym: "OOO"
+    date_joined: 2025-04-10
+    founding_member: true
+    tier: "Basic"
+    contact: "Alan Chalker <alanc@osc.edu>"
+
+standard:
   - name: "Center for Research Computing - University of Notre Dame"
     url: https://crc.nd.edu/
     figure: logo-crc-notre.png
@@ -41,6 +52,32 @@
     date_joined: 2025-01-05
     founding_member: true
     tier: "Standard"
+  - name: "Academic Data Science Alliance"
+    url: https://academicdatascience.org/
+    figure: logo-adsa.png
+    acronym: ADSA
+    date_joined: 2025-03-10
+    founding_member: true
+    tier: "Standard"
+    contact: "Micaela Parker <micaela@academicdatascience.org>"
+  - name: "Research Software Alliance"
+    url: https://www.researchsoft.org/
+    figure: logo-resa.png
+    acronym: ReSA
+    date_joined: 2025-03-13
+    founding_member: true
+    tier: "Standard"
+    contact: "Michelle Barker <barkermd@outlook.com>"
+  - name: "Omnibond (Project EUREKA!)"
+    url: https://omnibond.com/
+    figure: logo-omnibond.png
+    acronym: 
+    date_joined: 2025-03-29
+    founding_member: true
+    tier: "Standard"
+    contact: "Boyd Wilson <boyd@omnibond.com>"
+
+premier:
   - name: "University of Illinois Urbana-Champaign"
     url: https://illinois.edu/
     figure: logo-uiuc.png
@@ -55,3 +92,27 @@
     date_joined: 2024-12-19
     founding_member: true
     tier: "Premier"
+  - name: "Princeton University"
+    url: https://researchcomputing.princeton.edu/
+    figure: logo-princeton.png                
+    acronym:
+    date_joined: 2025-04-18
+    founding_member: true
+    tier: "Premier"
+    contact: "Ian Cosden <icosden@princeton.edu>"
+  - name: "Sandia National Laboratories"
+    url: https://www.sandia.gov/
+    figure: logo-sandia.svg
+    acronym: 
+    date_joined: 2025-04-24
+    founding_member: true
+    tier: "Premier"
+    contact: "Miranda Mundt <mmundt@sandia.gov>"
+  - name: "NumFOCUS"
+    url: https://numfocus.org/
+    figure: logo-numfocus.png
+    acronym: 
+    date_joined: 2025-05-01
+    founding_member: true
+    tier: "Premier"
+    contact: "Jim Weiss <jim@numfocus.org>"
