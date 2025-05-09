@@ -120,14 +120,12 @@ their work during the conference. *Make sure to attach the PDF to your submissio
 [Talk submission template](https://docs.google.com/document/d/1qI71P2LgZzylRllHtqWLxrYyEXYtx2dm/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true). 
 
 ## Notebooks
-Notebooks are a way to share your code or analysis directly with the 
-community.  Computational notebooks should include discussion along 
-with the code and analysis.  To account for the broad variety of use 
-cases for notebooks, we are accepting submissions in three categories 
-(Jupyter, Shiny, Voila) via an online repository.  Notebooks will be 
-included in the conference proceedings on [Zenodo](https://zenodo.org/communities/usrse25).
-Authors of accepted notebooks will have approximately 15 minutes to 
-present their work during the conference. 
+
+Notebook submissions should demonstrate a computational workflow or analysis, using Jupyter Notebooks, R Markdown, or other commonly used formats. Submissions must be accessible via a public Git repository (e.g., GitHub) or a public platform (e.g., Google Colab), and must include a README that explains the purpose of the notebook and provides clear instructions for running it and reproducing the results. Be sure to include the URL in your EasyChair entry.
+
+After submission, track chairs may request additional materials or refinements to ensure reproducibility prior to review. Accepted notebooks will be included in the conference proceedings on [Zenodo](https://zenodo.org/communities/usrse25). Notebook authors will have approximately 15 minutes to present their work during the conference. 
+
+For reference, see [last year's accepted notebooks](https://us-rse.org/usrse24/program/notebooks/).
 [Notebook submission instructions](https://docs.google.com/document/d/1rOrL0u7xNgAL7vBpyVipc76zeX7VSnOf/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
 
 ## Posters
