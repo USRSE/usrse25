@@ -126,7 +126,6 @@ Notebook submissions should demonstrate a computational workflow or analysis, us
 After submission, track chairs may request additional materials or refinements to ensure reproducibility prior to review. Accepted notebooks will be included in the conference proceedings on [Zenodo](https://zenodo.org/communities/usrse25). Notebook authors will have approximately 15 minutes to present their work during the conference. 
 
 For reference, see [last year's accepted notebooks](https://us-rse.org/usrse24/program/notebooks/).
-[Notebook submission instructions](https://docs.google.com/document/d/1rOrL0u7xNgAL7vBpyVipc76zeX7VSnOf/edit?usp=sharing&ouid=110633704377428446960&rtpof=true&sd=true).
 
 ## Posters
 Posters are a chance to discuss your work with the community during 
