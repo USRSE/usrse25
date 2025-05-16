@@ -7,9 +7,13 @@ permalink: attend/register/
 set_last_modified: true
 ---
 
+**Registration will open in June 2025.**
 
-Registration will open in June 2025, and early bird registration rates will be available through at least August 20, 2025.  
+## Registration Rates
 
-Student registration rates will be available.
+* Conference registration (early): $650 through 8/20/25
+* Conference registration (late): $695
+* Student rate: $175
 
+Registration rates are inclusive of all fees.  Registration includes breakfast and lunch Monday-Wendesday, a conference dinner, and at least one reception.  
 
