@@ -24,13 +24,15 @@ Please see the [travel page](travel/) for room reservation links and more detail
 <a name="sched_overview"></a>
 ## Schedule Overview
 
+Breakfast and lunch are included with the conference registration Monday-Wednesday.  Mornings start with plenary sessions (keynote speakers, awards, US-RSE updates, and more), followed by a choice of breakout sessions the rest of the day.
+
 #### Sunday: October 5
 
 Plan to arrive on Sunday.  We'll get an early start Monday morning, and we're working on an informal registration reception on Sunday evening.
 
 #### Monday: October 6
 
-We will be starting early Monday morning with the first keynote address.  The day includes an evening activity.
+We will be starting early Monday morning with breakfast, and then the first keynote address.  The day includes an evening activity.
 
 #### Tuesday: October 7
 
