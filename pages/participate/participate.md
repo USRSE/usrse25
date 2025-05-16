@@ -49,14 +49,14 @@ Accepted abstracts will be placed on the website ahead of the conference.
 [Submissions now open on EasyChair](https://easychair.org/conferences/?conf=usrse25)
 
 Everything except Posters: 
-- Submissions due: Friday, May 16, 2025
-- Notifications sent by: July 14, 2025
-- Camera-ready versions uploaded to [Zenodo](https://zenodo.org/communities/usrse25) by: October 3, 2025
+- Submissions due: 11:59pm (anywhere on Earth), May 16, 2025
+- Notifications sent by: 11:59pm (anywhere on Earth), July 14, 2025
+- Camera-ready versions uploaded to [Zenodo](https://zenodo.org/communities/usrse25) by: 11:59pm (anywhere on Earth), October 3, 2025
  
 Posters: 
-- Submissions due: July 20, 2025
-- Notifications sent by: August 15, 2025
-- Camera-ready versions uploaded to [Zenodo](https://zenodo.org/communities/usrse25) by: October 17, 2025
+- Submissions due: 11:59pm (anywhere on Earth), July 20, 2025
+- Notifications sent by: 11:59pm (anywhere on Earth), August 15, 2025
+- Camera-ready versions uploaded to [Zenodo](https://zenodo.org/communities/usrse25) by: 11:59pm (anywhere on Earth), October 17, 2025
 
 Note that authors will receive instructions to upload their artifact to Zenodo two weeks before the deadlines via email.
 
@@ -154,13 +154,11 @@ The [Reviewers' guide](https://docs.google.com/document/d/1i1H96ZCkOqnisZDpgxw7F
 
 ## Submit
 
-All submissions except posters are due Friday, May 16, 2025 
-(anywhere on Earth).  
+All submissions except posters are due 11:59pm (anywhere on Earth), May 16, 2025.  
 
-Poster submissions are due July 20, 2025 (anywhere on Earth).
+Poster submissions are due 11:59pm (anywhere on Earth), July 20, 2025.
 
-Notifications for submissions other than posters will be sent by 
-July 14, 2025. Poster notifications will be sent by August 15, 2025.  
+Notifications for submissions other than posters will be sent by 11:59pm (anywhere on Earth), July 14, 2025. Poster notifications will be sent by 11:59pm (anywhere on Earth), August 15, 2025.  
 
 Accepted abstracts/descriptions will be published in the conference program.
 
