@@ -46,7 +46,8 @@ Accepted abstracts will be placed on the website ahead of the conference.
 
 ## Important Dates
 
-[Submissions now open on EasyChair](https://easychair.org/conferences/?conf=usrse25)
+The submission window has closed for all formats except posters.
+[Submit your poster on EasyChair](https://easychair.org/conferences/?conf=usrse25)
 
 Everything except Posters: 
 - Submissions due: 11:59pm (anywhere on Earth), May 16, 2025
@@ -162,4 +163,4 @@ Notifications for submissions other than posters will be sent by 11:59pm (anywhe
 
 Accepted abstracts/descriptions will be published in the conference program.
 
-[Submit Here](https://easychair.org/my/conference?conf=usrse25)
+[Submit Here (posters only)](https://easychair.org/my/conference?conf=usrse25)
