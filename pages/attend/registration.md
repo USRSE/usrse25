@@ -15,5 +15,5 @@ set_last_modified: true
 * Conference registration (late): $695
 * Student rate: $175
 
-Registration rates are inclusive of all fees.  Registration includes breakfast and lunch Monday-Wendesday, a conference dinner, and at least one reception.  
+Registration rates are inclusive of all fees.  Registration includes breakfast and lunch Monday-Wednesday, a conference dinner, and at least one reception.  
 
