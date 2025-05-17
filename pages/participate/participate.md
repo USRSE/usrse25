@@ -163,4 +163,4 @@ Notifications for submissions other than posters will be sent by 11:59pm (anywhe
 
 Accepted abstracts/descriptions will be published in the conference program.
 
-[Submit Here](https://easychair.org/my/conference?conf=usrse25)
+[Submit Here (posters only)](https://easychair.org/my/conference?conf=usrse25)
