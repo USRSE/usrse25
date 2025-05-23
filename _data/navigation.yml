@@ -13,7 +13,7 @@
   link: attend/
   dropdown:
     - name: Overview
-      link: attend/overview/
+      link: attend/
     - name: Hotel and Travel
       link: attend/travel/
     - name: Local Information
