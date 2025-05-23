@@ -3,7 +3,7 @@ layout: page
 title: Register
 description: 
 menubar: attend
-permalink: attend/register/
+permalink: attend/registration/
 set_last_modified: true
 ---
 
