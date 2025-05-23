@@ -13,11 +13,13 @@
   link: attend/
   dropdown:
     - name: Overview
-      link: attend/
+      link: attend/overview/
     - name: Hotel and Travel
       link: attend/travel/
+    - name: Local Information
+      link: attend/local-info/
     - name: Registration
-      link: attend/register/
+      link: attend/registration/
 - name: Sponsor
   link: sponsor/
 - name: About
