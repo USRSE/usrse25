@@ -1,0 +1,10 @@
+- label: Attend
+  items:
+    - name: Overview 
+      link: attend/
+    - name: Hotel and Travel
+      link: attend/travel/
+    - name: Local Information
+      link: attend/local-info/
+    - name: Registration
+      link: attend/registration/
