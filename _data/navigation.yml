@@ -20,6 +20,8 @@
       link: attend/local-info/
     - name: Registration
       link: attend/registration/
+    - name: Photo Policy
+      link: attend/photos/
 - name: Sponsor
   link: sponsor/
 - name: About
