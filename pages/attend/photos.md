@@ -13,7 +13,7 @@ By attending the event, you grant permission for members of the US-RSE Associati
 
 If you do not want your photograph taken, a special "no photos" lanyard will be available during the on-site event registration.  The photographer will do their best to avoid including those wearing the indicated lanyard in photographs; US-RSE will review photographs before sharing or using them and make a good faith effort to exclude those that include the face of a person clearly wearing a "no photos" lanyard and fewer than 12 people.  Those wearing "no photos" lanyards may still appear in the background of photos or photos of rooms or groups.  Posing for a photograph, even if wearing the "no photos" lanyard, indicates your consent for the photo to be used by US-RSE.
 
-While efforts will be made to honor the "no photos" lanyard, you may still appear in photographs that are used by US-RSE.  If you have concerns about the use of photos after the conference, contact contact@us-rse.org to discuss.
+While efforts will be made to honor the "no photos" lanyard, you may still appear in photographs that are used by US-RSE.  If you have concerns about the use of photos after the conference, contact <contact@us-rse.org> to discuss.
 
 Any personal headshots (optional conference activity) will be given to the subject to use in any way they desire and not published or distributed by US-RSE.
 
