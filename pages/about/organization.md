@@ -49,7 +49,6 @@ Contact the organizers: [usrse25-conference@us-rse.org](mailto:usrse25-conferenc
 ### Sponsorship
 
 * Chair: Abbey Roelofs, University of Michigan
-* Vice Chair: Kristina Riemer, University of Arizona
 
 ### Student Program
 
