@@ -7,7 +7,7 @@ permalink: attend/registration/
 set_last_modified: true
 ---
 
-**Registration will open in June 2025.**
+[Registration](https://www.eventbrite.com/e/usrse25-conference-code-practices-and-people-tickets-1406300736359) is now open!
 
 ## Registration Rates
 
