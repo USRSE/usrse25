@@ -4,13 +4,13 @@ items:
       Help make USRSE'25 a success <br>
     link: sponsor/
     link_name: Learn About Sponsorship Opportunities 
-  - title: Submission Window Closed (except posters)
+  - title: Join us in Philly
     subtitle: >
-      Accepting poster submissions through July 20th.
+      Registration is now open! <br><br>
+    link: https://us-rse.org/usrse25/attend/registration/
+    link_name: Register
+  - title: Submissions
+    subtitle: >
+      Accepting poster submissions through July 20th.<br>
     link: participate/
     link_name: Submit Your Work
-  - title: Have Questions?
-    subtitle: >
-      Contact the conference organizers <br><br>
-    link: mailto:usrse25-conference@us-rse.org
-    link_name: Get in Touch
