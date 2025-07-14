@@ -63,8 +63,8 @@ In terms of geographic representation, we expect attendees from across the Unite
   </tr>  
   <tr>
     <td class="tg-0pky" rowspan="8"><strong>Features</strong></td>
-    <td class="tg-0pky">3 Conference registrations></td>
-    <td class="tg-0pky">2 Conference registrations</p></td>
+    <td class="tg-0pky">3 Conference registrations</td>
+    <td class="tg-0pky">2 Conference registrations</td>
     <td class="tg-0pky">1 Conference registration</td>
     <td class="tg-0pky"></td>
   </tr>
