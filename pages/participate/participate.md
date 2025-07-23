@@ -11,7 +11,9 @@ set_last_modified: true
 
 ## Call for Submissions
 
-We invite submissions for USRSE'25, the third annual conference
+The submission deadlines for all tracks have passed!
+
+Join us for USRSE'25, the third annual conference
 from the United States Research Software Engineer Association 
 (US-RSE), to be held in Philadelphia, Pennsylvania, October 
 6-8, 2025. 
@@ -162,5 +164,3 @@ Poster submissions are due 11:59pm (anywhere on Earth), July 20, 2025.
 Notifications for submissions other than posters will be sent by 11:59pm (anywhere on Earth), July 14, 2025. Poster notifications will be sent by 11:59pm (anywhere on Earth), August 15, 2025.  
 
 Accepted abstracts/descriptions will be published in the conference program.
-
-[Submit Here (posters only)](https://easychair.org/my/conference?conf=usrse25)
