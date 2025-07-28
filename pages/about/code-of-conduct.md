@@ -18,7 +18,7 @@ Violations of this Code of Conduct may have consequences ranging from a verbal o
 
 Code of Conduct violations include but are not limited to the following **examples**:
 - Harassment or abuse.
-- Actions or comments that harm members of traditionally marginalized groups by reinforcing systemic oppression related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a) typicality, physical appearance, body size, age, race, ethnicity, caste, religion, or other marginalized category.
+- Actions or comments that harm participants related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a) typicality, physical appearance, body size, age, race, ethnicity, caste, religion, or other personal categories.
 - Unwanted physical contact or simulated physical contact, including inappropriate engagement in virtual spaces (e.g. textual descriptions like “*backrub*”) without consent or after a request to stop.
 - Non-consensual sexual comments or sharing of sexual material, in person or online.
 - Disruptive or persistent misgendering or use of ‘dead’ or rejected names or gender pronouns.
