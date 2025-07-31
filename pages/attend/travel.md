@@ -56,5 +56,14 @@ The daily parking rate at the hotel is $60.  There are additional parking garage
 
 ## Travel Grants
 
-We are applying for grants to support travel for some students and individual attendees, but at this time, we do not know if such funds will be available.  We will post more information as we have it.
+There is currently one program to support travel and attendance for some attendees -- please see below for information on the Building Engagement (BE) program from the Sustainable Horizons Institute (SHI). If additional programs/grants to support travel and attendance become available, we will add those below.
+
+### Sustainable Horizons Institute - Building Engagement (BE) program
+
+The BE program is designed to expand the professional association by supporting attendees from a variety of backgrounds. The application deadline is August 15, 2025.
+
+Visit SHI's [BE@US-RSE25](https://shinstitute.org/building-engagement-us-rse-2025/) for details on the application, eligibility, and key dates. If you have any questions please contact: BE@shinstitute.org
+
+<img src = "../../assets/img/SustainableHorizons_LogoV2_transparent.png" style="width:400px;height:auto;">
+
 
