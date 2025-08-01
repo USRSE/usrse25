@@ -7,8 +7,8 @@ permalink: program/
 set_last_modified: true
 ---
 
-The full conference program will be posted by August 1, 2025.  
+<i>All times listed in Eastern Time (ET) </i>
 
-An [overview of the schedule](../attend/#sched_overview) is available.
+**Please note:** the schedule below is an outline and it is still evolving. Times and room assignments may shift. Further details will be added in the coming days and weeks.
 
-You can also check out the [2024 program](https://us-rse.org/usrse24/program/) to get a sense of the types of talks to expect at the conference.
+<div style="text-align: center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSduoDFmfuBOxGGL4qFxAU4VHE0_oFc87E5t6sLxrHuuqDwB7zmI_XRA8V6fNd7YnbuYryh19y8FPZw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1350" height="2300" scrolling="no"></iframe></div>
