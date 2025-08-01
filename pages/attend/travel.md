@@ -29,7 +29,7 @@ A room block at the hotel is available for Sunday, Monday, and Tuesday nights.
 
 If the room block is full, please contact us at [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org) so we can investigate adding additional rooms.
 
-Room reservations must be made by 2025-09-12.
+**Room reservations must be made by September 12, 2025.**
 
 If you want to add additional days to your registration, please call the hotel to modify your registration (+1 215-238-6000).  If you plan to arrive Saturday, we encourage you to make your room reservation early; the hotel has indicated that they usually sell out on Saturday nights.
 
