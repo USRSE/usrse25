@@ -2,8 +2,8 @@
 layout: page
 title: Full Program timetable
 description:
-menubar: 
-permalink:
+menubar: program
+permalink: program/full_program/
 set_last_modified: true
 ---
 
