@@ -172,13 +172,14 @@ accessibility features to reproducible workflows based on
 open source tools is a key way to increase access to
 stakeholders with diverse abilities and roles within
 fisheries management.
-
+</p>
+<p>
 References
-1. Okoro, C., Hollis, N., Cyrus, A., Friffin-Blake, S.
+1. Okoro, C., Hollis, N., Cyrus, A., Griffin-Blake, S.
 (2018). Prevalence of disabilities and health care access
 by disability status and type among adults—United States,
 2016. Centers for Disease Control and Prevention.
-https://www.cdc.gov/​mmwr/​volumes/​67/​wr/​mm6732a3.htm?​s_​cid=​mm6732a3_​w.
+https://www.cdc.gov/​mmwr/​volumes/​67/​wr/​mm6732a3.htm
 2. Section 508 of the Rehabilitation Act, as amended. Pub.
 L. No. 29 U.S.C. §794d, 1973.
 3. Schiano S, Breitbart S, Saul S (2025). asar: Build NOAA
