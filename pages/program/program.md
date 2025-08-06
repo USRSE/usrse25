@@ -11,4 +11,6 @@ set_last_modified: true
 
 **Please note:** the schedule below is an outline and it is still evolving. Times and room assignments may shift. Further details will be added in the coming days and weeks.
 
+[Conference venue floorplan](https://www.marriott.com/content/dam/marriott-digital/mc/us-canada/hws/p/phlmo/en_us/floor-plan/meeting-space/assets/phlmof01.png)
+
 <div style="text-align: center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSduoDFmfuBOxGGL4qFxAU4VHE0_oFc87E5t6sLxrHuuqDwB7zmI_XRA8V6fNd7YnbuYryh19y8FPZw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1350" height="2300" scrolling="no"></iframe></div>
