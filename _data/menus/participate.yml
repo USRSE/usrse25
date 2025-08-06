@@ -1,4 +1,8 @@
 - label: Participate
   items:
+    - name: Overview
+      link: participate/
+    - name: Volunteer
+      link: participate/volunteer/
     - name: Special Issue
       link: participate/special-issue/
