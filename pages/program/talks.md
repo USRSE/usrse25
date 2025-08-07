@@ -1028,7 +1028,7 @@ Attendees will leave understanding how to identify the
 highest-leverage database technologies for their specific
 contexts, when to stick with proven solutions like
 Postgres, and how to prepare for the composable data
-systems of the future.
+systems of the future. </p>
 </div>
 </div>
 </div>
