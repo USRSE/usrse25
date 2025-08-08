@@ -62,8 +62,6 @@ There is currently one program to support travel and attendance for some attende
 
 The BE program is designed to expand the professional association by supporting attendees from a variety of backgrounds. The application for funded participants opens August 11 with a deadline of August 22. The BE program also has [opportunities for volunteers](https://us-rse.org/usrse25/participate/volunteer/).
 
-Visit Sustainable Horizon Institute's [BE@US-RSE25 page](https://shinstitute.org/building-engagement-us-rse-2025/) for details on the application, eligibility, and key dates. If you have any questions please contact: BE@shinstitute.org
+Visit Sustainable Horizons Institute's [BE@US-RSE25 page](https://shinstitute.org/building-engagement-us-rse-2025/) for details on the application, eligibility, and key dates. If you have any questions please contact: BE@shinstitute.org
 
 <img src = "../../assets/img/SustainableHorizons_LogoV2_transparent.png" style="width:400px;height:auto;">
-
-
