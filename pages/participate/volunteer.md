@@ -14,7 +14,7 @@ If you are interested in volunteering during the conference, please indicate you
 
 # BE program volunteers
 
-Under the Building Engagement (BE) program from Sustainable Horizons Institute, we are currently recruiting volunteers for these roles:
+Under the [Building Engagement (BE) program](https://shinstitute.org/building-engagement-us-rse-2025/) from Sustainable Horizons Institute, we are currently recruiting volunteers for these roles:
 
 * Guided Affinity Group Leaders: work with a small group of students to help them get the most out of the conference; must already have funding to attend the conference; for more information visit the [BE@US-RSE Guided Affinity Groups](https://shinstitute.org/guided-affinity-groups-us-rse25/) page. [Apply here by August 8](https://ssl.linklings.net/conferences/SHInstitute/).
 
