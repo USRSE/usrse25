@@ -54,12 +54,7 @@ Newark Liberty International Airport (EWR) is about 80 miles (75 to 100 minutes 
 
 The daily parking rate at the hotel is $60.  There are additional parking garages approximately a 1/2 mile from the hotel.  
 
-
-## Travel Grants
-
-There is currently one program to support travel and attendance for some attendees -- please see below for information on the Building Engagement (BE) program from the Sustainable Horizons Institute (SHI). If additional programs/grants to support travel and attendance become available, we will add those below.
-
-### Sustainable Horizons Institute - Building Engagement (BE) program
+## Sustainable Horizons Institute - Building Engagement (BE) program
 
 The BE program is designed to expand the professional association by supporting attendees from a variety of backgrounds. The application for funded participants opens August 11 with a deadline of August 22. The BE program also has [opportunities for volunteers](https://us-rse.org/usrse25/participate/volunteer/).
 
