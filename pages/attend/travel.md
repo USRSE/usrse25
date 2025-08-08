@@ -15,10 +15,11 @@ set_last_modified: true
 [Philadelphia Marriott Old City](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/) <br>
 One Dock St, Philadelphia, PA 19106
 
+The conference hotel is also the conference venue!
 
 ### Room Reservations
 
-We'd greatly appreciate you staying at the conference hotel.  Maintaining reasonable conference registration rates requires that we fill the hotel room reservation block.
+We would greatly appreciate you staying at the conference hotel.  Maintaining reasonable conference registration rates requires that we fill the hotel room reservation block.
 
 Please plan to arrive on Sunday, October 5, 2025.  The conference starts early Monday morning, and we are planning an informal networking event on Sunday evening.
 
@@ -31,9 +32,9 @@ If the room block is full, please contact us at [usrse25-conference@us-rse.org](
 
 **Room reservations must be made by September 12, 2025.**
 
-If you want to add additional days to your registration, please call the hotel to modify your registration (+1 215-238-6000).  If you plan to arrive Saturday, we encourage you to make your room reservation early; the hotel has indicated that they usually sell out on Saturday nights.
+If you want to add additional days to your registration, please call the hotel to modify your registration (+1 215-238-6000). If you plan to arrive Saturday, we encourage you to make your room reservation early; the hotel has indicated that they usually sell out on Saturday nights.
 
-We unfortunately needed to limit the room block to Sunday through Tuesday nights because we have to pay for rooms that aren't filled.
+We unfortunately needed to limit the room block to Sunday through Tuesday nights because we have to pay for rooms that are not filled.
 
 
 ## Food
@@ -45,11 +46,11 @@ Additional evening reception events with some food and drinks will also be held 
 
 ## Getting to Philadelphia
 
-The Philadelphia International Airport (PHL) is about 20 minutes/10 miles from the conference hotel.  The hotel does NOT have an airport shuttle.
+The Philadelphia International Airport (PHL) is about 20 minutes/10 miles from the conference hotel. The hotel does NOT have an airport shuttle.
 
 The Philadelphia Amtrak train station is 2.5 miles from the conference hotel. 
 
-Newark Liberty International Airport (EWR) is a little over an hour from Philadelphia.
+Newark Liberty International Airport (EWR) is about 80 miles (75 to 100 minutes by car, depending on traffic) from Philadelphia.
 
 The daily parking rate at the hotel is $60.  There are additional parking garages approximately a 1/2 mile from the hotel.  
 
