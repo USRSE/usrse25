@@ -10,7 +10,9 @@ set_last_modified: true
 
 ## Open Free Energy: An Open Source Ecosystem for Calculating Free Energies
 
-_Iván Pulido and Alyssa Travitz_
+_Alyssa Travitz, Irfan Alibay, Hannah Baumann, David Dotson,
+James Eastwood, Mike Henry, Josh Horton, Ian Kenney, Iván
+Pulido, Benjamin Ries, and David Mobley_
 
 Alchemical free energy calculations are integral to
 state-of-the-art drug discovery pipelines, yet the need for
@@ -87,7 +89,7 @@ Git ref: 1.0
 
 ## Combining TIFF, HDF5, and Zarr into a Single Image File Format
 
-_Kittisopikul and Mark Andrew_
+_Mark Kittisopikul_
 
 "Situation: There are 3 competing standards" the last card
 of a popular XKCD cartoon (#927) might read if applied to
