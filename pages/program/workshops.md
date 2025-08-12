@@ -56,25 +56,3 @@ _Karan Vahi and Mats Rynge_
 _Tisha Charles and David Luet_
 
 ------
-
-
-## Bayesian Modeling with Stan: A Hands-on Introduction
-
-_Samvardhan Vishnoi_
-
-------
-
-
-## Learning to Talk with Your Users: User Experience Research for RSEs
-
-_Johanna Cohoon, Rajshree Deshmukh, and Mary Goldman_
-
-
-------
-
-
-## Teach the Geek to Speak: Public Speaking for Technical Professionals
-
-_Neil Thompson_
-
-------
