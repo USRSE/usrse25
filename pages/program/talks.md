@@ -16,7 +16,7 @@ set_last_modified: true
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse1"
 aria-expanded="false" aria-controls="collapse1">
 "surveydown: An Open-Source, Markdown-Based Platform for
-Programmable and Reproducible Surveys", John Helveston, Pingfan Hu and Bogdan Bunea
+Programmable and Reproducible Surveys", John Helveston, Pingfan Hu, and Bogdan Bunea
 </button>
 </h5>
 </div>
@@ -451,7 +451,7 @@ steps to foster broader adoption. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse9"
 aria-expanded="false" aria-controls="collapse9">
 "Developing a Machine Learning-Augmented Solver for the
-Hydrologic Model ParFlow", Georgios Artavanis, Laura Condon, Andrew Bennett and Reed
+Hydrologic Model ParFlow", Georgios Artavanis, Laura Condon, Andrew Bennett, and Reed
 Maxwell
 </button>
 </h5>
@@ -568,8 +568,7 @@ building and sustaining these systems. </p>
 aria-expanded="false" aria-controls="collapse11">
 "A Reproducible and Scalable Pipeline for Processing
 Administrative Health Claims Data", Mahima Kaur, Shreya Nalluri, James C. Kitch, Tinashe M.
-Tapera, Jonathan Gilmour, Michelle Audirac and Danielle
-Braun
+Tapera, Jonathan Gilmour, Michelle Audirac, and Danielle Braun
 </button>
 </h5>
 </div>
@@ -702,7 +701,7 @@ invite the community to explore and contribute to Codefair. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse13"
 aria-expanded="false" aria-controls="collapse13">
 "Presenting the Actionable Guidelines for FAIR Research
-Software Task Force", Bhavesh Patel, and Daniel Garijo
+Software Task Force", Bhavesh Patel and Daniel Garijo
 </button>
 </h5>
 </div>
@@ -1098,7 +1097,7 @@ needs. </p>
 aria-expanded="false" aria-controls="collapse19">
 "Realizing a Project-Based Resource API at the Oak Ridge
 Leadership Computing Facility", Arthur Ruckman, Paul Bryant, Tyler Skluzacek, Suzanne
-Prentice, Daniel Rosendo, Clara Nguyễn and Eben Fluto
+Prentice, Daniel Rosendo, Clara Nguyễn, and Eben Fluto
 </button>
 </h5>
 </div>
@@ -1174,7 +1173,7 @@ or modularity. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse20"
 aria-expanded="false" aria-controls="collapse20">
 "dbverse: scalable scientific analytics with embedded
-analytical databases", Edward Ruiz, Jiaji Chen and Ruben Dries
+analytical databases", Edward Ruiz, Jiaji Chen, and Ruben Dries
 </button>
 </h5>
 </div>
@@ -1220,8 +1219,7 @@ scientific data analysis with databases. </p>
 aria-expanded="false" aria-controls="collapse21">
 "LLMaven: Large Language Model based Agentic Verification
 and Exploration of Natural Inquiry", Cordero Core, Vani Mandava, Andrew Connolly, David Beck,
-Don Setiawan, Nicolette Burggraf, Anant Mittal, Anshul
-Tambay and Anuj Sinha
+Don Setiawan, Nicolette Burggraf, Anant Mittal, Anshul Tambay, and Anuj Sinha
 </button>
 </h5>
 </div>
@@ -1632,6 +1630,7 @@ context in which reproducibility occurs. It treats
 reproducibility as a purely technical problem, when in
 practice, usability and other socially inflected issues are
 often limiting factors.
+
 As a research software engineer with experience designing
 reproducibility-enabling user interfaces in Jupyter
 Notebooks—and a PhD student in History and Philosophy of
@@ -1641,6 +1640,7 @@ of Reproducibility fellow to show how social and usability
 concerns shape reproducibility outcomes, and to demonstrate
 ways we can move beyond traditional experience reports that
 rely on pass/fail metrics.
+
 Both of my Summer of Reproducibility projects focused on
 the Chameleon platform—a configurable testbed for systems
 research that supports Jupyter-based workflows for
@@ -1654,6 +1654,7 @@ serve as a case study in how usability-focused design
 choices can lower barriers to reproducibility and reuse,
 particularly for scientific users navigating
 infrastructure-intensive environments.
+
 The talk will begin by unpacking limitations of
 conventional experience reports, then walk through
 surprising findings and takeaways from my fellowship
@@ -1677,7 +1678,7 @@ reliable, and collaborative. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse28"
 aria-expanded="false" aria-controls="collapse28">
 "Design Thinking for Implementation: Leveraging Design
-Systems for Sustainable and Reproducible Research Software", Leigh Fu, Emma Grisanzio and Jackson Vaughan
+Systems for Sustainable and Reproducible Research Software", Leigh Fu, Emma Grisanzio, and Jackson Vaughan
 </button>
 </h5>
 </div>

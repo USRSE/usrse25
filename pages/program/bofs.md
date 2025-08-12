@@ -8,7 +8,6 @@ menubar_toc: true
 set_last_modified: true
 ---
 
-
 ## AI in Practice - Managing Research Projects Incorporating Artificial Intelligence
 
 _David Pettifor, Daniel Madren, and Kenton McHenry_
