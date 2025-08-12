@@ -109,27 +109,19 @@ ensembles.
 _Axel Kohlmeyer and Richard Berger_
 
 We review various changes made in recent years to the
-software
-development process of the LAMMPS simulation software
-package
-and the software itself. We discuss how those
+software development process of the LAMMPS simulation software
+package and the software itself. We discuss how those
 changes have impacted the effort and workflow required to
 develop and maintain a software package that has been in
 existence for more than 30 years and where a significant
-part
-of the code base is contributed by external developers. We
-also
-look into how those changes have affected the code quality
-and
-ease of modifying and extending the software while at the
-same
-time its audience has changed from a cohort with a generally
+part of the code base is contributed by external developers. We
+also look into how those changes have affected the code quality
+and ease of modifying and extending the software while at the
+same time its audience has changed from a cohort with a generally
 strong software development background to a group containing
 many researchers with limited software development skills.
-We
-explore how this contributes to LAMMPS’ significant growth
-in
-popularity in that time. We close with an outlook on future
+We explore how this contributes to LAMMPS’ significant growth
+in popularity in that time. We close with an outlook on future
 steps.
 
 ---
@@ -143,28 +135,17 @@ outcomes of the High-Performance Computing Technologies
 (HPCT) course, a hands-on training program focused on the
 system-side of HPC cluster deployment and administration.
 Delivered as part of the Master in High Performance
-Computing
-(MHPC) program, the course introduces students to key
-concepts
-in cluster configuration, including networking, software
-stack
-provisioning, job scheduling, and monitoring. Initially
-taught in
-person, the course was transitioned to an online format
-during the
-COVID-19 pandemic. This shift led to the development of
-openly
-available instructional material and a flipped-classroom
-approach
-that continues to support both in-person and hybrid
-delivery. All
-course materials are publicly available at
-www.hpc.temple.edu/
-mhpc/hpc-technology/index.html. By documenting the
-structure,
-infrastructure, and evolution of HPCT, this paper offers a
-model
-for accessible HPC system training that supports workforce
+Computing (MHPC) program, the course introduces students to key
+concepts in cluster configuration, including networking, software
+stack provisioning, job scheduling, and monitoring. Initially
+taught in person, the course was transitioned to an online format
+during the COVID-19 pandemic. This shift led to the development of
+openly available instructional material and a flipped-classroom
+approach that continues to support both in-person and hybrid
+delivery. All course materials are publicly available at
+www.hpc.temple.edu/mhpc/hpc-technology/index.html. By documenting the
+structure, infrastructure, and evolution of HPCT, this paper offers a
+model for accessible HPC system training that supports workforce
 development in computational science.
 
 ---
@@ -232,13 +213,11 @@ Software plays an ever-increasing role in complex system
 development and prototyping, and in recent years, MIT
 Lincoln Laboratory has sought to improve both the
 effectiveness and culture surrounding software engineering
-in execution of its
-mission. The Homeland Protection and Air Traffic Control
+in execution of its mission. The Homeland Protection and Air Traffic Control
 Division conducted an internal study to examine challenges
 to effective and efficient research software development,
 and to identify ways to strengthen both the culture and
-execution for
-greater impact on our mission. Key findings of this study
+execution for greater impact on our mission. Key findings of this study
 fell into three main categories: 1 - project attributes
 that influence how software development activities must be
 conducted and managed, 2 - potential efficiencies from
@@ -248,8 +227,7 @@ delivered actionable recommendations, including
 centralizing and standardizing software support tooling,
 developing a common database to help match the right
 software talent and needs to projects, and creating a
-software stakeholder
-panel to assist with continued improvement.
+software stakeholder panel to assist with continued improvement.
 
 ---
 
@@ -296,6 +274,7 @@ multi-paper arc examining RSE repositories in a variety of
 research contexts; an arc which has previously examined RSE
 repositories in the US National Laboratory system and R1
 universities.
+
 In this work we report to the community our findings on
 these research questions: What are all the GitHub
 repositories related to US R2 and Doctoral/Professional
@@ -327,36 +306,23 @@ As research projects grow more complex and re-
 searchers use a mix of tools - command-line scripts, science
 gateways, and Jupyter notebooks - it becomes increasingly
 difficult to track exactly how a final result was produced.
-Each
-tool often keeps its own logs, making it hard to
-reconstruct the
-full sequence of computational steps. This lack of
-end-to-end
-visibility poses a serious challenge for scientific
-reproducibility.
-Yet advanced computing remains a critical part of nearly
-every
-field of academic research, and researchers continue to
-rely on
-a wide range of interfaces to run their scientific
-software. To
-address this challenge, the Advanced Computing Interfaces
-group
-at the Texas Advanced Computing Center (TACC) created a
+Each tool often keeps its own logs, making it hard to
+reconstruct thefull sequence of computational steps. This lack of
+end-to-end visibility poses a serious challenge for scientific
+reproducibility. Yet advanced computing remains a critical part of nearly
+every field of academic research, and researchers continue to
+rely on a wide range of interfaces to run their scientific
+software. To address this challenge, the Advanced Computing Interfaces
+group at the Texas Advanced Computing Center (TACC) created a
 system that collates logs from multiple sources - science
-gateways,
-Jupyter notebooks, and the Tapis platform - into one unified
+gateways, Jupyter notebooks, and the Tapis platform - into one unified
 “audit trail.” The TACC Research Audit and Integration of
 Logs (TRAIL) system allows researchers and staff to follow
-the
-complete path a dataset or file took: from the moment it was
+the complete path a dataset or file took: from the moment it was
 first uploaded to TACC, through every step of computation,
-to the
-final result. This kind of tracking helps ensure scientific
-results
-can be reproduced and gives advanced computing services
-better
-insight into how data and resources are being used.
+to the final result. This kind of tracking helps ensure scientific
+results can be reproduced and gives advanced computing services
+better insight into how data and resources are being used.
 
 ---
 
@@ -441,11 +407,10 @@ Internet-of-Things (IoT) integration. To address these
 challenges, we introduce SyncFlow, an open-source platform
 offering scalable, robust cloud infrastructure for
 automated MMLA deployments. This paper presents an
-end-to-end application of
-SyncFlow, demonstrating its integration with AI-powered
-CBLEs and illustrating its capabilities. SyncFlow bridges
-critical gaps in MMLA data collection and processing,
-supporting scalable and impactful CBLEs in real-world
-settings.
+end-to-end application of SyncFlow, demonstrating its 
+integration with AI-powered CBLEs and illustrating its 
+capabilities. SyncFlow bridges critical gaps in MMLA data 
+collection and processing, supporting scalable and impactful 
+CBLEs in real-world settings.
 
 ---
