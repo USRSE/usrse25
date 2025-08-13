@@ -9,7 +9,7 @@ set_last_modified: true
 
 ## Map of Center City Philadelphia
 
-<img src = "../../assets/img/map.png">
+<img src = "../../assets/img/map_with_arrows.png">
 
 [See the full map](https://www.visitphilly.com/wp-content/uploads/2024/04/Walking-Flat-PHLCVB-Map.pdf)
 
