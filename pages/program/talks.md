@@ -175,16 +175,20 @@ fisheries management.
 </p>
 <p>
 References
+
 1. Okoro, C., Hollis, N., Cyrus, A., Griffin-Blake, S.
 (2018). Prevalence of disabilities and health care access
 by disability status and type among adults—United States,
 2016. Centers for Disease Control and Prevention.
-https://www.cdc.gov/​mmwr/​volumes/​67/​wr/​mm6732a3.htm
+https://www.cdc.gov/mmwr/volumes/67/wr/mm6732a3.htm 
+ 
 2. Section 508 of the Rehabilitation Act, as amended. Pub.
 L. No. 29 U.S.C. §794d, 1973.
+
 3. Schiano S, Breitbart S, Saul S (2025). asar: Build NOAA
 Stock Assessment Report. R package version 1.2.0,
 https://github.com/nmfs-ost/asar.
+
 4. Schiano S, Breitbart S, Saul S (2025). stockplotr:
 Tables and Figures for Stock   Assessments. R package
 version 0.1.0, https://github.com/nmfs-ost/stockplotr. </p>
