@@ -11,7 +11,7 @@ set_last_modified: true
 
 <img src = "../../assets/img/map.png">
 
-https://www.visitphilly.com/wp-content/uploads/2024/04/Walking-Flat-PHLCVB-Map.pdf
+[See the full map](https://www.visitphilly.com/wp-content/uploads/2024/04/Walking-Flat-PHLCVB-Map.pdf)
 
 ## Transportation
 **Philadelphia International Airport (PHL)**
