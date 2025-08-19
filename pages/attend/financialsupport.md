@@ -11,7 +11,7 @@ US-RSE is providing travel support for a limited number of USRSE'25 conference a
 
 To apply for travel support, please [fill out this form](https://forms.gle/2BHm7zX78AcWmVmP7) by August 29, 2025.  Applicants will be notified of funding decisions by September 3, 2025.  
 
-The need for travel support his year is high due to changes in the national science funding landscape, and funding is limited.  We ask that you only apply for funding if you have exhausted all options from your institution or employer for support.  The application form asks about your efforts to obtain alternative funding to attend the conference.  We are unlikely to be able to provide support for everyone who applies.
+The need for travel support this year is high due to changes in the national research funding landscape, and funding is limited.  We ask that you only apply for funding if you have exhausted all options from your institution or employer for support.  The application form asks about your efforts to obtain alternative funding to attend the conference.  We are unlikely to be able to provide support for everyone who applies.
 
 Eligibility and review criteria:
 
