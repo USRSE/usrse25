@@ -20,7 +20,7 @@ September 12: [hotel registration](https://us-rse.org/usrse25/attend/travel/#:~:
 ## Registration Rates
 
 * Conference registration (early): $650 through August 20
-* Conference registration (late): $695
+* Conference registration (regular): $695
 * Student rate: $175
 
 Registration rates are inclusive of all fees.  Registration includes breakfast and lunch Monday-Wednesday, a conference dinner, and at least one reception.  
