@@ -23,7 +23,7 @@ We would greatly appreciate you staying at the conference hotel.  Maintaining re
 
 Please plan to arrive on Sunday, October 5, 2025.  The conference starts early Monday morning, and we are planning an informal networking event on Sunday evening.
 
-A room block at the hotel is available for Sunday, Monday, and Tuesday nights.  
+A room block at the hotel is available only for Sunday, Monday, and Tuesday nights. A reservation for those three nights can be made online through the links below. If you need to add Wednesday night (Oct 8), please first make your online reservation and then email Andrea Rubinstein (alrubins@princeton.edu) to get Wednesday night added. Include your Marriott reservation confirmation number in your message to Andrea.
 
 * [Regular reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661853085&key=GRP&guestreslink2=true&app=resvlink ) - $239/night + taxes
 * [Government rate reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661921114&key=GRP&guestreslink2=true&app=resvlink ) (for valid government employee travel) - $218/night + taxes
