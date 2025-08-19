@@ -59,3 +59,8 @@ The BE program is designed to expand the professional association by supporting 
 Visit Sustainable Horizons Institute's [BE@US-RSE25 page](https://shinstitute.org/building-engagement-us-rse-2025/) for details on the application, eligibility, and key dates. If you have any questions please contact: BE@shinstitute.org
 
 <img src = "../../assets/img/SustainableHorizons_LogoV2_transparent.png" style="width:400px;height:auto;">
+
+## Financial Support
+
+US-RSE is able to provide [financial support](https://us-rse.org/usrse25/attend/financialsupport/) to attend the conference to a limited number of attendees.
+
