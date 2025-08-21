@@ -12,8 +12,7 @@ set_last_modified: true
         <div class="['card-header']" id="heading0">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse0" aria-expanded="false" aria-controls="collapse0">
-                    "Teaching community scientists how to analyze iNaturalist
-data using R", Wai-Yin Kwan
+                    "Teaching community scientists how to analyze iNaturalist data using R", Wai-Yin Kwan
                 </button>
             </h5>
         </div>
@@ -59,18 +58,14 @@ workshop.
             <div class="['card-body']">
                 <p>
                     This dissertation explores the social dynamics of
-Open Source Software (OSS) communities leading up to forking
-events
+Open Source Software (OSS) communities leading up to forking events
                 </p>
                 <p>
                     It employs statistical modeling of longitudinal
-collaboration
-graphs to analyze community evolution. The research aims
+collaboration graphs to analyze community evolution. The research aims
 to identify key factors influencing forking, including
-measures
-of influence, conflict indicators, and early warning signs
-of
-community changes.
+measures of influence, conflict indicators, and early warning signs
+of community changes.
                 </p>
             </div>
         </div>
@@ -160,7 +155,7 @@ contributors or participants.
         <div class="['card-header']" id="heading3">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                    "Better Scientific Software Fellowship Program", Elsa Gonsiorowski and Adam Lavely and Mary Ann Leung
+                    "Better Scientific Software Fellowship Program", Elsa Gonsiorowski, Adam Lavely, and Mary Ann Leung
                 </button>
             </h5>
         </div>
@@ -250,8 +245,7 @@ Force.
         <div class="['card-header']" id="heading5">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                    "Steps Towards a Digital Twin for Safeguards in Nuclear
-Waste Management", Manuel Kreutle and Irmgard Niemeyer
+                    "Steps Towards a Digital Twin for Safeguards in Nuclear Waste Management", Manuel Kreutle and Irmgard Niemeyer
                 </button>
             </h5>
         </div>
@@ -321,8 +315,7 @@ engineering.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
                     "Searching Sage: AI-Powered Image Retrieval on a Nationwide
-Edge Computing Cyberinfrastructure", Francisco Lozano, Neal Conrad, Sean Shahkarami, and Peter
-Lebiedzinski and Pete Beckman
+Edge Computing Cyberinfrastructure", Francisco Lozano, Neal Conrad, Sean Shahkarami, Peter Lebiedzinski, and Pete Beckman
                 </button>
             </h5>
         </div>
@@ -369,7 +362,7 @@ decision-making
         <div class="['card-header']" id="heading7">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
-                    "Collaborative Lesson Development Training for RSEs", Sarah Stevens and Toby Hodges and Aleksandra Nenadic
+                    "Collaborative Lesson Development Training for RSEs", Sarah Stevens, Toby Hodges, and Aleksandra Nenadic
                 </button>
             </h5>
         </div>
@@ -485,8 +478,7 @@ effectively serves the needs of its users.
         <div class="['card-header']" id="heading9">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
-                    "Community Code Review in the Digital Humanities", Julia Damerow, Rebecca Sutton Koeser, and Jeffrey C. Carver and
-Malte Vogl
+                    "Community Code Review in the Digital Humanities", Julia Damerow, Rebecca Sutton Koeser, Jeffrey C. Carver, and Malte Vogl
                 </button>
             </h5>
         </div>
@@ -564,8 +556,7 @@ upholding code quality in the coming years.
         <div class="['card-header']" id="heading11">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                    "Surveying the Digital Humanities Research Software
-Engineering Landscape", Rebecca Sutton Koeser and Julia Damerow
+                    "Surveying the Digital Humanities Research Software Engineering Landscape", Rebecca Sutton Koeser and Julia Damerow
                 </button>
             </h5>
         </div>
@@ -590,7 +581,7 @@ survey.
         <div class="['card-header']" id="heading12">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                    "Testing Research Software", Nasir Eisty and Jeffrey Carver and Upulee Kanewala
+                    "Testing Research Software", Nasir Eisty, Jeffrey Carver, and Upulee Kanewala
                 </button>
             </h5>
         </div>
@@ -739,9 +730,8 @@ https://pybind11.readthedocs.io
         <div class="['card-header']" id="heading14">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                    "Ten Simple Rules for Catalyzing Collaborations and Building
-Bridges between Research Software Engineers and Software
-Engineering Researchers", Nasir Eisty, Jeffrey Carver, Johanna Cohoon, Ian Cosden, and Carole Goble and Samuel Grayson
+                    "Ten Simple Rules for Catalyzing Collaborations and Building Bridges between Research Software Engineers and Software
+Engineering Researchers", Nasir Eisty, Jeffrey Carver, Johanna Cohoon, Ian Cosden, Carole Goble, and Samuel Grayson
                 </button>
             </h5>
         </div>
@@ -824,8 +814,7 @@ productive partnerships and high quality research software.
         <div class="['card-header']" id="heading15">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                    "Recreating Old Cray Programming Environments with
-Containers for the Gaea Supercomputer", Subil Abraham and Elijah Maccarthy
+                    "Recreating Old Cray Programming Environments with Containers for the Gaea Supercomputer", Subil Abraham and Elijah Maccarthy
                 </button>
             </h5>
         </div>
@@ -908,8 +897,7 @@ found it close to native, so it is not reiterated here.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
                     "IN-CORE - Software Engineering Practices on a Large Scale
-Project", Jong Lee, Christopher Navarro, Rob Kooper, Chen Wang, and Yong
-Wook Kim and Rashmil Panchani
+Project", Jong Lee, Christopher Navarro, Rob Kooper, Chen Wang, Yong Wook Kim, and Rashmil Panchani
                 </button>
             </h5>
         </div>
@@ -974,7 +962,7 @@ processes in place can help manage this complexity.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse17" aria-expanded="false" aria-controls="collapse17">
                     "Empowering Motorcyclists: Mobile 3D Scene Reconstruction
-for Fairer Post-Incident Insurance Adjudication", Ayush Saha, Vinay Bidin, and Yawevan Mireku and Saili Karkare
+for Fairer Post-Incident Insurance Adjudication", Ayush Saha, Vinay Bidin, Yawevan Mireku, and Saili Karkare
                 </button>
             </h5>
         </div>
@@ -1052,8 +1040,7 @@ individual groups.
         <div class="['card-header']" id="heading19">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse19" aria-expanded="false" aria-controls="collapse19">
-                    "Sustainable LLMs: Compression-Driven Efficiency for Faster
-Training and Inference", Elham Barezi and Primus Kabuo
+                    "Sustainable LLMs: Compression-Driven Efficiency for Faster Training and Inference", Elham Barezi and Primus Kabuo
                 </button>
             </h5>
         </div>
@@ -1109,8 +1096,7 @@ sustainable, scalable, and widely deployable AI systems.
         <div class="['card-header']" id="heading20">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse20" aria-expanded="false" aria-controls="collapse20">
-                    "Enhancing Earth System Reproducibility Testing with False
-Discovery Rate Correction", Michael Kelleher and Salil Mahajan
+                    "Enhancing Earth System Reproducibility Testing with False Discovery Rate Correction", Michael Kelleher and Salil Mahajan
                 </button>
             </h5>
         </div>
@@ -1229,7 +1215,7 @@ fields.
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse22" aria-expanded="false" aria-controls="collapse22">
                     "Exploring the Promise and Peril of Generative AI for Usable
 Scientific GUIs", Rajshree Deshmukh, Cody O'Donnell, Johanna Cohoon, Drew
-Paine, Sarah Poon, and Dan Gunter and Lavanya Ramakrishnan
+Paine, Sarah Poon, Dan Gunter, and Lavanya Ramakrishnan
                 </button>
             </h5>
         </div>
@@ -1306,8 +1292,7 @@ scientific web applications.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse23" aria-expanded="false" aria-controls="collapse23">
                     "Trust, but Not Too Much: How Far Can LLMs Be Trusted to
-Audit Software Citations?", Ketan Bhardwaj, Robin Fievet, and Dave Brownell and Jeffery
-Young
+Audit Software Citations?", Ketan Bhardwaj, Robin Fievet, Dave Brownell, and Jeffery Young
                 </button>
             </h5>
         </div>
@@ -1342,8 +1327,7 @@ the importance of software in research publications.
         <div class="['card-header']" id="heading24">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse24" aria-expanded="false" aria-controls="collapse24">
-                    "Characterizing the Security Culture of the Research
-Software Engineering Community", Matthew Armstrong and Jeffrey Carver and Reed Milewicz
+                    "Characterizing the Security Culture of the Research Software Engineering Community", Matthew Armstrong, Jeffrey Carver, and Reed Milewicz
                 </button>
             </h5>
         </div>
@@ -1405,8 +1389,7 @@ RSEs face.
         <div class="['card-header']" id="heading25">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse25" aria-expanded="false" aria-controls="collapse25">
-                    "Teaching a semester course in GPU-centric, scalable
-scientific computing for mechanistic modeling", Pariksheet Nanda
+                    "Teaching a semester course in GPU-centric, scalable scientific computing for mechanistic modeling", Pariksheet Nanda
                 </button>
             </h5>
         </div>
@@ -1514,7 +1497,7 @@ teaching and learning endeavors.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse26" aria-expanded="false" aria-controls="collapse26">
                     "A Universal Edge-Cloud Architecture for Autonomous 3D
-Printing", Bing Zhang, Austin Lomas, Sandeep Puthanveetil Satheesan, and Matthew Berry and Ying Diao
+Printing", Bing Zhang, Austin Lomas, Sandeep Puthanveetil Satheesan, Matthew Berry, and Ying Diao
                 </button>
             </h5>
         </div>
@@ -1586,8 +1569,7 @@ platform for autonomous 3D printing.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse27" aria-expanded="false" aria-controls="collapse27">
                     "Collaboration In Scientific Software: A Systematic
-Literature Review", Olivia B. Newton, Anshu Dubey, and Denice Ward Hood and Lois
-Curfman McInnes
+Literature Review", Olivia B. Newton, Anshu Dubey, Denice Ward Hood, and Lois Curfman McInnes
                 </button>
             </h5>
         </div>
@@ -1757,8 +1739,7 @@ management.
         <div class="['card-header']" id="heading29">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse29" aria-expanded="false" aria-controls="collapse29">
-                    "Bayesian Modeling with Stan and Python: A Hands-on
-Introduction", Samvardhan Vishnoi
+                    "Bayesian Modeling with Stan and Python: A Hands-on Introduction", Samvardhan Vishnoi
                 </button>
             </h5>
         </div>
@@ -1806,8 +1787,7 @@ frameworks in everyday research workflows.
         <div class="['card-header']" id="heading30">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse30" aria-expanded="false" aria-controls="collapse30">
-                    "Dataset Integrity Done with Git (didg) – A framework for
-managing neuroscience datasets along processing phases", Roland Ferger and Jose Pena
+                    "Dataset Integrity Done with Git (didg) – A framework for managing neuroscience datasets along processing phases", Roland Ferger and Jose Pena
                 </button>
             </h5>
         </div>
@@ -1890,7 +1870,7 @@ other requirements to a minimum.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse31" aria-expanded="false" aria-controls="collapse31">
                     "Streamlining Data Publication: A Case Study in Upgrading
-DOI Services for Environmental Science", Shalki Shrivastava and Fianna O'Brien and Shalki Shrivastava
+DOI Services for Environmental Science", Shalki Shrivastava and Fianna O'Brien
                 </button>
             </h5>
         </div>
@@ -1949,8 +1929,7 @@ thoughtful RSE work across the scientific community.
         <div class="['card-header']" id="heading32">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse32" aria-expanded="false" aria-controls="collapse32">
-                    "Going Deeper: Advancing Data Discovery Through Content
-Analysis", Shalki Shrivastava
+                    "Going Deeper: Advancing Data Discovery Through Content Analysis", Shalki Shrivastava
                 </button>
             </h5>
         </div>
@@ -2042,9 +2021,7 @@ Python library for human neurophysiological data analyses.
         <div class="['card-header']" id="heading34">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse34" aria-expanded="false" aria-controls="collapse34">
-                    "RepoAuditor: A New Approach to Auditing Open Source
-Repositories", Varun Agarwal, Mathieu Tanneau, and David Brownell and Jeffrey
-Young
+                    "RepoAuditor: A New Approach to Auditing Open Source Repositories", Varun Agarwal, Mathieu Tanneau, David Brownell, and Jeffrey Young
                 </button>
             </h5>
         </div>
@@ -2106,7 +2083,7 @@ evoluation of the RepoAuditor framework.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse35" aria-expanded="false" aria-controls="collapse35">
                     "Motivations and Barriers to Contributing to Open Source
-Research Software", Valeria Inojosa and Alex Teabo and Josh de Leeuw
+Research Software", Valeria Inojosa, Alex Teabo, and Josh de Leeuw
                 </button>
             </h5>
         </div>
@@ -2187,7 +2164,7 @@ participation in open source development to their peers.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse36" aria-expanded="false" aria-controls="collapse36">
                     "Evaluating Scalability and Modularity: A Comparative Study
-of Traditional Software Architectures", Onyedikachi Kanu and Bouchaib Falah and Olamide Tawose
+of Traditional Software Architectures", Onyedikachi Kanu, Bouchaib Falah, and Olamide Tawose
                 </button>
             </h5>
         </div>
@@ -2238,7 +2215,7 @@ available resources.
         <div class="['card-header']" id="heading37">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse37" aria-expanded="false" aria-controls="collapse37">
-                    "PyEEG: Unifying Rodent EEG Analysis Pipelines", Joseph Dong and Yongtaek Oh and Eric Marsh
+                    "PyEEG: Unifying Rodent EEG Analysis Pipelines", Joseph Dong, Yongtaek Oh, and Eric Marsh
                 </button>
             </h5>
         </div>
@@ -2376,7 +2353,7 @@ that meets the demands of modern scientific research.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse39" aria-expanded="false" aria-controls="collapse39">
                     "Dual-Branch Neural Networks for Galaxy Redshift Estimation", Jacob Nowack, Srinath Saikrishnan, Vikram Seenivasan, Tuan
-Do, Bernie Boscoe, and Zhuo Chen and Chandler Campbell
+Do, Bernie Boscoe, Zhuo Chen, and Chandler Campbell
                 </button>
             </h5>
         </div>
