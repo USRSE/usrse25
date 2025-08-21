@@ -7,18 +7,20 @@ permalink: program/posters/
 menubar_toc: true
 set_last_modified: true
 ---
+
 <div id="accordion">
-    <div class="['card']">
-        <div class="['card-header']" id="heading0">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse0" aria-expanded="false" aria-controls="collapse0">
+
+<div class="card">
+<div class="card-header" id="heading0">
+<h5 class="mb-0">
+<button aria-controls="collapse0" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse0" data-toggle="collapse">
                     "Teaching community scientists how to analyze iNaturalist data using R", Wai-Yin Kwan
                 </button>
-            </h5>
-        </div>
-        <div id="collapse0" class="['collapse']" aria-labelledby="heading0" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading0" class="collapse" data-parent="#accordion" id="collapse0">
+<div class="card-body">
+<p>
                     iNaturalist is a program that encourages people to document
 the biodiversity around them using a smart phone. With 230
 million observations, iNaturalist is one of the biggest
@@ -32,7 +34,7 @@ Our goal was to teach community scientists some basic
 skills so that they could look for answers to their own
 questions
                 </p>
-                <p>
+<p>
                     We believe it is important to teach community
 scientists that their voice and questions matter. We took
 ideas from the software world, open science world, and open
@@ -43,45 +45,47 @@ second class, each attendee presented their analysis. This
 presentation will cover what we learned from teaching the
 workshop.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading1">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading1">
+<h5 class="mb-0">
+<button aria-controls="collapse1" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse1" data-toggle="collapse">
                     "Modeling Social Dynamics in Open Source Software Forking", Junaid Ahmed Iqbal
                 </button>
-            </h5>
-        </div>
-        <div id="collapse1" class="['collapse']" aria-labelledby="heading1" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading1" class="collapse" data-parent="#accordion" id="collapse1">
+<div class="card-body">
+<p>
                     This dissertation explores the social dynamics of
 Open Source Software (OSS) communities leading up to forking events
                 </p>
-                <p>
+<p>
                     It employs statistical modeling of longitudinal
 collaboration graphs to analyze community evolution. The research aims
 to identify key factors influencing forking, including
 measures of influence, conflict indicators, and early warning signs
 of community changes.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading2">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading2">
+<h5 class="mb-0">
+<button aria-controls="collapse2" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse2" data-toggle="collapse">
                     "INnovative Training Enabled by a Research Software
 Engineering ity of Trainers (INTERSECT)", Jeffrey Carver and Ian Cosden
                 </button>
-            </h5>
-        </div>
-        <div id="collapse2" class="['collapse']" aria-labelledby="heading2" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading2" class="collapse" data-parent="#accordion" id="collapse2">
+<div class="card-body">
+<p>
                     To address the lack of software development and engineering
 training for intermediate and advanced developers of
 research software, we present the NSF-sponsored INnovative
@@ -97,12 +101,12 @@ targeting research software developers
 3. Grow and deepen the connections within the national
 community of Research Software Engineers
                 </p>
-                <p>
+<p>
                     The majority of INTERSECT’s funded focus is on activities
 surrounding the development and delivery of higher-level
 specialized research software engineering training.
                 </p>
-                <p>
+<p>
                     We have conducted two INTERSECT-sponsored Research Software
 Engineering Bootcamps
 (https://intersect-training.org/bootcamp23/ and
@@ -118,15 +122,15 @@ the modules as needed (either as instructors or as
 self-guided learners) without having to participate in the
 entire bootcamp.
                 </p>
-                <p>
+<p>
                     The topics covered in the bootcamp modules were: Software
 Design, Packaging and Distribution, Working
 Collaboratively, Collaborative Git, Issue Tracking, Making
 Good Pull Requests, Documentation, Project Management,
-Licensing, Code Review & Pair Programming, Software
+Licensing, Code Review &amp; Pair Programming, Software
 Testing, and Continuous Integration/Continuous Deployment.
                 </p>
-                <p>
+<p>
                     We are organizing a third INTERSECT bootcamp in July 2025.
 We expect to again have approximately 35 attendees from a
 wide range of institutions covering a diverse set of
@@ -134,12 +138,12 @@ research areas. Because the format and content of the first
 bootcamp was well-received, we plan to follow a very
 similar format for the second workshop.
                 </p>
-                <p>
+<p>
                     We were recently notified that our renewal grant to fund
 the INTERSECT bootcamps was funded. Therefore, we will host
 4 additional annual summer bootcamps in 2026-2029.
                 </p>
-                <p>
+<p>
                     In this poster we will provide an overview of the INTERSECT
 project. We will provide more details on the content of the
 bootcamp. We will discuss outcomes of both editions of the
@@ -148,20 +152,21 @@ participant survey results, and long term objectives. We
 will also describe how people can get involved as
 contributors or participants.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading3">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading3">
+<h5 class="mb-0">
+<button aria-controls="collapse3" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse3" data-toggle="collapse">
                     "Better Scientific Software Fellowship Program", Elsa Gonsiorowski, Adam Lavely, and Mary Ann Leung
                 </button>
-            </h5>
-        </div>
-        <div id="collapse3" class="['collapse']" aria-labelledby="heading3" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading3" class="collapse" data-parent="#accordion" id="collapse3">
+<div class="card-body">
+<p>
                     Software developers face increasing complexity in
 computational models, computer architectures, and emerging
 workflows. In this environment Research Software Engineers
@@ -175,7 +180,7 @@ Program fosters and promotes practices, processes, and
 tools to improve developer productivity and software
 sustainability.
                 </p>
-                <p>
+<p>
                     Our community of BSSw Fellowship alums serve as leaders,
 mentors, and consultants, thereby increasing the visibility
 of all those involved in research software production and
@@ -190,21 +195,22 @@ community about the fellowship to build up best practices
 for productivity and sustainability, and to amplify the
 connections between research software engineers.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading4">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading4">
+<h5 class="mb-0">
+<button aria-controls="collapse4" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse4" data-toggle="collapse">
                     "Presenting the Actionable Guidelines for FAIR Research
 Software Task Force", Bhavesh Patel and Daniel Garijo
                 </button>
-            </h5>
-        </div>
-        <div id="collapse4" class="['collapse']" aria-labelledby="heading4" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading4" class="collapse" data-parent="#accordion" id="collapse4">
+<div class="card-body">
+<p>
                     The Research Software Alliance (ReSA) has established a
 Task Force dedicated to translating the FAIR Principles for
 Research Software (FAIR4RS Principles) into practical,
@@ -216,7 +222,7 @@ Task Force, formed in December 2024, brings together a
 diverse team of researchers and research software
 developers to address this gap
                 </p>
-                <p>
+<p>
                     The Task Force began by
 analyzing the FAIR4RS Principles, where it identified six
 key requirement categories: Identifiers, Metadata for
@@ -238,20 +244,21 @@ FAIR through actionable, easy-to-follow, and
 easy-to-implement guidelines being established by our Task
 Force.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading5">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading5">
+<h5 class="mb-0">
+<button aria-controls="collapse5" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse5" data-toggle="collapse">
                     "Steps Towards a Digital Twin for Safeguards in Nuclear Waste Management", Manuel Kreutle and Irmgard Niemeyer
                 </button>
-            </h5>
-        </div>
-        <div id="collapse5" class="['collapse']" aria-labelledby="heading5" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading5" class="collapse" data-parent="#accordion" id="collapse5">
+<div class="card-body">
+<p>
                     Member states of the Treaty on the Non-Proliferation of
 Nuclear Weapons that are not listed as nuclear weapons
 states are subject to international safeguards in order to
@@ -272,7 +279,7 @@ interconnected and automated. At the same time, digital
 twin concepts increasingly gain popularity in industry
 contexts while enabling technologies, e.g
                 </p>
-                <p>
+<p>
                     high-performance
 computing and machine learning, become more easily
 available.
@@ -307,21 +314,22 @@ techniques, as well as education and training, while
 aspiring to incorporate good practices of research software
 engineering.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading6">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading6">
+<h5 class="mb-0">
+<button aria-controls="collapse6" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse6" data-toggle="collapse">
                     "Searching Sage: AI-Powered Image Retrieval on a Nationwide
 Edge Computing Cyberinfrastructure", Francisco Lozano, Neal Conrad, Sean Shahkarami, Peter Lebiedzinski, and Pete Beckman
                 </button>
-            </h5>
-        </div>
-        <div id="collapse6" class="['collapse']" aria-labelledby="heading6" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading6" class="collapse" data-parent="#accordion" id="collapse6">
+<div class="card-body">
+<p>
                     The Sage project operates a national-scale distributed
 cyberinfrastructure of AI-enabled edge computing platforms
 connected to a wide range of sensors. AI algorithms running
@@ -335,7 +343,7 @@ timestamps) fall short for domain-specific retrieval at
 this scale. We present a modular, end-to-end image search
 system designed for distributed sensor networks
                 </p>
-                <p>
+<p>
                     The
 workflow integrates automated captioning (Gemma-3),
 semantic embeddings (DFN5B-CLIP), keyword indexing (BM25),
@@ -355,20 +363,21 @@ image collections by content-not just metadata-enhancing
 access to sensor data for scientific analysis and
 decision-making
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading7">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading7">
+<h5 class="mb-0">
+<button aria-controls="collapse7" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse7" data-toggle="collapse">
                     "Collaborative Lesson Development Training for RSEs", Sarah Stevens, Toby Hodges, and Aleksandra Nenadic
                 </button>
-            </h5>
-        </div>
-        <div id="collapse7" class="['collapse']" aria-labelledby="heading7" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading7" class="collapse" data-parent="#accordion" id="collapse7">
+<div class="card-body">
+<p>
                     The Carpentries is a community building global capacity in
 essential data and computational skills for conducting
 efficient, open, and reproducible research. In addition to
@@ -383,7 +392,7 @@ Software Engineering: software packaging and publication,
 environment and workflow management, containerised
 computing, etc
                 </p>
-                <p>
+<p>
                     As this curriculum community has developed,
 demand has been growing for training opportunities,
 teaching how to design and develop Open Source curriculum
@@ -405,20 +414,21 @@ will also explain how RSEs can enroll in the training, and
 give examples of lesson projects that have benefited from
 it already.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading8">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading8">
+<h5 class="mb-0">
+<button aria-controls="collapse8" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse8" data-toggle="collapse">
                     "An Easy, Automatic, Flexible Website Template for Labs", Vincent Rubinetti
                 </button>
-            </h5>
-        </div>
-        <div id="collapse8" class="['collapse']" aria-labelledby="heading8" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading8" class="collapse" data-parent="#accordion" id="collapse8">
+<div class="card-body">
+<p>
                     Research laboratories require a professional and up-to-date
 website to showcase their work, attract collaborators, and
 establish a strong online presence. However, developing and
@@ -428,7 +438,7 @@ website template specifically designed for the unique needs
 of labs, allowing lab members to focus more on research
 activities and less on web development.
                 </p>
-                <p>
+<p>
                     A critical feature of our template is its ability to
 automatically generate citations (titles, authors,
 publishing info, etc.) from simple identifiers like DOIs,
@@ -439,7 +449,7 @@ schedule, or on demand. The user chooses what sources to
 pull from and how to filter and display the resulting
 citations on their site.
                 </p>
-                <p>
+<p>
                     To reduce administrative burden and to remain accessible to
 non-technical users, we automate everything we can, not
 just citations. This includes: first time setup of the
@@ -452,7 +462,7 @@ the content of their site without wading through
 implementation details, but still enables advanced
 customization if needed.
                 </p>
-                <p>
+<p>
                     A key strength is our singular commitment to user support,
 demonstrated by consistently low issue response times and
 high successful resolution rate. We foster an environment
@@ -463,7 +473,7 @@ insufficient, we also maintain a searchable, comprehensive,
 dedicated documentation suite so users can find answers
 immediately before needing to ask for help.
                 </p>
-                <p>
+<p>
                     The success of our design and approach is evidenced by our
 template's widespread adoption, with 450+ stars on GitHub,
 350+ forks, and a growing gallery of dozens of active labs
@@ -471,24 +481,25 @@ using it. This work reflects not just a powerful software
 tool, but an evolving, open, community resource that
 effectively serves the needs of its users.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading9">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading9">
+<h5 class="mb-0">
+<button aria-controls="collapse9" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse9" data-toggle="collapse">
                     "ity Code Review in the Digital Humanities", Julia Damerow, Rebecca Sutton Koeser, Jeffrey C. Carver, and Malte Vogl
                 </button>
-            </h5>
-        </div>
-        <div id="collapse9" class="['collapse']" aria-labelledby="heading9" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading9" class="collapse" data-parent="#accordion" id="collapse9">
+<div class="card-body">
+<p>
                     The proposed poster will describe the history, process, and
 future work of the DHTech Code Review Working Group
                 </p>
-                <p>
+<p>
                     The
 working group has implemented a community code review
 process, in which volunteers from across organizations
@@ -497,21 +508,22 @@ projects. To date the group has facilitated 9 code reviews.
 The poster will present how reviews are conducted and what
 lessons have been learnt.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading10">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading10">
+<h5 class="mb-0">
+<button aria-controls="collapse10" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse10" data-toggle="collapse">
                     "Are AI code assistants making research code vulnerable to
 major errors?", Gabrielle O'Brien
                 </button>
-            </h5>
-        </div>
-        <div id="collapse10" class="['collapse']" aria-labelledby="heading10" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading10" class="collapse" data-parent="#accordion" id="collapse10">
+<div class="card-body">
+<p>
                     A new wave of programming aids powered by large language
 models (LLM) offer new
 capabilities for producing code, and tools ranging from
@@ -530,7 +542,7 @@ sparse code sharing and post-publication review practices,
 and the effect on scientific research quality could be
 substantial.
                 </p>
-                <p>
+<p>
                     This poster lays out arguments for why scientific
 programmers are at heightened risk for LLM-injected code
 errors: that (1) this population possesses risk factors for
@@ -541,7 +553,7 @@ without throwing runtime errors [6], and (3) historically,
 scientific programmers have often used informal code
 quality control measures, if any [7-8].
                 </p>
-                <p>
+<p>
                     Beyond raising an argument for why these issues should be
 taken seriously as a matter of scientific integrity, this
 poster provides a setting for collaborative brainstorming
@@ -549,45 +561,47 @@ about the unique leverage points and opportunities Research
 Software Engineers may have to proactively lead in
 upholding code quality in the coming years.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading11">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading11">
+<h5 class="mb-0">
+<button aria-controls="collapse11" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse11" data-toggle="collapse">
                     "Surveying the Digital Humanities Research Software Engineering Landscape", Rebecca Sutton Koeser and Julia Damerow
                 </button>
-            </h5>
-        </div>
-        <div id="collapse11" class="['collapse']" aria-labelledby="heading11" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading11" class="collapse" data-parent="#accordion" id="collapse11">
+<div class="card-body">
+<p>
                     In 2025, DHTech, a community of people doing technical work
 in the digital humanities, ran a survey to better
 understand who is developing code in the digital
 humanities
                 </p>
-                <p>
+<p>
                     The survey contained questions about the
 technologies DH RSEs use, their training and career path.
 We propose a poster that presents the results of that
 survey.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading12">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading12">
+<h5 class="mb-0">
+<button aria-controls="collapse12" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse12" data-toggle="collapse">
                     "Testing Research Software", Nasir Eisty, Jeffrey Carver, and Upulee Kanewala
                 </button>
-            </h5>
-        </div>
-        <div id="collapse12" class="['collapse']" aria-labelledby="heading12" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading12" class="collapse" data-parent="#accordion" id="collapse12">
+<div class="card-body">
+<p>
                     This poster describes the work presented in a published
 paper [1], which reports the results of a survey of
 research software developers. The focus of the study was to
@@ -615,7 +629,7 @@ developed for research software contain?
 - RQ9: Are demographic characteristics of research software
 projects related to the testing process?
                 </p>
-                <p>
+<p>
                     The poster will contain graphs reporting the detailed
 results related to these questions. Our overall findings
 show that research software testing varies widely. The
@@ -626,20 +640,21 @@ need to allocate more resources to software testing and
 provide more education and training to research software
 developers on software testing.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading13">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading13">
+<h5 class="mb-0">
+<button aria-controls="collapse13" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse13" data-toggle="collapse">
                     "Building Scientific Python Packages", Henry Schreiner
                 </button>
-            </h5>
-        </div>
-        <div id="collapse13" class="['collapse']" aria-labelledby="heading13" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading13" class="collapse" data-parent="#accordion" id="collapse13">
+<div class="card-body">
+<p>
                     Packaging Python code, especially for scientific
 applications, has historically been hard, with poor
 documentation, many obscure fragile hacks into a rigid
@@ -656,7 +671,7 @@ document recommendations for Python development with
 several key tools, like uv, ruff, cibuildwheel [3], and
 scikit-build-core [4].
                 </p>
-                <p>
+<p>
                     The Scientific Python Development Guide was started as a
 guide in the Scikit-HEP organization, written to facilitate
 the growing number of packages with a growing number of
@@ -676,7 +691,7 @@ days and even sometimes hours after they are announced. We
 will look at some of the recommendations, especially newer
 ones.
                 </p>
-                <p>
+<p>
                     The cookiecutter, now part of the guide as well, provides a
 fast start for users who have read the guide. It supports
 both cookiecutter and copier programs, and can be used with
@@ -687,7 +702,7 @@ versioning, and can pick between several licenses. We will
 see how easy it is to start a project with all tooling in
 place.
                 </p>
-                <p>
+<p>
                     Repo-review is a framework for writing checks for
 configuration; it is written in Python and can be run using
 WebAssembly. The sp-repo-review plugin contains all the
@@ -696,7 +711,7 @@ user to the badge in the guide for each check. Some
 projects, like AstroPy, have added this to their CI, though
 it can be used entirely from the guide’s website.
                 </p>
-                <p>
+<p>
                     A dedicated section on binary package will include
 scikit-build-core, the native build backend that can adapt
 CMake projects into Python wheels. When combined with
@@ -709,7 +724,7 @@ major platforms, and even WebAssembly, iOS, and Android, is
 easy. All the required code to get started can easily be
 shown on a poster.
                 </p>
-                <p>
+<p>
                     References
 1. The Scientific Python Development Guide, Henry
 Schreiner, et. al, June 2023. Retrieved 2025-7-17
@@ -723,21 +738,22 @@ https://scikit-build-core.readthedocs.io
 6. pybind11, Wenzel Jakob, Henry Schreiner, et. al, 2017.
 https://pybind11.readthedocs.io
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading14">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading14">
+<h5 class="mb-0">
+<button aria-controls="collapse14" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse14" data-toggle="collapse">
                     "Ten Simple Rules for Catalyzing Collaborations and Building Bridges between Research Software Engineers and Software
 Engineering Researchers", Nasir Eisty, Jeffrey Carver, Johanna Cohoon, Ian Cosden, Carole Goble, and Samuel Grayson
                 </button>
-            </h5>
-        </div>
-        <div id="collapse14" class="['collapse']" aria-labelledby="heading14" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading14" class="collapse" data-parent="#accordion" id="collapse14">
+<div class="card-body">
+<p>
                     Science thrives when researchers and software engineers
 share their expertise. As scholarship  across disciplines
 becomes more dependent on computational methods, effective
@@ -752,7 +768,7 @@ communities. We very recently published these rules in a
 longer paper [5]; this poster summarizes the key elements
 to foster and encourage future RSE-SER collaborations.
                 </p>
-                <p>
+<p>
                     RSEs are deeply embedded in research contexts, often
 balancing software development with domain-specific
 knowledge. They focus on creating software to meet evolving
@@ -807,20 +823,21 @@ Recognizing the distinct cultures, priorities, and
 workflows of RSEs and SERs is fundamental to building
 productive partnerships and high quality research software.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading15">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading15">
+<h5 class="mb-0">
+<button aria-controls="collapse15" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse15" data-toggle="collapse">
                     "Recreating Old Cray Programming Environments with Containers for the Gaea Supercomputer", Subil Abraham and Elijah Maccarthy
                 </button>
-            </h5>
-        </div>
-        <div id="collapse15" class="['collapse']" aria-labelledby="heading15" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading15" class="collapse" data-parent="#accordion" id="collapse15">
+<div class="card-body">
+<p>
                     The Oak Ridge National Laboratory, in partnership with
 NOAA, manages the Gaea supercomputer, an HPE Cray EX 3000
 machine with an aggregate peak performance of 20 petaflops,
@@ -854,7 +871,7 @@ Intel 2022.2.1 which provided the icc 2021.7.1 compiler on
 Gaea was scheduled to be removed and replaced with an
 upgraded CPE
                 </p>
-                <p>
+<p>
                     Since there was no 23.03 container, we had to
 rely on a 23.09 CPE container and significantly modify it
 to produce a container with the 23.03 programming
@@ -889,21 +906,22 @@ Previous papers [6,7,8,9] have covered container
 performance for high performance computing workloads and
 found it close to native, so it is not reiterated here.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading16">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading16">
+<h5 class="mb-0">
+<button aria-controls="collapse16" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse16" data-toggle="collapse">
                     "IN-CORE - Software Engineering Practices on a Large Scale
 Project", Jong Lee, Christopher Navarro, Rob Kooper, Chen Wang, Yong Wook Kim, and Rashmil Panchani
                 </button>
-            </h5>
-        </div>
-        <div id="collapse16" class="['collapse']" aria-labelledby="heading16" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading16" class="collapse" data-parent="#accordion" id="collapse16">
+<div class="card-body">
+<p>
                     The Interdependent Networked ity Resilience Modeling
 Environment (IN-CORE) is a state-of-the-art computational
 environment developed by the NIST Center of Excellence for
@@ -933,7 +951,7 @@ developed a process for managing the intake of new models
 from researchers that is dependent on where the researcher
 is in their development process
                 </p>
-                <p>
+<p>
                     For the case where a
 researcher has code that is ready, they can submit it for
 review by a research software engineer (RSE). An RSE is
@@ -954,27 +972,28 @@ The software development life cycle is more complex on
 larger projects with many moving parts. Having good
 processes in place can help manage this complexity.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading17">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse17" aria-expanded="false" aria-controls="collapse17">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading17">
+<h5 class="mb-0">
+<button aria-controls="collapse17" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse17" data-toggle="collapse">
                     "Empowering Motorcyclists: Mobile 3D Scene Reconstruction
 for Fairer Post-Incident Insurance Adjudication", Ayush Saha, Vinay Bidin, Yawevan Mireku, and Saili Karkare
                 </button>
-            </h5>
-        </div>
-        <div id="collapse17" class="['collapse']" aria-labelledby="heading17" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading17" class="collapse" data-parent="#accordion" id="collapse17">
+<div class="card-body">
+<p>
                     Motorcyclists are often unfairly blamed in insurance claims
 after crashes. Investigations can take a long time, and a
 lack of evidence or the influence of stereotypes can lead
 to incorrect judgments
                 </p>
-                <p>
+<p>
                     Our mobile app helps motorcyclists
 capture accurate 3D reconstructions of crash scenes using
 their phones. These 3D models can be shown to insurance
@@ -983,25 +1002,26 @@ happened. The goal is to make the claims process more fair
 by offering better visual evidence and reducing bias
 against riders.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading18">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse18" aria-expanded="false" aria-controls="collapse18">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading18">
+<h5 class="mb-0">
+<button aria-controls="collapse18" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse18" data-toggle="collapse">
                     "Reconstruction and Analysis of 3D Tissue Volumes in the
 CODA Project", Margaret Eminizer and Tyler Newton
                 </button>
-            </h5>
-        </div>
-        <div id="collapse18" class="['collapse']" aria-labelledby="heading18" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading18" class="collapse" data-parent="#accordion" id="collapse18">
+<div class="card-body">
+<p>
                     CODA [1] is a data analysis and machine learning pipeline
 originally developed by the Kieman Lab at Johns Hopkins
 University and now enhanced through collaboration with the
-Johns Hopkins Data Science & AI Institute (JH-DSAI). CODA
+Johns Hopkins Data Science &amp; AI Institute (JH-DSAI). CODA
 uses classical image analysis to reconstruct 3D volumes of
 biological tissue samples at cellular resolution from sets
 of serially-sectioned multimodal microscopy images. It
@@ -1011,7 +1031,7 @@ cellular and tissue microstructures, facilitating novel
 spatial and volumetric analyses of disease pathology in
 situ
                 </p>
-                <p>
+<p>
                     Analyses of tissue volumes generated using the CODA
 framework have made impacts in understanding tumorigenesis
 in pancreatic cancer [1, 2, 3, 4], and integration of
@@ -1033,20 +1053,21 @@ development, and manage their lifecycles to allow new
 collaborators and communities to benefit from the work of
 individual groups.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading19">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse19" aria-expanded="false" aria-controls="collapse19">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading19">
+<h5 class="mb-0">
+<button aria-controls="collapse19" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse19" data-toggle="collapse">
                     "Sustainable LLMs: Compression-Driven Efficiency for Faster Training and Inference", Elham Barezi and Primus Kabuo
                 </button>
-            </h5>
-        </div>
-        <div id="collapse19" class="['collapse']" aria-labelledby="heading19" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading19" class="collapse" data-parent="#accordion" id="collapse19">
+<div class="card-body">
+<p>
                     Large language models (LLMs) with billions of parameters
 present substantial challenges in terms of memory,
 computation, and energy requirements. Their scale often
@@ -1057,7 +1078,7 @@ hinder their usability in real-time, on-device
 applications, such as home security systems requiring
 immediate threat detection.
                 </p>
-                <p>
+<p>
                     While training a large language model is a
 resource-intensive, one-time process, the operational costs
 of inference—the repeated running of the model to serve
@@ -1077,7 +1098,7 @@ sources. This ongoing operational burden is a critical
 factor in the overall environmental and economic impact of
 LLM deployment.
                 </p>
-                <p>
+<p>
                     To address these issues, model compression techniques such
 as pruning, quantization, distillation, and factorization
 have been proposed. These methods aim to reduce model size
@@ -1089,20 +1110,21 @@ by enabling advanced AI capabilities on low-power and edge
 devices. These advancements are essential for building
 sustainable, scalable, and widely deployable AI systems.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading20">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse20" aria-expanded="false" aria-controls="collapse20">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading20">
+<h5 class="mb-0">
+<button aria-controls="collapse20" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse20" data-toggle="collapse">
                     "Enhancing Earth System Reproducibility Testing with False Discovery Rate Correction", Michael Kelleher and Salil Mahajan
                 </button>
-            </h5>
-        </div>
-        <div id="collapse20" class="['collapse']" aria-labelledby="heading20" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading20" class="collapse" data-parent="#accordion" id="collapse20">
+<div class="card-body">
+<p>
                     Simulating the Earth's climate is an important and complex
 problem, thus Earth system models are similarly complex,
 comprising millions of lines of code. In order to
@@ -1126,7 +1148,7 @@ across the two simulation ensembles and uses a false
 discovery rate correction (Benjamini and Hochberg, 1995) to
 account for multiple simultaneous testing
                 </p>
-                <p>
+<p>
                     The false
 positive rates of the test are examined using re-sampling
 techniques on large simulation ensembles and are found to
@@ -1140,21 +1162,22 @@ greater statistical power than the current approach, being
 able to detect smaller changes in parameter values with
 higher confidence.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading21">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse21" aria-expanded="false" aria-controls="collapse21">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading21">
+<h5 class="mb-0">
+<button aria-controls="collapse21" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse21" data-toggle="collapse">
                     "paleopal: a highly interactive Shiny app for building
 reproducible data science workflows in paleontology", William Gearty
                 </button>
-            </h5>
-        </div>
-        <div id="collapse21" class="['collapse']" aria-labelledby="heading21" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading21" class="collapse" data-parent="#accordion" id="collapse21">
+<div class="card-body">
+<p>
                     The field of computational paleontology is rapidly
 advancing with many recently developed open-source R
 packages leading the charge for more standardized,
@@ -1177,7 +1200,7 @@ open-source Shiny app, paleopal
 user-friendly interface to build paleontological data
 science workflows without any programming knowledge
                 </p>
-                <p>
+<p>
                     The
 app connects existing paleontological R packages such as
 palaeoverse1 and deeptime2 with the tidyverse3 suite of R
@@ -1206,22 +1229,23 @@ paleopal makes it easy to add further curated workflow
 used to create similar shiny apps for other scientific
 fields.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading22">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse22" aria-expanded="false" aria-controls="collapse22">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading22">
+<h5 class="mb-0">
+<button aria-controls="collapse22" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse22" data-toggle="collapse">
                     "Exploring the Promise and Peril of Generative AI for Usable
 Scientific GUIs", Rajshree Deshmukh, Cody O'Donnell, Johanna Cohoon, Drew
 Paine, Sarah Poon, Dan Gunter, and Lavanya Ramakrishnan
                 </button>
-            </h5>
-        </div>
-        <div id="collapse22" class="['collapse']" aria-labelledby="heading22" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading22" class="collapse" data-parent="#accordion" id="collapse22">
+<div class="card-body">
+<p>
                     Generative AI tools are rapidly impacting software
 development practices including the development of
 graphical user interfaces (GUI). These coding and design
@@ -1240,7 +1264,7 @@ be connected to a developer’s pre-existing application.
 However, the question is whether this approach will truly
 be able to help produce usable and meaningful GUIs.
                 </p>
-                <p>
+<p>
                     RSEs often do not have substantial training in user
 experience design and usability evaluation work. It is
 essential that RSEs leveraging AI tools to create UIs have
@@ -1254,7 +1278,7 @@ is investigating the effectiveness of various AI tools to
 generate deployable prototypes for scientific research web
 applications.
                 </p>
-                <p>
+<p>
                     Upon initial exploration, we find that while AI tools can
 generate useful ideas and prototypes, they often require
 significant refinement, revision and expertise to generate
@@ -1274,7 +1298,7 @@ template is a  much-needed way to incorporate user
 experience expertise in the loop while leveraging AI tools
 to generate UI flows and patterns.
                 </p>
-                <p>
+<p>
                     Our initial work explores the implications of AI
 tool-generation on the usability, development, and long
 term maintenance of the GUIs, but it is clear this will be
@@ -1284,21 +1308,22 @@ community to delve into the grand promises and likely
 perils of generative AI tools for building usable
 scientific web applications.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading23">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse23" aria-expanded="false" aria-controls="collapse23">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading23">
+<h5 class="mb-0">
+<button aria-controls="collapse23" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse23" data-toggle="collapse">
                     "Trust, but Not Too Much: How Far Can LLMs Be Trusted to
 Audit Software Citations?", Ketan Bhardwaj, Robin Fievet, Dave Brownell, and Jeffery Young
                 </button>
-            </h5>
-        </div>
-        <div id="collapse23" class="['collapse']" aria-labelledby="heading23" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading23" class="collapse" data-parent="#accordion" id="collapse23">
+<div class="card-body">
+<p>
                     Large Language Models (LLMs) offer new possibilities for
 augmenting scholarly document analysis, including
 automating the extraction and verification of software
@@ -1311,7 +1336,7 @@ trustworthiness of LLM-driven bibliographic tools,
 especially for tasks with high semantic precision like
 software citation tracking.
                 </p>
-                <p>
+<p>
                     In this poster, we will present the SoftciteAuditor tool we
 built to extract software mentions and their use in
 research papers which may or may not be properly cited. The
@@ -1320,20 +1345,21 @@ analysis of a paper and suggest missed software citations
 with a hope of ensuring proper attribution and highlighting
 the importance of software in research publications.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading24">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse24" aria-expanded="false" aria-controls="collapse24">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading24">
+<h5 class="mb-0">
+<button aria-controls="collapse24" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse24" data-toggle="collapse">
                     "Characterizing the Security Culture of the Research Software Engineering ity", Matthew Armstrong, Jeffrey Carver, and Reed Milewicz
                 </button>
-            </h5>
-        </div>
-        <div id="collapse24" class="['collapse']" aria-labelledby="heading24" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading24" class="collapse" data-parent="#accordion" id="collapse24">
+<div class="card-body">
+<p>
                     The growing importance of research software heightens
 concerns about research software security, which will only
 intensify if not proactively addressed. Before any specific
@@ -1345,7 +1371,7 @@ culture within a group of people is not a new concept or
 research topic, to our knowledge, no security culture
 research has taken place within the RSE community.
                 </p>
-                <p>
+<p>
                     In this study, we aim to characterize the security culture
 of the RSE community by replicating a prior work performed
 in the open-source software space [3]. To broaden our
@@ -1361,7 +1387,7 @@ gauge RSE interest in participating in security efforts and
 motivate future security research in the research software
 domain.
                 </p>
-                <p>
+<p>
                     Ultimately, we surveyed 104 members of the RSE community,
 including both those in the US and Germany. To characterize
 RSE security culture, we ask the following research
@@ -1372,7 +1398,7 @@ with the Open-Source ity’s security culture?
 RQ3: What is the perception among RSE community members on
 adopting threat modeling during development?
                 </p>
-                <p>
+<p>
                     The primary contributions of this study are: 1) A novel
 characterization of the RSE community’s security culture,
 2) an empirical comparison of the security culture of RSEs
@@ -1382,20 +1408,21 @@ study is a first step toward tailoring “shift-left”
 security principles to address the unique challenges that
 RSEs face.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading25">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse25" aria-expanded="false" aria-controls="collapse25">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading25">
+<h5 class="mb-0">
+<button aria-controls="collapse25" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse25" data-toggle="collapse">
                     "Teaching a semester course in GPU-centric, scalable scientific computing for mechanistic modeling", Pariksheet Nanda
                 </button>
-            </h5>
-        </div>
-        <div id="collapse25" class="['collapse']" aria-labelledby="heading25" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading25" class="collapse" data-parent="#accordion" id="collapse25">
+<div class="card-body">
+<p>
                     Graphical Processing Units (GPUs) are now integrated into
 the worlds fastest supercomputers to solve the most
 computationally difficult, mechanistic scientific problems
@@ -1421,7 +1448,7 @@ discusses the unique challenges of semester-long training
 and course infrastructure to cross-train domain scientists
 as research software engineers.
                 </p>
-                <p>
+<p>
                     The course is architected around solving a real-world
 research problem with a faculty mentor as a capstone
 project and is tailored to undergraduate students,
@@ -1442,7 +1469,7 @@ grant work of faculty, postdoctoral trainees, and graduate
 students; this intent is similar to introductory grant
 writing classes.
                 </p>
-                <p>
+<p>
                     The course is organized into three phases. The first phase
 is a crash-course covering efficient within-node,
 multi-node, and data parallel GPU programming; this
@@ -1461,7 +1488,7 @@ project, doing deeper dives into topics of interest to the
 cohort, and for progress reports and final presentations of
 individual capstone projects.
                 </p>
-                <p>
+<p>
                     As this course is still being developed, invaluable
 feedback from the USRSE community about their teaching,
 learning, and pedagogical experiences would help make it an
@@ -1489,21 +1516,22 @@ poster discussion and feedback from the USRSE community can
 help make this course a success and support similar
 teaching and learning endeavors.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading26">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse26" aria-expanded="false" aria-controls="collapse26">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading26">
+<h5 class="mb-0">
+<button aria-controls="collapse26" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse26" data-toggle="collapse">
                     "A Universal Edge-Cloud Architecture for Autonomous 3D
 Printing", Bing Zhang, Austin Lomas, Sandeep Puthanveetil Satheesan, Matthew Berry, and Ying Diao
                 </button>
-            </h5>
-        </div>
-        <div id="collapse26" class="['collapse']" aria-labelledby="heading26" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading26" class="collapse" data-parent="#accordion" id="collapse26">
+<div class="card-body">
+<p>
                     As 3D printing moves toward full autonomy, the need for a
 universal, scalable, and intelligent architecture becomes
 increasingly critical. Modern additive manufacturing faces
@@ -1517,7 +1545,7 @@ intelligent control framework capable of integrating
 diverse printer hardware, automating parameter
 optimization, and managing experimental data at scale.
                 </p>
-                <p>
+<p>
                     Our work presents a novel universal edge-cloud architecture
 that combines edge-side hardware adaptors with a
 cloud-based backend to support real-time control,
@@ -1545,7 +1573,7 @@ printers running different configurations. The system
 exchanges messages with 3D printers via a custom-developed
 edge adaptor deployed to the near printers.
                 </p>
-                <p>
+<p>
                     We validate the system through an application in structural
 color 3D printing, focusing on the relationship between
 color properties—represented in the HSV color space—and key
@@ -1561,21 +1589,22 @@ reproducible experimentation across a wide range of
 hardware, demonstrating its potential as a universal
 platform for autonomous 3D printing.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading27">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse27" aria-expanded="false" aria-controls="collapse27">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading27">
+<h5 class="mb-0">
+<button aria-controls="collapse27" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse27" data-toggle="collapse">
                     "Collaboration In Scientific Software: A Systematic
 Literature Review", Olivia B. Newton, Anshu Dubey, Denice Ward Hood, and Lois Curfman McInnes
                 </button>
-            </h5>
-        </div>
-        <div id="collapse27" class="['collapse']" aria-labelledby="heading27" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading27" class="collapse" data-parent="#accordion" id="collapse27">
+<div class="card-body">
+<p>
                     The development and use of scientific software often
 entails collaborative work within and across teams.
 Understanding how such teams collaborate in addition to
@@ -1616,7 +1645,7 @@ collaboration in scientific software aimed at enhancing
 both teamwork and software, with emphasis on team roles,
 cross-disciplinary requirements, and generative AI.
                 </p>
-                <p>
+<p>
                     References
 [1] M. Heroux et al., “Basic Research Needs in The Science
 of Scientific Software Development and Use: Investment in
@@ -1625,7 +1654,7 @@ Department of Energy, Advanced Scientific Computing
 Research, Workshop, Aug. 2023. doi: 10.2172/1846009.
 [2] B. Kitchenham and S. Charters, “Guidelines for
 performing systematic literature reviews in software
-engineering,” Keele University & University of Durham,
+engineering,” Keele University &amp; University of Durham,
 Keele, UK, Technical Report EBSE-2007-01, 2007.
 [3] C. Wohlin, “Guidelines for snowballing in systematic
 literature studies and a replication in software
@@ -1639,21 +1668,22 @@ A.-L. Lamprecht, and B. Rumpe, “Investigating Research
 Software Engineering: Toward RSE Research,” Commun. ACM,
 vol. 68, no. 2, pp. 20–23, Feb. 2025, doi: 10.1145/3685265.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading28">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse28" aria-expanded="false" aria-controls="collapse28">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading28">
+<h5 class="mb-0">
+<button aria-controls="collapse28" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse28" data-toggle="collapse">
                     "Research Computing Accounting Management System (RCAMS): An
 Inner-Source Code Built with Open-Source Best Practices", Devin Fromond and Fang Liu
                 </button>
-            </h5>
-        </div>
-        <div id="collapse28" class="['collapse']" aria-labelledby="heading28" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading28" class="collapse" data-parent="#accordion" id="collapse28">
+<div class="card-body">
+<p>
                     Research computing centers need flexible accounting systems
 to track consumption of compute and storage resources under
 a cost model that allows researchers (or their groups) to
@@ -1673,31 +1703,31 @@ System (RCAMS), an open‑source Python platform engineered
 from first principles with contemporary software design
 best practices [Figure 1].
                 </p>
-                <p>
+<p>
                     RCAMS features a maintainable, three‑layer architecture
 shown [Figure 2]:
                 </p>
-                <p>
+<p>
                     1. Domain Layer: Uses SQLAlchemy ORM to represent core
 entities (accounts, funds, resources, organizations,
 owners) with built‑in data integrity checks and a full
 audit‑logging subsystem that records every change to the
 database.
                 </p>
-                <p>
+<p>
                     2. Operations Layer: Implements generic CRUD operations via
 a flat inheritance model centered on _OperationBase[T],
 where T is the domain entity [2]. This approach avoids deep
 class hierarchies and simplifies maintenance.
                 </p>
-                <p>
+<p>
                     3. CLI Front‑End: Inspired by Git’s user experience, the
 rcams command exposes subcommands for each entity (e.g.,
 rcams account add-storage, and rcams fund
 get-spending-history), ensuring discoverability and
 consistency.
                 </p>
-                <p>
+<p>
                     To optimize performance—especially when auditing hundreds
 of thousands of records—RCAMS isolates each entity’s
 operations and CLI handlers into separate modules. This
@@ -1705,7 +1735,7 @@ compartmentalization reduces import overhead and
 facilitates parallel development by multiple Research
 Software Engineers (RSEs) with minimal merge conflicts.
                 </p>
-                <p>
+<p>
                     Quality is enforced through a comprehensive CI/CD pipeline
 in GitHub Actions: linting with Ruff [3], static‑typing
 validation with mypy [4], over 95 % test coverage via
@@ -1715,7 +1745,7 @@ GitHub Projects Kanban Board. Together, these practices
 ensure that every release is reliable, well‑documented, and
 immediately deployable.
                 </p>
-                <p>
+<p>
                     RCAMS is well documented with contributor guidelines, which
 allows efficient onboarding for the new team members;
 modular design increases the parallelism in the
@@ -1725,27 +1755,28 @@ quality; internal team working group forms a governance
 unit which decides the feature changs and policy
 enforcement.
                 </p>
-                <p>
+<p>
                     By combining modular design, performance‑optimized
 architecture, and fully automated development of workflows,
 RCAMS empowers institutions to tailor their accounting
 processes, enhance transparency, and streamline resource
 management.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading29">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse29" aria-expanded="false" aria-controls="collapse29">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading29">
+<h5 class="mb-0">
+<button aria-controls="collapse29" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse29" data-toggle="collapse">
                     "Bayesian Modeling with Stan and Python: A Hands-on Introduction", Samvardhan Vishnoi
                 </button>
-            </h5>
-        </div>
-        <div id="collapse29" class="['collapse']" aria-labelledby="heading29" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading29" class="collapse" data-parent="#accordion" id="collapse29">
+<div class="card-body">
+<p>
                     Bayesian methods provide a principled framework for
 modeling uncertainty, yet they remain underutilized across
 much of research computing due to perceived mathematical or
@@ -1758,7 +1789,7 @@ The project centers around a hands-on, interactive Google
 Colab notebook that introduces Bayesian regression using
 the `cmdstanpy` interface to Stan
                 </p>
-                <p>
+<p>
                     The notebook includes
 hierarchical modeling examples, diagnostic tools (e.g.,
 R-hat, ESS, trace plots), and comparative outputs between
@@ -1780,20 +1811,21 @@ community by promoting statistical literacy,
 reproducibility, and the adoption of robust modeling
 frameworks in everyday research workflows.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading30">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse30" aria-expanded="false" aria-controls="collapse30">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading30">
+<h5 class="mb-0">
+<button aria-controls="collapse30" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse30" data-toggle="collapse">
                     "Dataset Integrity Done with Git (didg) – A framework for managing neuroscience datasets along processing phases", Roland Ferger and Jose Pena
                 </button>
-            </h5>
-        </div>
-        <div id="collapse30" class="['collapse']" aria-labelledby="heading30" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading30" class="collapse" data-parent="#accordion" id="collapse30">
+<div class="card-body">
+<p>
                     Modern neuroscience, among others, produces increasing
 amounts of raw data, e.g. from multi-channel
 electrophysiology or functional imaging. These data often
@@ -1824,7 +1856,7 @@ infrastructure or people managing it, and instead rely on
 whatever their institution provides, which could be as
 basic as a network file share.
                 </p>
-                <p>
+<p>
                     We propose a convention-driven framework to leverage
 well-established software tools, namely Git [1] and Git LFS
 [2] (large file storage) to solve the outlined challenges.
@@ -1850,7 +1882,7 @@ and easy-to-use companion for neuroscience labs to manage
 the processing flow and integrity in a world of increasing
 data volumes.
                 </p>
-                <p>
+<p>
                     One of the main motivations of this kind of
 convention-driven framework is the independence of
 additional tools (besides Git, which should be in
@@ -1862,21 +1894,22 @@ manual and semi-manual steps within the same traceable
 analysis pipeline, all while keeping local hardware and
 other requirements to a minimum.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading31">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse31" aria-expanded="false" aria-controls="collapse31">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading31">
+<h5 class="mb-0">
+<button aria-controls="collapse31" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse31" data-toggle="collapse">
                     "Streamlining Data Publication: A Case Study in Upgrading
 DOI Services for Environmental Science", Shalki Shrivastava and Fianna O'Brien
                 </button>
-            </h5>
-        </div>
-        <div id="collapse31" class="['collapse']" aria-labelledby="heading31" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading31" class="collapse" data-parent="#accordion" id="collapse31">
+<div class="card-body">
+<p>
                     In today’s data-driven research landscape, ensuring that
 datasets are discoverable, reproducible, and properly
 attributed is essential. Assigning a Digital Object
@@ -1885,7 +1918,7 @@ with a unique and persistent identifier, empowering
 researchers to cite and link data with confidence and
 amplifying the impact of scientific research.
                 </p>
-                <p>
+<p>
                     The Environmental System Science Data Infrastructure for a
 Virtual Ecosystem (ESS-DIVE) data repository stores diverse
 Earth and environmental science data generated by projects
@@ -1913,7 +1946,7 @@ advancing the underlying Metacat platform, which is used by
 many other DataONE projects as well, thus positively
 impacting the larger research community.
                 </p>
-                <p>
+<p>
                     This modernization effort demonstrates how RSEs can
 successfully navigate complex collaborations while
 maintaining service continuity. Through this process, we
@@ -1922,20 +1955,21 @@ broader research infrastructure through Metacat platform
 improvements, showcasing the multiplier effect of
 thoughtful RSE work across the scientific community.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading32">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse32" aria-expanded="false" aria-controls="collapse32">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading32">
+<h5 class="mb-0">
+<button aria-controls="collapse32" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse32" data-toggle="collapse">
                     "Going Deeper: Advancing Data Discovery Through Content Analysis", Shalki Shrivastava
                 </button>
-            </h5>
-        </div>
-        <div id="collapse32" class="['collapse']" aria-labelledby="heading32" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading32" class="collapse" data-parent="#accordion" id="collapse32">
+<div class="card-body">
+<p>
                     Efficient discovery of relevant data for scientific
 applications is a major challenge for researchers. This is
 particularly compounded for general purpose data
@@ -1951,7 +1985,7 @@ metadata provided by users, there was a need to discover
 data based on the file contents given the vast numbers of
 files archived within the datasets.
                 </p>
-                <p>
+<p>
                     To address this issue, we developed a fusion database
 (FusionDB) that enables a deeper search of the metadata
 within the files of each dataset. FusionDB transforms this
@@ -1960,7 +1994,7 @@ indexing the actual parameters within each file, like
 location coordinates, time ranges, and measurement types,
 making them searchable and filterable.
                 </p>
-                <p>
+<p>
                     The core engineering insight was recognizing that metadata
 tells you what researchers think their data contains, but
 automated content analysis reveals what it actually
@@ -1973,7 +2007,7 @@ approach will create a positive feedback loop where better
 tooling encourages better data practices, with the
 potential to raise standards across the entire community.
                 </p>
-                <p>
+<p>
                     For fellow RSEs, FusionDB demonstrates how solving one
 community's pain point can catalyze systemic change. By
 automating the tedious work, we didn't just save time, we
@@ -1984,28 +2018,29 @@ isn't about building new capabilities, but about removing
 friction from existing workflows at exactly the right point
 in the process.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading33">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse33" aria-expanded="false" aria-controls="collapse33">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading33">
+<h5 class="mb-0">
+<button aria-controls="collapse33" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse33" data-toggle="collapse">
                     "Eye-tracking in MNE-Python: A Unified Framework for Neural
 and Ocular Data Analysis", Scott Huberty
                 </button>
-            </h5>
-        </div>
-        <div id="collapse33" class="['collapse']" aria-labelledby="heading33" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading33" class="collapse" data-parent="#accordion" id="collapse33">
+<div class="card-body">
+<p>
                     Eye-trackers have long been used within cognitive
 neuroscience to better understand human development,
 behavior, and clinical conditions. They are also
 increasingly being used in commercial applications aimed at
 accessibility or virtual/augmented reality
                 </p>
-                <p>
+<p>
                     Despite
 Python’s prominence in scientific computing generally, and
 neuroscience specifically, the scientific community has not
@@ -2014,27 +2049,28 @@ research. We present our work towards integrating
 eye-tracking support into MNE-Python, the most popular
 Python library for human neurophysiological data analyses.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading34">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse34" aria-expanded="false" aria-controls="collapse34">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading34">
+<h5 class="mb-0">
+<button aria-controls="collapse34" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse34" data-toggle="collapse">
                     "RepoAuditor: A New Approach to Auditing Open Source Repositories", Varun Agarwal, Mathieu Tanneau, David Brownell, and Jeffrey Young
                 </button>
-            </h5>
-        </div>
-        <div id="collapse34" class="['collapse']" aria-labelledby="heading34" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading34" class="collapse" data-parent="#accordion" id="collapse34">
+<div class="card-body">
+<p>
                     Open source software (OSS) for scientific applications is
 becoming increasingly ubiquitous. This has led to major
 strides and breakthroughs in research due to the sharing of
 computational tools and correct code resources, further
 promoting software openness in scientific research.
                 </p>
-                <p>
+<p>
                     However, many repositories lack strong software practices,
 leading to a limited contributions from a community of
 users and issues with overall repository maintenance. These
@@ -2047,7 +2083,7 @@ researchers about the OSS lifecycle as well as required
 files and best practices to make a project easier to
 understand for both users and contributors.
                 </p>
-                <p>
+<p>
                     While training of researchers in how to effectively create
 and maintain an open source repository is always important,
 there may also be compliance reasons to audit and address
@@ -2057,7 +2093,7 @@ want to check that all public repositories representing the
 organization have the same license and basic files like
 READMEs and CONTRIBUTING pages.
                 </p>
-                <p>
+<p>
                     For these reasons, we propose RepoAuditor, a software tool
 which analyses and audits code repositories for OSS and
 software engineering best practices. Teams with limited
@@ -2067,7 +2103,7 @@ their code repositories, and they can extend or scope the
 tool to performance compliance checks across many
 organizational repositories.
                 </p>
-                <p>
+<p>
                     This poster goes into detail on the design and flexibility
 of the RepoAuditor framework as well as how RSEs can
 utilize this tool for their own projects and institutional
@@ -2075,21 +2111,22 @@ requirements. Additionally, we will share results from user
 feedback studies as well as their impacts on the design and
 evolution of the RepoAuditor framework.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading35">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse35" aria-expanded="false" aria-controls="collapse35">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading35">
+<h5 class="mb-0">
+<button aria-controls="collapse35" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse35" data-toggle="collapse">
                     "Motivations and Barriers to Contributing to Open Source
 Research Software", Valeria Inojosa, Alex Teabo, and Josh de Leeuw
                 </button>
-            </h5>
-        </div>
-        <div id="collapse35" class="['collapse']" aria-labelledby="heading35" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading35" class="collapse" data-parent="#accordion" id="collapse35">
+<div class="card-body">
+<p>
                     Open source software relies on the community of volunteer
 developers that contribute to and maintain the project. For
 research software, these developers are often the
@@ -2102,7 +2139,7 @@ library for building behavioral experiments, we wanted to
 understand how researchers who used our software thought
 about contributing to it.
                 </p>
-                <p>
+<p>
                     jsPsych features a hyper-modular design that allows users
 to add new functionality as plugins, without needing to
 contribute to a central repository. An innovation in one
@@ -2116,7 +2153,7 @@ common themes in contributors’ motivations, as well as
 barriers articulated by those who had made modifications
 without contributing them.
                 </p>
-                <p>
+<p>
                     We conducted 63 interviews with active users of the
 software. Participants were selected from cited uses of
 jsPsych and ranged from university faculty to PhD
@@ -2145,7 +2182,7 @@ faith and out of gratitude. Only half did so out of faith
 specifically in open-source principles, while only one
 expressed peer recognition as an additional motivator.
                 </p>
-                <p>
+<p>
                     Based on these initial conclusions, we suggest that project
 leads in open source adopt more proactive approaches when
 calling fresh contributors into the fold. Documentation
@@ -2156,21 +2193,22 @@ communication with their communities, so that developers
 can showcase their contributions and demonstrate
 participation in open source development to their peers.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading36">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse36" aria-expanded="false" aria-controls="collapse36">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading36">
+<h5 class="mb-0">
+<button aria-controls="collapse36" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse36" data-toggle="collapse">
                     "Evaluating Scalability and Modularity: A Comparative Study
 of Traditional Software Architectures", Onyedikachi Kanu, Bouchaib Falah, and Olamide Tawose
                 </button>
-            </h5>
-        </div>
-        <div id="collapse36" class="['collapse']" aria-labelledby="heading36" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading36" class="collapse" data-parent="#accordion" id="collapse36">
+<div class="card-body">
+<p>
                     Monolithic software architectures are increasingly being
 replaced by microservices architectures due to their
 modularity, scalability, and flexibility. While monolithic
@@ -2188,7 +2226,7 @@ levels of load. The evaluation utilized the Spring
 Petclinic application, deployed in both monolithic and
 microservices configurations
                 </p>
-                <p>
+<p>
                     A series of controlled test
 cases were executed on a local machine, and performance
 metrics were gathered using Apache JMeter.
@@ -2208,20 +2246,21 @@ quantifiable insights into when and how to adopt specific
 architectural paradigms based on system requirements and
 available resources.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading37">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse37" aria-expanded="false" aria-controls="collapse37">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading37">
+<h5 class="mb-0">
+<button aria-controls="collapse37" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse37" data-toggle="collapse">
                     "PyEEG: Unifying Rodent EEG Analysis Pipelines", Joseph Dong, Yongtaek Oh, and Eric Marsh
                 </button>
-            </h5>
-        </div>
-        <div id="collapse37" class="['collapse']" aria-labelledby="heading37" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading37" class="collapse" data-parent="#accordion" id="collapse37">
+<div class="card-body">
+<p>
                     Electroencephalography (EEG) is a cornerstone neuroscience
 technique used in humans to diagnose and localize epilepsy
 and for validating and generating a mechanistic
@@ -2245,7 +2284,7 @@ for data import and export, allowing support of a wide
 variety of file formats with a syntax used frequently in
 neuroscience.
                 </p>
-                <p>
+<p>
                     Development of PyEEG adopts the Continuous Integration
 practice of code development, with self-contained branches
 tested before merging. EEG datasets can grow to several
@@ -2259,7 +2298,7 @@ high-performance computing cluster. Intermediate
 computations are saved to avoid rerunning the whole
 pipeline due to trivial errors.
                 </p>
-                <p>
+<p>
                     Design of the package was guided directly by questions we
 and collaborators would like to answer with EEG analysis.
 This produced a tool that was immediately useful,
@@ -2271,7 +2310,7 @@ particular need early so that we could periodically
 “sanity-check” pipeline calculations with collaborators and
 benchmark progress.
                 </p>
-                <p>
+<p>
                     PyEEG uses two parallel and configurable pipelines to
 analyze EEG traces: Window Analysis which extracts features
 on time-binned windows, and Spike Analysis which implements
@@ -2291,7 +2330,7 @@ https://github.com/josephdong1000/PyEEG. Code documentation
 is a work in progress at the time of this writing and
 available at https://josephdong1000.github.io/PyEEG/.
                 </p>
-                <p>
+<p>
                     1.	Buccino AP, Hurwitz CL, Garcia S, Magland J, Siegle JH,
 Hurwitz R, Hennig MH. SpikeInterface, a unified framework
 for spike sorting. Elife. 2020 Nov 10;9:e61834. doi:
@@ -2303,20 +2342,21 @@ Hämäläinen. MEG and EEG data analysis with MNE-Python.
 Frontiers in Neuroscience, 7(267):1–13, 2013.
 doi:10.3389/fnins.2013.00267.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading38">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse38" aria-expanded="false" aria-controls="collapse38">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading38">
+<h5 class="mb-0">
+<button aria-controls="collapse38" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse38" data-toggle="collapse">
                     "Some tips on modernizing legacy software", Alex Koufos
                 </button>
-            </h5>
-        </div>
-        <div id="collapse38" class="['collapse']" aria-labelledby="heading38" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading38" class="collapse" data-parent="#accordion" id="collapse38">
+<div class="card-body">
+<p>
                     Testing legacy codebases often poses considerable
 challenges, including a scarcity of tests, monolithic
 architecture, inadequate documentation, and a lack of
@@ -2330,7 +2370,7 @@ without compromising its original functionality. However,
 this raises a critical question: how can one refactor
 without having tests in place to verify functionality?
                 </p>
-                <p>
+<p>
                     This poster will explore the incorporation of software
 better practices, with a particular emphasis on testing, to
 facilitate the modernization of legacy codebases. By
@@ -2345,21 +2385,22 @@ production of critical scientific outputs. Through these
 efforts, we can create a more robust and adaptable codebase
 that meets the demands of modern scientific research.
                 </p>
-            </div>
-        </div>
-    </div>
-    <div class="['card']">
-        <div class="['card-header']" id="heading39">
-            <h5 class="['mb-0']">
-                <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse39" aria-expanded="false" aria-controls="collapse39">
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading39">
+<h5 class="mb-0">
+<button aria-controls="collapse39" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse39" data-toggle="collapse">
                     "Dual-Branch Neural Networks for Galaxy Redshift Estimation", Jacob Nowack, Srinath Saikrishnan, Vikram Seenivasan, Tuan
 Do, Bernie Boscoe, Zhuo Chen, and Chandler Campbell
                 </button>
-            </h5>
-        </div>
-        <div id="collapse39" class="['collapse']" aria-labelledby="heading39" data-parent="#accordion">
-            <div class="['card-body']">
-                <p>
+</h5>
+</div>
+<div aria-labelledby="heading39" class="collapse" data-parent="#accordion" id="collapse39">
+<div class="card-body">
+<p>
                     In astronomy, researchers are increasingly turning to
 machine learning pipelines to process ever-growing
 datasets. These pipelines often require GPUs and stacks of
@@ -2380,7 +2421,7 @@ running the pipeline on Windows and Linux platforms (Apple
 Metal is not supported due to TensorFlow backend
 limitations)
                 </p>
-                <p>
+<p>
                     The code and datasets are openly available on
 GitHub and designed with novice users in mind. Our example
 also demonstrates how to train with datasets larger than
@@ -2399,7 +2440,8 @@ experiments, model management, and reproducible workflows
 for research software engineers (RSEs) and domain
 scientists working with machine learning pipelines.
                 </p>
-            </div>
-        </div>
-    </div>
+</div>
+</div>
+</div>
+
 </div>
