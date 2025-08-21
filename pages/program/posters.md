@@ -75,7 +75,7 @@ of community changes.
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                     "INnovative Training Enabled by a Research Software
-Engineering Community of Trainers (INTERSECT)", Jeffrey Carver and Ian Cosden
+Engineering ity of Trainers (INTERSECT)", Jeffrey Carver and Ian Cosden
                 </button>
             </h5>
         </div>
@@ -86,7 +86,7 @@ Engineering Community of Trainers (INTERSECT)", Jeffrey Carver and Ian Cosden
 training for intermediate and advanced developers of
 research software, we present the NSF-sponsored INnovative
 Training Enabled by a Research Software Engineering
-Community of Trainers (INTERSECT), which delivers software
+ity of Trainers (INTERSECT), which delivers software
 development and engineering training to intermediate and
 advanced developers of research software. INTERSECT has
 three main goals:
@@ -478,7 +478,7 @@ effectively serves the needs of its users.
         <div class="['card-header']" id="heading9">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
-                    "Community Code Review in the Digital Humanities", Julia Damerow, Rebecca Sutton Koeser, Jeffrey C. Carver, and Malte Vogl
+                    "ity Code Review in the Digital Humanities", Julia Damerow, Rebecca Sutton Koeser, Jeffrey C. Carver, and Malte Vogl
                 </button>
             </h5>
         </div>
@@ -767,7 +767,7 @@ application of change theories [1, 6]. To build synergistic
 relationships between SERs and SREs that enhance the
 quality and impact of research outcomes, we recommend these
 ten principles:
-Recognize The Two Communities Are Different: RSEs and SERs
+Recognize The Two ities Are Different: RSEs and SERs
 must appreciate one another' s unique roles and cultures,
 celebrate their strengths, and avoid assumptions.
 Acknowledge Collaboration Is Not Going to Just Happen:
@@ -904,10 +904,10 @@ Project", Jong Lee, Christopher Navarro, Rob Kooper, Chen Wang, Yong Wook Kim, a
         <div id="collapse16" class="['collapse']" aria-labelledby="heading16" data-parent="#accordion">
             <div class="['card-body']">
                 <p>
-                    The Interdependent Networked Community Resilience Modeling
+                    The Interdependent Networked ity Resilience Modeling
 Environment (IN-CORE) is a state-of-the-art computational
 environment developed by the NIST Center of Excellence for
-Risk-Based Community Resilience Planning to advance
+Risk-Based ity Resilience Planning to advance
 community resilience measurement science and provide a
 decision support system. IN-CORE integrates various models,
 including physics-based modeling of infrastructure, network
@@ -1327,7 +1327,7 @@ the importance of software in research publications.
         <div class="['card-header']" id="heading24">
             <h5 class="['mb-0']">
                 <button class="['btn', 'btn-link', 'collapsed']" data-toggle="collapse" data-target="#collapse24" aria-expanded="false" aria-controls="collapse24">
-                    "Characterizing the Security Culture of the Research Software Engineering Community", Matthew Armstrong, Jeffrey Carver, and Reed Milewicz
+                    "Characterizing the Security Culture of the Research Software Engineering ity", Matthew Armstrong, Jeffrey Carver, and Reed Milewicz
                 </button>
             </h5>
         </div>
@@ -1368,7 +1368,7 @@ RSE security culture, we ask the following research
 questions:
 RQ1: What is the security culture of the RSE community?
 RQ2: How does the RSE community’s security culture compare
-with the Open-Source Community’s security culture?
+with the Open-Source ity’s security culture?
 RQ3: What is the perception among RSE community members on
 adopting threat modeling during development?
                 </p>
@@ -2073,7 +2073,7 @@ of the RepoAuditor framework as well as how RSEs can
 utilize this tool for their own projects and institutional
 requirements. Additionally, we will share results from user
 feedback studies as well as their impacts on the design and
-evoluation of the RepoAuditor framework.
+evolution of the RepoAuditor framework.
                 </p>
             </div>
         </div>
