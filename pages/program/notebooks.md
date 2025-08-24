@@ -29,11 +29,10 @@ be used out of the box, adapted, or extended to create
 end-to-end workflows enabling robust free energy
 calculations at scale.
 
-colab notebook:
-https://colab.research.google.com/github/OpenFreeEnergy/ExampleNotebooks/blob/main/showcase/openfe_showcase.ipynb
+[Colab notebook](https://colab.research.google.com/github/OpenFreeEnergy/ExampleNotebooks/blob/main/showcase/openfe_showcase.ipynb)
 
-git repository:
-https://github.com/OpenFreeEnergy/ExampleNotebooks/tree/main/showcase
+Git repository:
+[https://github.com/OpenFreeEnergy/ExampleNotebooks/tree/main/showcase](https://github.com/OpenFreeEnergy/ExampleNotebooks/tree/main/showcase)
 
 ------
 
@@ -43,8 +42,7 @@ https://github.com/OpenFreeEnergy/ExampleNotebooks/tree/main/showcase
 _Rebecca S. Koeser_
 
 This notebook provides a demonstration of the functionality
-of the Python library
-undate (https://github.com/dh-tech/undate-python/).
+of the Python library undate (<https://github.com/dh-tech/undate-python/>).
 
 Undate is an ambitious, in-progress effort to develop a
 pragmatic Python library for computation and analysis of
@@ -77,11 +75,11 @@ This notebook demonstrates current use and functionality of
 the core Undate and UndateInterval objects, along with some
 examples showing use-cases from two projects that fed into
 development on undate: Shakespeare and Company Project
-(https://shakespeareandco.princeton.edu/), and Princeton
-Geniza Project (https://geniza.princeton.edu/).
+(<https://shakespeareandco.princeton.edu/>), and Princeton
+Geniza Project (<https://geniza.princeton.edu/>).
 
 Repository URL:
-https://github.com/rlskoeser/undate-notebook-usrse25
+[https://github.com/rlskoeser/undate-notebook-usrse25](https://github.com/rlskoeser/undate-notebook-usrse25)
 Git ref: 1.0
 
 ------
@@ -91,7 +89,7 @@ Git ref: 1.0
 _Mark Kittisopikul_
 
 "Situation: There are 3 competing standards" the last card
-of a popular XKCD cartoon (#927) might read if applied to
+of a popular XKCD cartoon ([#927](https://xkcd.com/927/)) might read if applied to
 recent microscopy bioimaging formats. TIFF, HDF5, and Zarr
 have all been used to store images as part of popular
 standards and formats (OME-TIFF, BDV-HDF5, OME-Zarr). The
@@ -113,6 +111,6 @@ acquisition format as it satisfies both short term needs to
 view microscope output in traditional viewers while
 integrating into next generation image analysis pipelines.
 
-https://github.com/mkitti/simple_image_formats/blob/main/header_formats.ipynb
+[https://github.com/mkitti/simple_image_formats/blob/main/header_formats.ipynb](https://github.com/mkitti/simple_image_formats/blob/main/header_formats.ipynb)
 
 ------

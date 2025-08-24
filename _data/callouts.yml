@@ -1,16 +1,16 @@
 items:
-  - title: Sponsor
+  - title: Volunteer
     subtitle: >
       Help make USRSE'25 a success <br>
-    link: sponsor/
-    link_name: Learn About Sponsorship Opportunities 
+    link: participate/volunteer/
+    link_name: Volunteer to Help
   - title: Join us in Philly
     subtitle: >
-      Registration is now open! <br><br>
+      Registration is open!  Reserve your hotel by 9/12 <br>
     link: https://us-rse.org/usrse25/attend/registration/
     link_name: Register
-  - title: Submissions
+  - title: Program
     subtitle: >
-      Submission windows for all tracks have closed!<br>
-    link: participate/
-    link_name: Submission details
+      Plan your time at the conference<br>
+    link: program/
+    link_name: Get Excited!
