@@ -2,6 +2,8 @@
   items:
     - name: Full Program
       link: program/
+    - name: Keynotes
+      link: program/keynotes/
     - name: Birds of a Feather
       link: program/bofs/
     - name: Notebooks
