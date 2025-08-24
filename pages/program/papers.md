@@ -8,6 +8,7 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+<a name="p-spel"></a>
 ## SPEL - Software Package for E3SM Land Model: Code Understanding and Functional Unit Testing
 
 _Peter Schwartz, Dali Wang, Peter Thornton, and Mungshu Shen_
@@ -30,6 +31,7 @@ maintenance.
 
 ---
 
+<a name="p-container"></a>
 ## Empirical Evaluation of Container Security and Reproducibility in Research Software Engineering
 
 _Akshay Mittal and Vivek Venkatesan_
@@ -67,6 +69,7 @@ science.
 
 ---
 
+<a name="p-pop"></a>
 ## Producing High-fidelity Synthetic Population Ensembles at Scale
 
 _James Gaboardi, Joseph Tuccillo, Jacob Isber, and Joshua
@@ -104,6 +107,7 @@ ensembles.
 
 ---
 
+<a name="p-lammps"></a>
 ## LAMMPS: A Case Study For Applying Modern Software Engineering to an Established Research Software Package
 
 _Axel Kohlmeyer and Richard Berger_
@@ -126,6 +130,7 @@ steps.
 
 ---
 
+<a name="p-hpc"></a>
 ## A Hands-On Curriculum for Training in HPC Cluster Deployment and Management
 
 _Edwin F. Posada and Richard Berger_
@@ -150,6 +155,7 @@ development in computational science.
 
 ---
 
+<a name="p-atr"></a>
 ## Integrating ATR Software with University HPC Infrastructure: balancing diverse compute needs
 
 _Christine Roughan and Rebecca Koeser_
@@ -172,6 +178,7 @@ user-submitted model training tasks.
 
 ---
 
+<a name="p-aquillm"></a>
 ## AquiLLM: a RAG Tool for Capturing Tacit Knowledge in Research Groups
 
 _Chandler Campbell, Bernie Boscoe, and Tuan Do_
@@ -203,6 +210,7 @@ within scholarly groups.
 
 ---
 
+<a name="p-mit"></a>
 ## MIT Lincoln Laboratory: A Case Study on Improving Software Support for Research Projects
 
 _Daniel Strassler, Gabe Elkin, Curran Schiefelbein, Daniel
@@ -231,6 +239,7 @@ software stakeholder panel to assist with continued improvement.
 
 ---
 
+<a name="p-nextflow"></a>
 ## Optimizing Nextflow-based Software on Shared HPC Resources: A Case Study with make_lastz_chains
 
 _Nil Tianchen Mu, William Dizon, Glen Otero, and Torey
@@ -259,6 +268,7 @@ experience.
 
 ---
 
+<a name="p-github"></a>
 ## An Empirical Survey of GitHub Repositories at U.S. R2 and Doctoral/Professional Universities
 
 _Samuel Schwartz and Anthony Dario_
@@ -296,6 +306,7 @@ page appendix.
 
 ---
 
+<a name="p-trail"></a>
 ## TRAIL: Audit Trails for Enhanced Reproducibility and Observability of Research Computing
 
 _Jake Rosenberg, Richard Cardone, Gilbert Curbelo, Vanessa
@@ -326,6 +337,7 @@ better insight into how data and resources are being used.
 
 ---
 
+<a name="p-fortran"></a>
 ## Idiomatic Correctness-Checking via Julienne in Fortran 2023
 
 _Damian Rouson, Dan Bonachea, and Katherine Rasmussen_
@@ -360,6 +372,7 @@ learning library.
 
 ---
 
+<a name="p-toolsybio"></a>
 ## ToolsyBio: A retrieval-augmented generation system for navigating the bioinformatics software landscape
 
 _Van Truong and Marylyn Ritchie_
@@ -385,6 +398,7 @@ bioinformatics tools through a conversational interface.
 
 ---
 
+<a name="p-syncflow"></a>
 ## SyncFlow: A Scalable Platform for Multimodal Learning Analytics
 
 _Umesh Timalsina, Eduardo Davalos, Nihar Purshottam Sanda,

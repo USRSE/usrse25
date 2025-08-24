@@ -8,7 +8,7 @@ menubar_toc: true
 set_last_modified: true
 ---
 
-
+<a name="w-pegasus"></a>
 ## AI Workflows with ACCESS Pegasus
 
 _Karan Vahi and Mats Rynge_
@@ -48,7 +48,7 @@ analyses.
 
 ------
 
-
+<a name="w-agile"></a>
 ## Agile Foundations for RSEs: Building an AI Assistant with Agile
 
 _Tisha Charles and David Luet_
@@ -73,7 +73,7 @@ GitHub account.
 
 ------
 
-
+<a name="w-user"></a>
 ## Learning to Talk with Your Users: User Experience Research for RSEs
 
 _Johanna Cohoon, Rajshree Deshmukh, and Mary Goldman_
@@ -99,7 +99,7 @@ development directions.
 
 ------
 
-
+<a name="w-testing"></a>
 ## An Experimentalist Approach to Software Testing
 
 _Jeff Soules and Brian Ward_
@@ -136,8 +136,8 @@ discussion. Exercises will be provided in Python and C++.
 
 ------
 
-
-## Resilient Data Futures - How Do We Save, Share, and Fund Critical Data Stores Outside Traditional Systems?
+<a name="w-futures"></a>
+## Resilient Data Futures: How Do We Save, Share, and Fund Critical Data Stores Outside Traditional Systems?
 
 _Elianna DeSota and Jon Starr_
 
@@ -164,7 +164,7 @@ note taking.
 
 ------
 
-
+<a name="w-sleap"></a>
 ## Introduction to Multi-Animal Pose Tracking with SLEAP
 
 _Elizabeth Berrigan, Andrew Park, and Talmo Pereira_
@@ -201,7 +201,7 @@ and reproducible pose estimation and tracking.
 
 ------
 
-
+<a name="w-cyverse"></a>
 ## Hands-on scalable cloud automation and platform services for AI using CyVerse
 
 _Edwin Skidmore, Sarah Roberts, and Michelle Yung_
@@ -240,3 +240,9 @@ tailored tools that can converse directly with your
 research data!
 
 ------
+<a name="w-joss"></a>
+## The Journal of Open Source Software: Live demonstration and discussion
+
+_Patrick Diehl, Daniel S. Katz, Kyle Niemeyer_
+
+The Journal of Open Source Software (JOSS) supports valuing research software contributions to the open source software (OSS) ecosystem by providing a free, diamond open access, and open-source venue that is run in the style of OSS itself. A particularly distinctive element of JOSS is that it uses open peer review in a collaborative, iterative format, unlike most publishers. Additionally, all the components of the process—from the reviews to the papers to the software that is the subject of the papers to the software that the journal runs—are open. In this session, we will describe JOSS’s history and its peer review process using an editorial bot and present statistics gathered from JOSS’s public review history on GitHub showing an increasing number of peer reviewed papers each year. We will then demonstrate JOSS showing the various roles that exist, including author, editor, and reviewer. Before and while running this live demo, we will take questions from the audience and discuss JOSS, research software, and publishing more widely. We'll end by discussing some challenges JOSS faces.

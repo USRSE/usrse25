@@ -8,11 +8,10 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+<a name="n-energy"></a>
 ## Open Free Energy: An Open Source Ecosystem for Calculating Free Energies
 
-_Alyssa Travitz, Irfan Alibay, Hannah Baumann, David Dotson,
-James Eastwood, Mike Henry, Josh Horton, Ian Kenney, Iván
-Pulido, Benjamin Ries, and David Mobley_
+_Alyssa Travitz, Irfan Alibay, Hannah Baumann, David Dotson, James Eastwood, Mike Henry, Josh Horton, Ian Kenney, Iván Pulido, Benjamin Ries, and David Mobley_
 
 Alchemical free energy calculations are integral to
 state-of-the-art drug discovery pipelines, yet the need for
@@ -38,7 +37,7 @@ https://github.com/OpenFreeEnergy/ExampleNotebooks/tree/main/showcase
 
 ------
 
-
+<a name="n-undate"></a>
 ## Undate: computing with uncertain and partially-unknown dates
 
 _Rebecca S. Koeser_
@@ -86,7 +85,7 @@ https://github.com/rlskoeser/undate-notebook-usrse25
 Git ref: 1.0
 
 ------
-
+<a name="n-image"></a>
 ## Combining TIFF, HDF5, and Zarr into a Single Image File Format
 
 _Mark Kittisopikul_

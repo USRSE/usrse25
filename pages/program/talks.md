@@ -16,7 +16,7 @@ set_last_modified: true
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse1"
 aria-expanded="false" aria-controls="collapse1">
 "surveydown: An Open-Source, Markdown-Based Platform for
-Programmable and Reproducible Surveys", John Helveston, Pingfan Hu, and Bogdan Bunea
+Programmable and Reproducible Surveys"<br> John Helveston, Pingfan Hu, and Bogdan Bunea
 </button>
 </h5>
 </div>
@@ -57,7 +57,7 @@ project. </p>
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse2"
 aria-expanded="false" aria-controls="collapse2">
-"Heterogeneous Distributed Data Management in Academia", Josh Borrow
+"Heterogeneous Distributed Data Management in Academia"<br> Josh Borrow
 </button>
 </h5>
 </div>
@@ -95,7 +95,7 @@ signpost to our solutions throughout. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3"
 aria-expanded="false" aria-controls="collapse3">
 "Sustaining Growth of Scientific Software with the Software
-Gardening Almanack", Dave Bunten and Gregory Way
+Gardening Almanack"<br> Dave Bunten and Gregory Way
 </button>
 </h5>
 </div>
@@ -136,7 +136,7 @@ software for the long haul. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4"
 aria-expanded="false" aria-controls="collapse4">
 "Increasing the Accessibility of Quarto-Based NOAA Fisheries
-Reports", Sophie Breitbart
+Reports"<br> Sophie Breitbart
 </button>
 </h5>
 </div>
@@ -202,7 +202,7 @@ version 0.1.0, https://github.com/nmfs-ost/stockplotr. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse5"
 aria-expanded="false" aria-controls="collapse5">
 "Efficient Documentation: Best Practices, Tools, and
-Opportunities", Peter Williams
+Opportunities"<br> Peter Williams
 </button>
 </h5>
 </div>
@@ -256,7 +256,7 @@ the 21st century. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse6"
 aria-expanded="false" aria-controls="collapse6">
 "Everything, All at Once, Yesterday: Creating Research
-Software with Humanities Faculty", Jeri Wieringa and Mary Naydan
+Software with Humanities Faculty"<br> Jeri Wieringa and Mary Naydan
 </button>
 </h5>
 </div>
@@ -340,7 +340,7 @@ faculty PI’s research questions and approach. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse7"
 aria-expanded="false" aria-controls="collapse7">
 "Multilingual Research Software Translation using AI:
-Breaking the Communication Barriers", Pengyin Shan
+Breaking the Communication Barriers"<br> Pengyin Shan
 </button>
 </h5>
 </div>
@@ -400,7 +400,7 @@ international/multilingual scientific communities. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8"
 aria-expanded="false" aria-controls="collapse8">
 "Notebooks as the Published Paper, How Ready are Scientific
-Communities?", Kenton McHenry and Christine Kirkpatrick
+Communities?"<br> Kenton McHenry and Christine Kirkpatrick
 </button>
 </h5>
 </div>
@@ -455,7 +455,7 @@ steps to foster broader adoption. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse9"
 aria-expanded="false" aria-controls="collapse9">
 "Developing a Machine Learning-Augmented Solver for the
-Hydrologic Model ParFlow", Georgios Artavanis, Laura Condon, Andrew Bennett, and Reed
+Hydrologic Model ParFlow"<br> Georgios Artavanis, Laura Condon, Andrew Bennett, and Reed
 Maxwell
 </button>
 </h5>
@@ -525,7 +525,7 @@ initiative from an RSE perspective. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10"
 aria-expanded="false" aria-controls="collapse10">
 "Knowledge Graphs as Infrastructure: Enabling Generative AI
-Integration Across Research Software", Fan Li
+Integration Across Research Software"<br> Fan Li
 </button>
 </h5>
 </div>
@@ -571,7 +571,7 @@ building and sustaining these systems. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11"
 aria-expanded="false" aria-controls="collapse11">
 "A Reproducible and Scalable Pipeline for Processing
-Administrative Health Claims Data", Mahima Kaur, Shreya Nalluri, James C. Kitch, Tinashe M.
+Administrative Health Claims Data"<br> Mahima Kaur, Shreya Nalluri, James C. Kitch, Tinashe M.
 Tapera, Jonathan Gilmour, Michelle Audirac, and Danielle Braun
 </button>
 </h5>
@@ -656,7 +656,7 @@ health data. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse12"
 aria-expanded="false" aria-controls="collapse12">
 "Making Research Software Findable, Accessible,
-Interoperable, Reusable (FAIR) with Codefair", Bhavesh Patel, Dorian Portillo, and Sanjay Soundarajan
+Interoperable, Reusable (FAIR) with Codefair"<br> Bhavesh Patel, Dorian Portillo, and Sanjay Soundarajan
 </button>
 </h5>
 </div>
@@ -705,7 +705,7 @@ invite the community to explore and contribute to Codefair. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse13"
 aria-expanded="false" aria-controls="collapse13">
 "Presenting the Actionable Guidelines for FAIR Research
-Software Task Force", Bhavesh Patel and Daniel Garijo
+Software Task Force"<br> Bhavesh Patel and Daniel Garijo
 </button>
 </h5>
 </div>
@@ -750,7 +750,7 @@ established by our Task Force. </p>
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse14"
 aria-expanded="false" aria-controls="collapse14">
-"Three Foundational Ideas That Shaped Software Engineering", Abhishek Dutta
+"Three Foundational Ideas That Shaped Software Engineering"<br> Abhishek Dutta
 </button>
 </h5>
 </div>
@@ -829,7 +829,7 @@ paradigms. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse15"
 aria-expanded="false" aria-controls="collapse15">
 "The Hubverse: Streamlining Collaborative Infectious Disease
-Modeling for Public Health Impact", Anna Krystalli
+Modeling for Public Health Impact"<br> Anna Krystalli
 </button>
 </h5>
 </div>
@@ -891,7 +891,7 @@ decision-making at all levels of public health response. </p>
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse16"
 aria-expanded="false" aria-controls="collapse16">
-"The True Gravity of Research Software", Jonathan Starr
+"The True Gravity of Research Software"<br> Jonathan Starr
 </button>
 </h5>
 </div>
@@ -966,7 +966,7 @@ their immediate environment. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse17"
 aria-expanded="false" aria-controls="collapse17">
 "Beyond Specialization: Navigating the Post-Hadoop Database
-World", Chris Stephens, Chris Pond, Mikolaj Kowalik, and Yash Wasnik
+World"<br>Chris Stephens, Chris Pond, Mikolaj Kowalik, and Yash Wasnik
 </button>
 </h5>
 </div>
@@ -1041,7 +1041,7 @@ systems of the future. </p>
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse18"
 aria-expanded="false" aria-controls="collapse18">
-"HPC Carpentry and Community at NIST", Andrew Reid
+"HPC Carpentry and Community at NIST"<br> Andrew Reid
 </button>
 </h5>
 </div>
@@ -1100,7 +1100,7 @@ needs. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse19"
 aria-expanded="false" aria-controls="collapse19">
 "Realizing a Project-Based Resource API at the Oak Ridge
-Leadership Computing Facility", Arthur Ruckman, Paul Bryant, Tyler Skluzacek, Suzanne
+Leadership Computing Facility"<br> Arthur Ruckman, Paul Bryant, Tyler Skluzacek, Suzanne
 Prentice, Daniel Rosendo, Clara Nguyễn, and Eben Fluto
 </button>
 </h5>
@@ -1177,7 +1177,7 @@ or modularity. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse20"
 aria-expanded="false" aria-controls="collapse20">
 "dbverse: scalable scientific analytics with embedded
-analytical databases", Edward Ruiz, Jiaji Chen, and Ruben Dries
+analytical databases"<br> Edward Ruiz, Jiaji Chen, and Ruben Dries
 </button>
 </h5>
 </div>
@@ -1222,7 +1222,7 @@ scientific data analysis with databases. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse21"
 aria-expanded="false" aria-controls="collapse21">
 "LLMaven: Large Language Model based Agentic Verification
-and Exploration of Natural Inquiry", Cordero Core, Vani Mandava, Andrew Connolly, David Beck,
+and Exploration of Natural Inquiry"<br> Cordero Core, Vani Mandava, Andrew Connolly, David Beck,
 Don Setiawan, Nicolette Burggraf, Anant Mittal, Anshul Tambay, and Anuj Sinha
 </button>
 </h5>
@@ -1284,7 +1284,7 @@ story worth sharing. </p>
 aria-expanded="false" aria-controls="collapse22">
 "Principles for developing a personal project management
 workflow as a Research Software Engineer in an autonomous
-or highly independent context", Henry Burgess
+or highly independent context"<br> Henry Burgess
 </button>
 </h5>
 </div>
@@ -1334,7 +1334,7 @@ versatility and professional development. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse23"
 aria-expanded="false" aria-controls="collapse23">
 "Understanding Research Software Engineer (RSE) Roles and
-Recruiting through the US-RSE Job Board", Christina Maimone and Emilio Lehoucq
+Recruiting through the US-RSE Job Board"<br> Christina Maimone and Emilio Lehoucq
 </button>
 </h5>
 </div>
@@ -1398,7 +1398,7 @@ positions. </p>
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse24"
 aria-expanded="false" aria-controls="collapse24">
-"Building RSE Capacity with the Experiential DataSquad Model", Paula Lackie and Elliot Pickens
+"Building RSE Capacity with the Experiential DataSquad Model"<br> Paula Lackie and Elliot Pickens
 </button>
 </h5>
 </div>
@@ -1483,7 +1483,7 @@ Gemini was used to tighten this proposal. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse25"
 aria-expanded="false" aria-controls="collapse25">
 "From Hot Dogs to Human-Centered Design: Empathy in Software
-Development", Lisa Gatzke and Jessica Saw
+Development"<br> Lisa Gatzke and Jessica Saw
 </button>
 </h5>
 </div>
@@ -1568,7 +1568,7 @@ supported, and empowered. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse26"
 aria-expanded="false" aria-controls="collapse26">
 "Accessing your networks: Adapting interpersonal connections
-for robust software development and sustainability", John Parent
+for robust software development and sustainability"<br> John Parent
 </button>
 </h5>
 </div>
@@ -1617,7 +1617,7 @@ networks. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse27"
 aria-expanded="false" aria-controls="collapse27">
 "Reproducibility in Context: Usability, Portability, and the
-Limits of Pass/Fail Thinking", Nicole Brewer
+Limits of Pass/Fail Thinking"<br> Nicole Brewer
 </button>
 </h5>
 </div>
@@ -1682,7 +1682,7 @@ reliable, and collaborative. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse28"
 aria-expanded="false" aria-controls="collapse28">
 "Design Thinking for Implementation: Leveraging Design
-Systems for Sustainable and Reproducible Research Software", Leigh Fu, Emma Grisanzio, and Jackson Vaughan
+Systems for Sustainable and Reproducible Research Software"<br> Leigh Fu, Emma Grisanzio, and Jackson Vaughan
 </button>
 </h5>
 </div>
@@ -1738,7 +1738,7 @@ upon. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse29"
 aria-expanded="false" aria-controls="collapse29">
 "Program and Technical Management on a Product-Driven
-Research Project", Rob Kooper and Chris Pond
+Research Project"<br> Rob Kooper and Chris Pond
 </button>
 </h5>
 </div>
@@ -1811,7 +1811,7 @@ effective governance models. </p>
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse30"
 aria-expanded="false" aria-controls="collapse30">
-"Technical Debt and Code Migration", John Holland
+"Technical Debt and Code Migration"<br> John Holland
 </button>
 </h5>
 </div>
@@ -1858,7 +1858,7 @@ much less intuitive, and how that was resolved. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse31"
 aria-expanded="false" aria-controls="collapse31">
 "Beyond Copilot: RSE Team Lessons Learned in AI-First
-Development", Caleb Reinking and Kristina Radivojevic
+Development"<br> Caleb Reinking and Kristina Radivojevic
 </button>
 </h5>
 </div>
@@ -1941,7 +1941,7 @@ processes within their workflows. </p>
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse32"
 aria-expanded="false" aria-controls="collapse32">
 "User-facing tutorials as code: reproducible and reliable
-tutorials with CI/CD", Brigitta Sipőcz
+tutorials with CI/CD"<br> Brigitta Sipőcz
 </button>
 </h5>
 </div>

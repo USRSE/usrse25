@@ -8,7 +8,8 @@ menubar_toc: true
 set_last_modified: true
 ---
 
-## AI in Practice - Managing Research Projects Incorporating Artificial Intelligence
+<a name="b-aipractice"></a>
+## AI in Practice: Managing Research Projects Incorporating Artificial Intelligence
 
 _David Pettifor, Daniel Madren, and Kenton McHenry_
 
@@ -31,7 +32,7 @@ research projects.
 
 ------
 
-
+<a name="b-accelerating"></a>
 ## Accelerating Research: Strategies from the Field
 
 _Jen Rosiere Reynolds, Lance Parsons, Gail Rosenbaum, Jason
@@ -62,7 +63,7 @@ research environment.
 
 ------
 
-
+<a name="b-bssw"></a>
 ## Better Scientific Software Fellowship Community
 
 _Elsa Gonsiorowski, Adam Lavely, and Mary Ann Leung_
@@ -83,7 +84,7 @@ Fellowship requirements and deadlines.
 
 ------
 
-
+<a name="b-rsesupport"></a>
 ## Sustainable Models of RSE Support: The Prospects of Centralization in Institutional Research
 
 _Eric Manning, Lori Bougher, Colin Swaney, and Sangyoon Park_
@@ -127,3 +128,35 @@ reintroduce a more active research component with technical
 concentration on the data engineering pipeline.
 
 ------
+
+<a name="b-studentpanel"></a>
+## RSEs across Domains
+
+_Organized by the Student Program Committee_
+
+This panel session will delve into the nuances in Research Software Engineers’ experiences across industry, academia, and laboratories, focusing on how each environment shapes funding, benefits, daily work, and career trajectories. Designed with students and early-career RSEs in mind, the session is open to all.
+
+----
+
+<a name="b-first"></a>
+## From First Commit to First Offer: What I Wish I’d Known
+
+_Organized by the Student Program Committee_
+
+Join us for a set of talks where Research Software Engineers share the insights they wish they’d had on day one. We’ll cover how to navigate a shifting career landscape, what hiring managers look for, how to survive impostor syndrome, and how to keep code alive long after publication. Each speaker will share years of hindsight into practical advice. Designed with students and early-career RSEs in mind, the session is open to all.
+
+----
+
+<a name="b-airse"></a>
+
+## Real-world Impacts of Generative AI in the Research Software Engineering and Data Science Workplace
+_Sandra Gesing, Steve Van Tuyl_
+
+Recent breakthroughs in large language model-based artificial intelligence (AI) have captured the public’s interest in AI more broadly. With the growing adoption of these technologies in professional and educational settings, public dialog about their potential impacts on the workforce has been ubiquitous. It is, however, difficult to separate the public dialog about the potential impact of the technology from the experienced impact of the technology in the research software engineer and data science workplace. Likewise, it is challenging to separate the generalized anxiety about AI from its specific impacts on individuals working in specialized work settings. 
+
+As research software engineers (RSEs) and those in adjacent computational fields engage with AI in the workplace, the realities of the impacts of this technology are becoming clearer. However, much of the dialog has been limited to high-level discussion around general intra-institutional impacts, and lacks the nuance required to provide helpful guidance to RSE practitioners in research settings, specifically. Surprisingly, many RSEs are not involved in career discussions on what the rise of AI means for their professions. 
+
+During this BoF, we will hold a structured, interactive discussion session with the goal of identifying critical areas of engagement with AI in the workplace including: current use of AI, AI assistance and automation, AI skills and workforce development, AI and open science, and AI futures. This BoF will represent the first of a series of discussions held jointly by the Academic Data Science Alliance and the US Research Software Engineer Association over the coming year, with support from Schmidt Sciences. The insights gathered from these sessions will inform the development of guidance resources on these topic areas for the broader RSE and computational data practitioner communities.  
+
+
+
