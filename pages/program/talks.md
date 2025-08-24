@@ -11,7 +11,7 @@ set_last_modified: true
 <div id="accordion">
 
 <div class="card">
-<div class="card-header" id="heading1">
+<div class="card-header d-flex justify-content-center" id="heading1">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse1"
 aria-expanded="false" aria-controls="collapse1">
@@ -53,7 +53,7 @@ project. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading2">
+<div class="card-header d-flex justify-content-center" id="heading2">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse2"
 aria-expanded="false" aria-controls="collapse2">
@@ -90,7 +90,7 @@ signpost to our solutions throughout. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading3">
+<div class="card-header d-flex justify-content-center" id="heading3">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3"
 aria-expanded="false" aria-controls="collapse3">
@@ -131,7 +131,7 @@ software for the long haul. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading4">
+<div class="card-header d-flex justify-content-center" id="heading4">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4"
 aria-expanded="false" aria-controls="collapse4">
@@ -197,7 +197,7 @@ version 0.1.0, https://github.com/nmfs-ost/stockplotr. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading5">
+<div class="card-header d-flex justify-content-center" id="heading5">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse5"
 aria-expanded="false" aria-controls="collapse5">
@@ -251,7 +251,7 @@ the 21st century. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading6">
+<div class="card-header d-flex justify-content-center" id="heading6">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse6"
 aria-expanded="false" aria-controls="collapse6">
@@ -335,7 +335,7 @@ faculty PI’s research questions and approach. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading7">
+<div class="card-header d-flex justify-content-center" id="heading7">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse7"
 aria-expanded="false" aria-controls="collapse7">
@@ -395,7 +395,7 @@ international/multilingual scientific communities. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading8">
+<div class="card-header d-flex justify-content-center" id="heading8">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8"
 aria-expanded="false" aria-controls="collapse8">
@@ -450,7 +450,7 @@ steps to foster broader adoption. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading9">
+<div class="card-header d-flex justify-content-center" id="heading9">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse9"
 aria-expanded="false" aria-controls="collapse9">
@@ -520,7 +520,7 @@ initiative from an RSE perspective. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading10">
+<div class="card-header d-flex justify-content-center" id="heading10">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10"
 aria-expanded="false" aria-controls="collapse10">
@@ -566,7 +566,7 @@ building and sustaining these systems. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading11">
+<div class="card-header d-flex justify-content-center" id="heading11">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11"
 aria-expanded="false" aria-controls="collapse11">
@@ -651,7 +651,7 @@ health data. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading12">
+<div class="card-header d-flex justify-content-center" id="heading12">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse12"
 aria-expanded="false" aria-controls="collapse12">
@@ -700,7 +700,7 @@ invite the community to explore and contribute to Codefair. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading13">
+<div class="card-header d-flex justify-content-center" id="heading13">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse13"
 aria-expanded="false" aria-controls="collapse13">
@@ -746,7 +746,7 @@ established by our Task Force. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading14">
+<div class="card-header d-flex justify-content-center" id="heading14">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse14"
 aria-expanded="false" aria-controls="collapse14">
@@ -824,7 +824,7 @@ paradigms. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading15">
+<div class="card-header d-flex justify-content-center" id="heading15">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse15"
 aria-expanded="false" aria-controls="collapse15">
@@ -887,7 +887,7 @@ decision-making at all levels of public health response. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading16">
+<div class="card-header d-flex justify-content-center" id="heading16">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse16"
 aria-expanded="false" aria-controls="collapse16">
@@ -961,7 +961,7 @@ their immediate environment. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading17">
+<div class="card-header d-flex justify-content-center" id="heading17">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse17"
 aria-expanded="false" aria-controls="collapse17">
@@ -1037,7 +1037,7 @@ systems of the future. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading18">
+<div class="card-header d-flex justify-content-center" id="heading18">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse18"
 aria-expanded="false" aria-controls="collapse18">
@@ -1095,7 +1095,7 @@ needs. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading19">
+<div class="card-header d-flex justify-content-center" id="heading19">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse19"
 aria-expanded="false" aria-controls="collapse19">
@@ -1172,7 +1172,7 @@ or modularity. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading20">
+<div class="card-header d-flex justify-content-center" id="heading20">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse20"
 aria-expanded="false" aria-controls="collapse20">
@@ -1217,7 +1217,7 @@ scientific data analysis with databases. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading21">
+<div class="card-header d-flex justify-content-center" id="heading21">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse21"
 aria-expanded="false" aria-controls="collapse21">
@@ -1278,7 +1278,7 @@ story worth sharing. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading22">
+<div class="card-header d-flex justify-content-center" id="heading22">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse22"
 aria-expanded="false" aria-controls="collapse22">
@@ -1329,7 +1329,7 @@ versatility and professional development. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading23">
+<div class="card-header d-flex justify-content-center" id="heading23">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse23"
 aria-expanded="false" aria-controls="collapse23">
@@ -1394,7 +1394,7 @@ positions. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading24">
+<div class="card-header d-flex justify-content-center" id="heading24">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse24"
 aria-expanded="false" aria-controls="collapse24">
@@ -1478,7 +1478,7 @@ Gemini was used to tighten this proposal. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading25">
+<div class="card-header d-flex justify-content-center" id="heading25">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse25"
 aria-expanded="false" aria-controls="collapse25">
@@ -1563,7 +1563,7 @@ supported, and empowered. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading26">
+<div class="card-header d-flex justify-content-center" id="heading26">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse26"
 aria-expanded="false" aria-controls="collapse26">
@@ -1612,7 +1612,7 @@ networks. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading27">
+<div class="card-header d-flex justify-content-center" id="heading27">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse27"
 aria-expanded="false" aria-controls="collapse27">
@@ -1677,7 +1677,7 @@ reliable, and collaborative. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading28">
+<div class="card-header d-flex justify-content-center" id="heading28">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse28"
 aria-expanded="false" aria-controls="collapse28">
@@ -1733,7 +1733,7 @@ upon. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading29">
+<div class="card-header d-flex justify-content-center" id="heading29">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse29"
 aria-expanded="false" aria-controls="collapse29">
@@ -1807,7 +1807,7 @@ effective governance models. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading30">
+<div class="card-header d-flex justify-content-center" id="heading30">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse30"
 aria-expanded="false" aria-controls="collapse30">
@@ -1853,7 +1853,7 @@ much less intuitive, and how that was resolved. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading31">
+<div class="card-header d-flex justify-content-center" id="heading31">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse31"
 aria-expanded="false" aria-controls="collapse31">
@@ -1936,7 +1936,7 @@ processes within their workflows. </p>
 </div>
 
 <div class="card">
-<div class="card-header" id="heading32">
+<div class="card-header d-flex justify-content-center" id="heading32">
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse32"
 aria-expanded="false" aria-controls="collapse32">
