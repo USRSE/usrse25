@@ -31,15 +31,16 @@ A taxi from the airport to Old City typically takes about 20–30 minutes depend
 [Cultural/Museum Google Map List](https://maps.app.goo.gl/JW73CWgCyTsP3mMr8)
 
 **Historic:**
-- Betsy Ross House – Birthplace of the American flag.
-- Liberty Bell/Independence Hall – Iconic symbols of U.S. freedom and democracy
+- [Betsy Ross House](https://historicphiladelphia.org/betsy-ross-house/) – Birthplace of the American flag.
+- [Liberty Bell/Independence Hall](https://www.nps.gov/inde/planyourvisit/independencehall.htm) – Iconic symbols of U.S. freedom and democracy
 - Museum of the American Revolution – Stories and artifacts from America’s founding.
 - The Academy of Natural Sciences of Drexel University – Dinosaurs, dioramas, and discovery.
 - Constitution Center – Interactive exhibits about the U.S. Constitution.
+- Philadelphia Zoo - America's [first zoo](https://www.philadelphiazoo.org/about-the-zoo/) and one of the [nation's best](https://10best.usatoday.com/awards/philadelphia-zoo-philadelphia-pennsylvania/).
 
 **Cultural:**
-- Philadelphia Magic Gardens – A vibrant mosaic art installation.
-- Philadelphia Museum of Art – World-class collection (and the famous “Rocky Steps”).
+- [Philadelphia Magic Gardens](https://www.phillymagicgardens.org/) – A vibrant mosaic art installation.
+- [Philadelphia Museum of Art](https://philamuseum.org/) – World-class collection (and the famous “Rocky Steps”).
 - Rodin Museum – The largest Rodin collection outside Paris
 - Franklin Institute – Hands-on science museum for all ages.
 - Independence Seaport Museum – Maritime history along the Delaware River.
