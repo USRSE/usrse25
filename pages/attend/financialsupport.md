@@ -17,7 +17,7 @@ Eligibility and review criteria:
 
 * Potential attendees over 18 years of age who reside in the US.  
 * Able to attend all 3 days of the conference.
-* Any career stage.  Note however that while students may apply and will be considered for funding, funding will be prioritized for non-student attendees, as the [Sustainable Horizons Institute Building Engaement Program](https://shinstitute.org/building-engagement-us-rse-2025/) provides one option for student attendees.  
+* Any career stage.  Note however that while students may apply and will be considered for funding, funding will be prioritized for non-student attendees, as the [Sustainable Horizons Institute Building Engagement Program](https://shinstitute.org/building-engagement-us-rse-2025/) provides one option for student attendees.  
 * Priority will be given to those who are active in the US research software community and those who have not previously received travel support for a previous US-RSE conference.  
 
 Three types of support will be available.  We may not be able to provide all three types of support to every applicant.
