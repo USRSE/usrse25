@@ -8,6 +8,8 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+# Student & Early-Career Focused Sessions
+
 <a name="student-panel-Monday"></a>
 ## RSEs Across Domains
 
