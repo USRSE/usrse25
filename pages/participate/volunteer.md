@@ -8,11 +8,20 @@ menubar_toc: true
 permalink: participate/volunteer/
 set_last_modified: true
 ---
-# General volunteering opportunities
+# General Volunteering Opportunities
 
 If you are interested in volunteering during the conference, please indicate your interest by [submitting this form](https://forms.gle/gaABue72wFwoXgFE8). As specific volunteering roles are clarified closer to the conference, the conference organizers may reach out to you about those opportunities.
 
-# BE program volunteers
+# USRSE'25 Mentorship Program
+
+The Mentorship Program pairs students and early-career attendees with experienced mentors. 
+There is only one required event for the Mentorship Program, a "Mentor–Mentee Lunch" on 
+Monday, October 6, but pairs are encouraged to stay in touch following the conference. 
+For more information and to participate (either as a mentor or mentee), please
+[fill out the matching questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfpChAMh7E23ti9oXGCZsGTSCgutqXT_JO-dcd6UmDcc_5zew/viewform) 
+by September 21. 
+
+# BE Program Volunteers
 
 Under the [Building Engagement (BE) program](https://shinstitute.org/building-engagement-us-rse-2025/) from Sustainable Horizons Institute, we are currently recruiting volunteers for these roles:
 
