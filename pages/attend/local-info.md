@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Local Information
+title: Philly map & things to do
 description: 
 menubar: attend
 permalink: attend/local-info/
