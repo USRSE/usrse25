@@ -44,23 +44,30 @@ Additional evening reception events with some food and drinks will also be held 
 
 ## Getting to Philadelphia
 
-The Philadelphia International Airport (PHL) is about 20 minutes/10 miles from the conference hotel. The hotel does NOT have an airport shuttle.
+* The Philadelphia International Airport (PHL) is about 10 miles (15 to 35 minutes by car, depending on traffic) from the conference hotel. 
+* The Philadelphia Amtrak train station is 2.5 miles from the conference hotel. 
+* Newark Liberty International Airport (EWR) is about 80 miles (75 to 100 minutes by car, depending on traffic) from Philadelphia.
+* The hotel does NOT have an airport shuttle.
+* The daily parking rate at the hotel is $60.  There are additional parking garages approximately a half-mile from the hotel.  
 
-The Philadelphia Amtrak train station is 2.5 miles from the conference hotel. 
+### Transportation from PHL to the conference area (Old City)
+You have two main options to reach Old City from PHL:
 
-Newark Liberty International Airport (EWR) is about 80 miles (75 to 100 minutes by car, depending on traffic) from Philadelphia.
+* **By Train:**
+SEPTA’s Airport Line runs approximately every 30 minutes and connects the airport to **30th Street Station**, **Suburban Station**, and **Jefferson Station** in Center City. From there, you can transfer to the **Market-Frankford Line (MFL)** subway (also called the “El”) and take it eastbound toward **2nd Street Station**, which is within walking distance of Old City.
 
-The daily parking rate at the hotel is $60.  There are additional parking garages approximately a 1/2 mile from the hotel.  
+* **By Taxi/Rideshare:**
+A taxi from the airport to Old City typically takes 15–35 minutes, depending on traffic, and has a flat rate of around $30–35 plus tip. This is the most convenient option, especially if you're carrying luggage or arriving during off-peak hours. If you're being reimbursed by your company, this is usually the simplest and most efficient choice.
 
-## Sustainable Horizons Institute - Building Engagement (BE) program
+## Financial Support
+
+US-RSE is able to provide [financial support](https://us-rse.org/usrse25/attend/financialsupport/) to attend the conference to a limited number of attendees.
+
+### Sustainable Horizons Institute - Building Engagement (BE) program
 
 The BE program is designed to expand the professional association by supporting attendees from a variety of backgrounds. The application for funded participants opens August 11 with a deadline of August 22. The BE program also has [opportunities for volunteers](https://us-rse.org/usrse25/participate/volunteer/).
 
 Visit Sustainable Horizons Institute's [BE@US-RSE25 page](https://shinstitute.org/building-engagement-us-rse-2025/) for details on the application, eligibility, and key dates. If you have any questions please contact: BE@shinstitute.org
 
 <img src = "../../assets/img/SustainableHorizons_LogoV2_transparent.png" style="width:400px;height:auto;">
-
-## Financial Support
-
-US-RSE is able to provide [financial support](https://us-rse.org/usrse25/attend/financialsupport/) to attend the conference to a limited number of attendees.
 
