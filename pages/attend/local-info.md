@@ -13,20 +13,7 @@ set_last_modified: true
 
 [See the full map](https://www.visitphilly.com/wp-content/uploads/2024/04/Walking-Flat-PHLCVB-Map.pdf)
 
-## Transportation
-**Philadelphia International Airport (PHL)**
-
-Philadelphia International Airport (PHL) is the closest major airport, located about 10 miles from Center City. You have two main options to reach the conference area (Old City):
-
-* **By Train:**
-SEPTA’s Airport Line runs approximately every 30 minutes and connects the airport to **30th Street Station**, **Suburban Station**, and **Jefferson Station** in Center City. From there, you can transfer to the **Market-Frankford Line (MFL)** subway (also called the “El”) and take it eastbound toward **2nd Street Station**, which is within walking distance of Old City.
-
-
-* **By Taxi/Rideshare:**
-A taxi from the airport to Old City typically takes about 20–30 minutes depending on traffic and has a flat rate of around $30–35 plus tip. This is the most convenient option, especially if you're carrying luggage or arriving during off-peak hours. If you're being reimbursed by your company, this is usually the simplest and most efficient choice.
-
-
-## Things to do/see
+## Things to Do or See
 
 [Cultural/Museum Google Map List](https://maps.app.goo.gl/JW73CWgCyTsP3mMr8)
 
