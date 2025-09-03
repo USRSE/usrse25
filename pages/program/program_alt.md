@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Full Program
+title: Full Program (alternate view)
 description:
 menubar: program
 permalink: program/program_alt/
