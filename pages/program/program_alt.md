@@ -11,7 +11,7 @@ set_last_modified: true
 
 **Please note:** 
 - The schedule below is an outline and it is still evolving. Times and room assignments may shift. Further details will be added in the coming days and weeks.
-- This alternate version of the program exists because some conference attendees do not have access to Google resources. It is intended to be an exact copy of the primary version of the program, however, it is updated less frequently. The most up-to-date program is the primary version and it depends on Google resources.
+- This alternate version of the program exists because some conference attendees do not have access to Google resources. It is intended to be an exact copy of the [primary version of the program](https://us-rse.org/usrse25/program/), however, it is updated less frequently. The most up-to-date program is the primary version and it depends on Google resources.
 
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#floorplanModal">
