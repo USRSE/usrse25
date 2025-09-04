@@ -8,6 +8,10 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+Authors of notebooks are expected to upload their notebook to the Zenodo site for 
+[USRSE'25 Conference Proceedings](https://zenodo.org/communities/usrse25/records?q=&l=list&p=1&s=10&sort=newest) 
+**before** the conference begins.
+
 <a name="n-energy"></a>
 ## Open Free Energy: An Open Source Ecosystem for Calculating Free Energies
 
