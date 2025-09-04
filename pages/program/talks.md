@@ -10,7 +10,7 @@ set_last_modified: true
 
 Speakers are asked to upload their slides to the Zenodo site for 
 [USRSE'25 Conference Proceedings](https://zenodo.org/communities/usrse25/records?q=&l=list&p=1&s=10&sort=newest) 
-as soon as possible, which may be during or shortly after the conference.
+as soon as possible, which may be before, during, or shortly after the conference.
 
 <div id="accordion">
 
