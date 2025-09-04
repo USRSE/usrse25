@@ -8,6 +8,10 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+Authors of papers are expected to upload their paper to the Zenodo site for 
+[USRSE'25 Conference Proceedings](https://zenodo.org/communities/usrse25/records?q=&l=list&p=1&s=10&sort=newest) 
+**before** the conference begins.
+
 <a name="p-spel"></a>
 ## SPEL - Software Package for E3SM Land Model: Code Understanding and Functional Unit Testing
 
