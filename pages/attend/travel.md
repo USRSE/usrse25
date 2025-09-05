@@ -45,8 +45,9 @@ Additional evening reception events with some food and drinks will also be held 
 ## Getting to Philadelphia
 
 * The Philadelphia International Airport (PHL) is about 10 miles (15-35 minutes by car, depending on traffic) from the conference hotel. 
-* The Philadelphia Amtrak train station is 2.5 miles from the conference hotel. 
+* The Philadelphia Amtrak train station is 2.5 miles from the conference hotel.
 * Newark Liberty International Airport (EWR) is about 80 miles (75-100 minutes by car, depending on traffic) from Philadelphia.
+* The Baltimore/Washington International Airport (BWI) is about 100 miles from Philadelphia and may offer less expensive flights from some parts of the country. Reasonable train options connect Baltimore and Philadelphia. 
 * The hotel does NOT have an airport shuttle.
 * The daily parking rate at the hotel is $60.  There are additional parking garages approximately a half-mile from the hotel.  
 
