@@ -15,7 +15,7 @@ set_last_modified: true
 
 ## Things to Do or See
 
-[Cultural/Museum Google Map List](https://maps.app.goo.gl/JW73CWgCyTsP3mMr8)
+Consult our [Google Map List](https://maps.app.goo.gl/JW73CWgCyTsP3mMr8) to get your bearings relative to Old City on a few of the locations listed below.
 
 **Historical:**
 - [Betsy Ross House](https://historicphiladelphia.org/betsy-ross-house/) – Birthplace of the American flag.
