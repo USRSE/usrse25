@@ -1346,8 +1346,8 @@ td
   width:458pt'><font class="font10">US-RSE Group Fair: Learn How to Get More
   Involved in US-RSE (Bromley/Claypoole) <br>
     </font><font class="font6">Bring your lunch and come learn about US-RSE
-  working groups, affinity groups, and other <br>
-    ways to get more involved in US-RSE</font></td>
+  working groups, affinity groups, and other ways to get more involved 
+		in US-RSE</font></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl88 width=132 style='height:56.0pt;width:99pt'>1:30 PM</td>
