@@ -25,7 +25,7 @@ Please plan to arrive on Sunday, October 5, 2025.  The conference starts early M
 
 A room block at the hotel is available only for Sunday, Monday, and Tuesday nights (Oct 5-7). A reservation for those three nights can be made online through the links below. If you need to add Saturday night (Oct 4) and/or Wednesday night (Oct 8), please first make your online reservation and then email Andrea Rubinstein (alrubins@princeton.edu) with your request. Include your Marriott reservation confirmation number in your message to Andrea.
 
-* [Regular reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661853085&key=GRP&guestreslink2=true&app=resvlink ) - $239/night + taxes
+* [Regular reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661853085&key=GRP&guestreslink2=true&app=resvlink ) - $239/night + taxes (9/12 update: the regular rate room block is FULL)
 * The government rate room block is FULL
 
 If the regular room block is full, please contact us at [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org) so we can investigate adding additional rooms.
