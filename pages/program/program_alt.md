@@ -40,7 +40,7 @@ xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<style id="USRSE'25 Program (1)_22259_Styles">
+<style id="USRSE25_Program_3056_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
@@ -56,7 +56,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Arial;
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font5
@@ -65,7 +65,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Arial;
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font6
@@ -74,7 +74,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:italic;
 	text-decoration:none;
-	font-family:Arial;
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font7
@@ -83,7 +83,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Arial;
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font8
@@ -93,7 +93,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-style:normal;
 	text-decoration:underline;
 	text-underline-style:single;
-	font-family:Arial;
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font9
@@ -103,7 +103,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-style:normal;
 	text-decoration:underline;
 	text-underline-style:single;
-	font-family:"Arial";
+	font-family:"Roboto\,sans-serif";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font10
@@ -112,7 +112,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Arial;
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 tr
@@ -134,7 +134,7 @@ br
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Arial;
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:none;
@@ -152,7 +152,7 @@ td
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Arial;
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-number-format:General;
@@ -762,17 +762,12 @@ td
 	mso-pattern:#F3F3F3 none;}
 .xl126
 	{mso-style-parent:style0;
-	color:white;
-	text-align:right;
-	vertical-align:top;}
-.xl127
-	{mso-style-parent:style0;
 	color:windowtext;
 	border-top:.5pt solid #CCCCCC;
 	border-right:none;
 	border-bottom:.5pt solid #CCCCCC;
 	border-left:none;}
-.xl128
+.xl127
 	{mso-style-parent:style0;
 	color:black;
 	font-weight:700;
@@ -784,14 +779,14 @@ td
 	background:#F3F3F3;
 	mso-pattern:#F3F3F3 none;
 	white-space:normal;}
-.xl129
+.xl128
 	{mso-style-parent:style0;
 	color:windowtext;
 	border-top:.5pt solid #CCCCCC;
 	border-right:.5pt solid #CCCCCC;
 	border-bottom:.5pt solid #CCCCCC;
 	border-left:none;}
-.xl130
+.xl129
 	{mso-style-parent:style0;
 	color:white;
 	font-size:12.0pt;
@@ -809,21 +804,21 @@ td
 	background:#46BDC6;
 	mso-pattern:#46BDC6 none;
 	white-space:normal;}
-.xl131
+.xl130
 	{mso-style-parent:style0;
 	color:windowtext;
 	border-top:none;
 	border-right:none;
 	border-bottom:.5pt solid #BFBFBF;
 	border-left:none;}
-.xl132
+.xl131
 	{mso-style-parent:style0;
 	color:windowtext;
 	border-top:none;
 	border-right:.5pt solid #CCCCCC;
 	border-bottom:.5pt solid #BFBFBF;
 	border-left:none;}
-.xl133
+.xl132
 	{mso-style-parent:style0;
 	color:white;
 	font-size:12.0pt;
@@ -837,7 +832,7 @@ td
 	background:#46BDC6;
 	mso-pattern:#46BDC6 none;
 	white-space:normal;}
-.xl134
+.xl133
 	{mso-style-parent:style0;
 	color:windowtext;
 	border-top:none;
@@ -851,10 +846,10 @@ td
 <body link="#1155CC" vlink="#1155CC">
 <!--[if !excel]>&nbsp;&nbsp;<![endif]-->
 
-<div id="USRSE'25 Program (1)_22259" align=center x:publishsource="Excel">
+<div id="USRSE25_Program_3056" align=center x:publishsource="Excel">
 
-<table border=0 cellpadding=0 cellspacing=0 width=1267 style='border-collapse:
- collapse;table-layout:fixed;width:951pt'>
+<table border=0 cellpadding=0 cellspacing=0 width=943 style='border-collapse:
+ collapse;table-layout:fixed;width:708pt'>
  <col width=132 style='mso-width-source:userset;mso-width-alt:4224;width:99pt'>
  <col width=201 style='mso-width-source:userset;mso-width-alt:6442;width:151pt'>
  <col width=204 style='mso-width-source:userset;mso-width-alt:6528;width:153pt'>
@@ -862,9 +857,8 @@ td
  <col width=205 style='mso-width-source:userset;mso-width-alt:6570;width:154pt'>
  <col width=324 style='mso-width-source:userset;mso-width-alt:10368;width:243pt'>
  <tr height=17 style='height:13.0pt'>
-  <td colspan=5 height=17 class=xl130 width=943 style='border-right:.5pt solid #CCCCCC;
+  <td colspan=5 height=17 class=xl129 width=943 style='border-right:.5pt solid #CCCCCC;
   height:13.0pt;width:708pt'>Sunday, October 5</td>
-  <td width=324 style='width:243pt'></td>
  </tr>
  <tr height=28 style='mso-height-source:userset;height:21.0pt'>
   <td height=28 class=xl65 width=132 style='height:21.0pt;width:99pt'>&nbsp;</td>
@@ -872,7 +866,6 @@ td
   Philadelphia on Sunday</td>
   <td class=xl67></td>
   <td class=xl68>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=59 style='mso-height-source:userset;height:44.25pt'>
   <td height=59 class=xl69 width=132 style='height:44.25pt;width:99pt'>4:30 -
@@ -882,7 +875,6 @@ td
   Orientation <br>
     </font><font class="font6">Invited participants only<br>
     </font><font class="font5">(Bromley/Claypoole)</font></td>
-  <td></td>
  </tr>
  <tr height=28 style='mso-height-source:userset;height:21.0pt'>
   <td height=28 class=xl69 width=132 style='height:21.0pt;border-top:none;
@@ -891,7 +883,6 @@ td
   open (Ballroom Foyer)</td>
   <td class=xl71 style='border-top:none'>&nbsp;</td>
   <td class=xl72 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=48 style='mso-height-source:userset;height:36.0pt'>
   <td height=48 class=xl69 width=132 style='height:36.0pt;border-top:none;
@@ -903,7 +894,6 @@ td
     Sponsored by </font><font class="font8">Omnibond ProjectEureka</font><font
   class="font7">™</font></span></a></td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl76 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -911,12 +901,10 @@ td
   <td class=xl78></td>
   <td class=xl78></td>
   <td class=xl79>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td colspan=5 height=17 class=xl133 width=943 style='border-right:.5pt solid #CCCCCC;
+  <td colspan=5 height=17 class=xl132 width=943 style='border-right:.5pt solid #CCCCCC;
   height:13.0pt;width:708pt'>Monday, October 6</td>
-  <td></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl69 width=132 style='height:20.25pt;width:99pt'>7:30 AM
@@ -924,7 +912,6 @@ td
   <td colspan=2 class=xl70>Registration table open (Ballroom)</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl69 width=132 style='height:20.25pt;border-top:none;
@@ -932,7 +919,6 @@ td
   <td colspan=2 class=xl80>Breakfast buffet (Hamilton)</td>
   <td class=xl81 style='border-top:none'>&nbsp;</td>
   <td class=xl82 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl69 width=132 style='height:20.25pt;border-top:none;
@@ -940,7 +926,6 @@ td
   <td colspan=2 class=xl70>Quiet Room open (Boardroom)</td>
   <td class=xl71 style='border-top:none'>&nbsp;</td>
   <td class=xl72 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=73 style='mso-height-source:userset;height:55.5pt'>
   <td height=73 class=xl83 width=132 style='height:55.5pt;border-top:none;
@@ -953,7 +938,6 @@ td
     (Ballroom ABCDE)</font></span></a></td>
   <td class=xl85 style='border-top:none'>&nbsp;</td>
   <td class=xl86 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=31 style='mso-height-source:userset;height:23.25pt'>
   <td height=31 class=xl87 width=132 style='height:23.25pt;border-top:none;
@@ -962,7 +946,6 @@ td
   <td class=xl71 style='border-top:none'>&nbsp;</td>
   <td class=xl71 style='border-top:none'>&nbsp;</td>
   <td class=xl72 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl88 width=132 style='height:42.0pt;width:99pt'>10:30 AM</td>
@@ -977,7 +960,6 @@ td
   Experience Research for RSEs</span></a></td>
   <td class=xl91>Improving Scientific Code</td>
   <td class=xl92>Human and Social Data</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -986,7 +968,6 @@ td
   <td class=xl94>Location: Ballroom AB</td>
   <td class=xl94>Location: Ballroom C</td>
   <td class=xl95>Location: Ballroom DE</td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
@@ -1000,7 +981,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/"><span style='color:#1155CC'><font
   class="font9">surveydown: An Open-Source, Markdown-Based Platform for
   Programmable and Reproducible Surveys</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
@@ -1014,7 +994,6 @@ td
   href="https://us-rse.org/usrse25/program/papers/#p-pop"><span
   style='color:#1155CC'><font class="font9">Producing High-fidelity Synthetic
   Population Ensembles at Scale</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
@@ -1028,7 +1007,6 @@ td
   href="https://us-rse.org/usrse25/program/papers/#p-syncflow"><span
   style='color:#1155CC'><font class="font9">SyncFlow: A Scalable Platform for
   Multimodal Learning Analytics</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
   <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
@@ -1042,7 +1020,6 @@ td
   href="https://us-rse.org/usrse25/program/notebooks/#n-undate"><span
   style='color:#1155CC'><font class="font9">Undate: computing with uncertain
   and partially-unknown dates</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl87 width=132 style='height:13.0pt;width:99pt'>12:00 PM</td>
@@ -1050,7 +1027,6 @@ td
   <td class=xl80 colspan=3 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><font
   class="font10">Student-Mentor Lunch (Location TBD)<br>
     </font><font class="font6">Open to invited participants</font></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl88 width=132 style='height:42.0pt;width:99pt'>1:30 PM</td>
@@ -1067,7 +1043,6 @@ td
   <td class=xl102 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-pegasus"><span
   style='color:blue;font-weight:700'>AI Workflows with ACCESS Pegasus</span></a></td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1075,7 +1050,6 @@ td
   <td class=xl94>Location: Ballroom AB</td>
   <td class=xl94>Location: Ballroom C</td>
   <td class=xl95>Location: Ballroom DE</td>
-  <td></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
   <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
@@ -1086,7 +1060,6 @@ td
   Software</font></span></a></td>
   <td></td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
@@ -1097,7 +1070,6 @@ td
   Engineer (RSE) Roles and Recruiting through the US-RSE Job Board</font></span></a></td>
   <td></td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
   <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
@@ -1108,7 +1080,6 @@ td
   Experiential DataSquad Model</font></span></a></td>
   <td></td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
@@ -1119,7 +1090,6 @@ td
   interpersonal connections for robust software development and sustainability</font></span></a></td>
   <td></td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=25 style='mso-height-source:userset;height:19.5pt'>
   <td height=25 class=xl87 width=132 style='height:19.5pt;width:99pt'>3:00 PM</td>
@@ -1127,7 +1097,6 @@ td
   <td class=xl71>&nbsp;</td>
   <td class=xl103>&nbsp;</td>
   <td class=xl104>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl88 width=132 style='height:56.0pt;width:99pt'>3:15 PM</td>
@@ -1142,7 +1111,6 @@ td
   with SLEAP</span></a></td>
   <td class=xl106 width=205 style='width:154pt'>Publishing and Finding Research
   Software</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1150,7 +1118,6 @@ td
   <td class=xl94>Location: Ballroom AB</td>
   <td class=xl94>Location: Ballroom C</td>
   <td class=xl95>Location: Ballroom DE</td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1164,7 +1131,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/#heading7"><span
   style='color:#1155CC'><font class="font9">Notebooks as the Published Paper,
   How Ready are Scientific Communities?</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
@@ -1178,7 +1144,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/#heading11"><span
   style='color:#1155CC'><font class="font9">Making Research Software Findable,
   Accessible, Interoperable, Reusable (FAIR) with Codefair</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1192,7 +1157,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/#heading12"><span
   style='color:#1155CC'><font class="font9">Presenting the Actionable
   Guidelines for FAIR Research Software Task Force</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1206,7 +1170,6 @@ td
   href="https://us-rse.org/usrse25/program/papers/#p-github"><span
   style='color:#1155CC'><font class="font9">An Empirical Survey of GitHub
   Repositories at U.S. R2 and Doctoral/Professional Universities</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1217,7 +1180,6 @@ td
   Translation using AI: Breaking the Communication Barriers</font></span></a></td>
   <td></td>
   <td class=xl95>&nbsp;</td>
-  <td class=xl94></td>
  </tr>
  <tr height=24 style='mso-height-source:userset;height:18.75pt'>
   <td height=24 class=xl87 width=132 style='height:18.75pt;width:99pt'>4:45 PM</td>
@@ -1225,7 +1187,6 @@ td
   <td class=xl71>&nbsp;</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl69 width=132 style='height:30.0pt;border-top:none;
@@ -1236,7 +1197,6 @@ td
   and reception (Hamilton)</font></span></a></td>
   <td class=xl85 style='border-top:none'>&nbsp;</td>
   <td class=xl86 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl76 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1244,12 +1204,10 @@ td
   <td class=xl67></td>
   <td class=xl67></td>
   <td class=xl68>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td colspan=5 height=17 class=xl130 width=943 style='border-right:.5pt solid #CCCCCC;
+  <td colspan=5 height=17 class=xl129 width=943 style='border-right:.5pt solid #CCCCCC;
   height:13.0pt;width:708pt'>Tuesday, October 7</td>
-  <td></td>
  </tr>
  <tr height=28 style='mso-height-source:userset;height:21.75pt'>
   <td height=28 class=xl108 width=132 style='height:21.75pt;width:99pt'>7:30 AM
@@ -1257,7 +1215,6 @@ td
   <td colspan=2 class=xl66>Registration table open (Ballroom)</td>
   <td class=xl67></td>
   <td class=xl68>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=28 style='mso-height-source:userset;height:21.75pt'>
   <td height=28 class=xl69 width=132 style='height:21.75pt;width:99pt'>7:30 AM
@@ -1265,7 +1222,6 @@ td
   <td colspan=2 class=xl80>Breakfast buffet (Ballroom Foyer)</td>
   <td class=xl81>&nbsp;</td>
   <td class=xl82>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=28 style='mso-height-source:userset;height:21.75pt'>
   <td height=28 class=xl69 width=132 style='height:21.75pt;border-top:none;
@@ -1273,7 +1229,6 @@ td
   <td colspan=2 class=xl70>Quiet Room open (Boardroom)</td>
   <td class=xl71 style='border-top:none'>&nbsp;</td>
   <td class=xl72 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=76 style='mso-height-source:userset;height:57.75pt'>
   <td height=76 class=xl83 width=132 style='height:57.75pt;border-top:none;
@@ -1286,7 +1241,6 @@ td
   class="font0"><br>
     (Ballroom ABCDE)</font></span></a></td>
   <td class=xl86 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=31 style='mso-height-source:userset;height:23.25pt'>
   <td height=31 class=xl87 width=132 style='height:23.25pt;border-top:none;
@@ -1295,7 +1249,6 @@ td
   <td class=xl71 style='border-top:none'>&nbsp;</td>
   <td class=xl103 style='border-top:none'>&nbsp;</td>
   <td class=xl72 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=93 style='height:70.0pt'>
   <td height=93 class=xl88 width=132 style='height:70.0pt;width:99pt'>10:30 AM</td>
@@ -1309,7 +1262,6 @@ td
   style='color:blue;font-weight:700'>Resilient Data Futures - How Do We Save,
   Share, and Fund Critical Data Stores Outside Traditional Systems?</span></a></td>
   <td class=xl109 width=205 style='width:154pt'>Scientific Data Management</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1317,7 +1269,6 @@ td
   <td class=xl94>Location: Ballroom AB</td>
   <td class=xl94>Location: Ballroom C</td>
   <td class=xl95>Location: Ballroom DE</td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1331,7 +1282,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/#heading1"><span
   style='color:#1155CC'><font class="font9">Heterogeneous Distributed Data
   Management in Academia</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1345,7 +1295,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/#heading3"><span
   style='color:#1155CC'><font class="font9">Increasing the Accessibility of
   Quarto-Based NOAA Fisheries Reports</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
@@ -1359,7 +1308,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/#heading16"><span
   style='color:#1155CC'><font class="font9">Beyond Specialization: Navigating
   the Post-Hadoop Database World</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1373,7 +1321,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/#heading19"><span
   style='color:#1155CC'><font class="font9">dbverse: scalable scientific
   analytics with embedded analytical databases</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
   <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
@@ -1384,7 +1331,6 @@ td
   a Single Image File Format</font></span></a></td>
   <td></td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1392,18 +1338,16 @@ td
   <td class=xl94></td>
   <td class=xl94></td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl87 width=132 style='height:13.0pt;width:99pt'>12:00 PM</td>
   <td class=xl80>Main Lunch (Hamilton)</td>
-  <td colspan=3 class=xl128 width=610 style='border-right:.5pt solid #CCCCCC;
+  <td colspan=3 class=xl127 width=610 style='border-right:.5pt solid #CCCCCC;
   width:458pt'><font class="font10">US-RSE Group Fair: Learn How to Get More
   Involved in US-RSE (Bromley/Claypoole) <br>
     </font><font class="font6">Bring your lunch and come learn about US-RSE
   working groups, affinity groups, and other <br>
     ways to get more involved in US-RSE</font></td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl88 width=132 style='height:56.0pt;width:99pt'>1:30 PM</td>
@@ -1417,7 +1361,6 @@ td
   Incorporating Artificial Intelligence</span></a></td>
   <td class=xl101 width=201 style='width:151pt'>Software Engineering Practices</td>
   <td class=xl110 width=205 style='width:154pt'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1425,7 +1368,6 @@ td
   <td class=xl94>Location: Ballroom AB</td>
   <td class=xl94>Location: Ballroom CDE</td>
   <td class=xl111>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
   <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
@@ -1437,7 +1379,6 @@ td
   Practices, Tools, and Opportunities</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
-  <td></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
   <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
@@ -1449,7 +1390,6 @@ td
   Shaped Software Engineering</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
-  <td></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
   <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
@@ -1460,7 +1400,6 @@ td
   style='color:#1155CC'><font class="font9">Technical Debt and Code Migration</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1472,7 +1411,6 @@ td
   Design: Empathy in Software Development</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1484,7 +1422,6 @@ td
   reproducible and reliable tutorials with CI/CD</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1492,7 +1429,6 @@ td
   <td class=xl94></td>
   <td class=xl94></td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=24 style='mso-height-source:userset;height:18.75pt'>
   <td height=24 class=xl87 width=132 style='height:18.75pt;width:99pt'>3:00 PM</td>
@@ -1500,7 +1436,6 @@ td
   <td class=xl71>&nbsp;</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=93 style='height:70.0pt'>
   <td height=93 class=xl88 width=132 style='height:70.0pt;width:99pt'>3:15 PM</td>
@@ -1517,7 +1452,6 @@ td
   style='color:blue;font-weight:700'>Real-world Impacts of Generative AI in the
   Research Software Engineering and Data Science Workplace</span></a></td>
   <td class=xl109 width=205 style='width:154pt'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1525,7 +1459,6 @@ td
   <td class=xl94>Location: Ballroom AB</td>
   <td class=xl94>Location: Ballroom CDE</td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
   <td height=29 class=xl87 width=132 style='height:22.5pt;width:99pt'>4:45 PM</td>
@@ -1533,7 +1466,6 @@ td
   <td class=xl71>&nbsp;</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=53 style='mso-height-source:userset;height:40.5pt'>
   <td height=53 class=xl113 width=132 style='height:40.5pt;width:99pt'>6:30 PM
@@ -1545,7 +1477,6 @@ td
     Sponsored by </font><font class="font8">Dell Technologies</font><font
   class="font7"> and </font><font class="font8">SHI</font></span></a></td>
   <td class=xl116>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl76 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1553,12 +1484,10 @@ td
   <td class=xl67></td>
   <td class=xl67></td>
   <td class=xl68>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td colspan=5 height=17 class=xl130 width=943 style='border-right:.5pt solid #CCCCCC;
+  <td colspan=5 height=17 class=xl129 width=943 style='border-right:.5pt solid #CCCCCC;
   height:13.0pt;width:708pt'>Wednesday, October 8</td>
-  <td></td>
  </tr>
  <tr height=24 style='mso-height-source:userset;height:18.0pt'>
   <td height=24 class=xl113 width=132 style='height:18.0pt;width:99pt'>7:30 AM
@@ -1567,23 +1496,20 @@ td
   <td class=xl118>&nbsp;</td>
   <td class=xl118>&nbsp;</td>
   <td class=xl119>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=24 style='mso-height-source:userset;height:18.0pt'>
   <td height=24 class=xl69 width=132 style='height:18.0pt;border-top:none;
   width:99pt'>8:00 AM - 8:30 AM</td>
   <td colspan=4 class=xl70 style='border-right:.5pt solid #CCCCCC'>Registration
   table open (Ballroom)</td>
-  <td></td>
  </tr>
  <tr height=24 style='mso-height-source:userset;height:18.0pt'>
   <td height=24 class=xl69 width=132 style='height:18.0pt;border-top:none;
-  width:99pt'>8:00 AM - 3:00 PM</td>
+  width:99pt'>8:00 AM - 12:00 PM</td>
   <td class=xl70 style='border-top:none'>Quiet Room open (Boardroom)</td>
   <td class=xl70 style='border-top:none'>&nbsp;</td>
   <td class=xl70 style='border-top:none'>&nbsp;</td>
   <td class=xl120 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl83 width=132 style='height:13.0pt;border-top:none;
@@ -1596,7 +1522,6 @@ td
     Poster Award<br>
     Better Scientific Software Fellowship Awards<br>
     (Ballroom </font><span style='display:none'><font class="font5">ABCDE)</font></span></td>
-  <td></td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
   <td height=29 class=xl87 width=132 style='height:22.5pt;border-top:none;
@@ -1605,7 +1530,6 @@ td
   <td class=xl70 style='border-top:none'>&nbsp;</td>
   <td class=xl70 style='border-top:none'>&nbsp;</td>
   <td class=xl120 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
   <td height=29 class=xl87 width=132 style='height:22.5pt;border-top:none;
@@ -1614,14 +1538,12 @@ td
   style='mso-spacerun:yes'>  </span>(Ballroom ABCDE)</td>
   <td class=xl122 style='border-top:none'>&nbsp;</td>
   <td class=xl123 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
   <td height=29 class=xl87 width=132 style='height:22.5pt;border-top:none;
   width:99pt'>11:00 AM</td>
   <td colspan=4 class=xl121 style='border-right:.5pt solid #CCCCCC'>Rapid
   Access Microtalks (Ballroom ABCDE)</td>
-  <td></td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
   <td height=29 class=xl87 width=132 style='height:22.5pt;border-top:none;
@@ -1630,7 +1552,6 @@ td
   <td class=xl124 style='border-top:none'>&nbsp;</td>
   <td class=xl124 style='border-top:none'>&nbsp;</td>
   <td class=xl125 style='border-top:none'>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl88 width=132 style='height:42.0pt;width:99pt'>1:30 PM</td>
@@ -1643,7 +1564,6 @@ td
   <td class=xl101 width=201 style='width:151pt'>Reproducibility and
   Sustainability</td>
   <td class=xl109 width=205 style='width:154pt'>HPC</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1651,7 +1571,6 @@ td
   <td class=xl94>Location: Ballroom AB</td>
   <td class=xl94>Location: Ballroom C</td>
   <td class=xl95>Location: Ballroom DE</td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1667,7 +1586,6 @@ td
   <td class=xl99 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading17"><span
   style='color:#1155CC'><font class="font9">HPC Carpentry and Community at NIST</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=93 style='height:70.0pt'>
   <td height=93 class=xl93 width=132 style='height:70.0pt;width:99pt'>&nbsp;</td>
@@ -1685,7 +1603,6 @@ td
   href="https://us-rse.org/usrse25/program/talks/#heading18"><span
   style='color:#1155CC'><font class="font9">Realizing a Project-Based Resource
   API at the Oak Ridge Leadership Computing Facility</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=93 style='height:70.0pt'>
   <td height=93 class=xl93 width=132 style='height:70.0pt;width:99pt'>&nbsp;</td>
@@ -1702,7 +1619,6 @@ td
   href="https://us-rse.org/usrse25/program/papers/#p-hpc"><span
   style='color:#1155CC'><font class="font9">A Hands-On Curriculum for Training
   in HPC Cluster Deployment and Management</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
   <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
@@ -1719,7 +1635,6 @@ td
   href="https://us-rse.org/usrse25/program/papers/#p-atr"><span
   style='color:#1155CC'><font class="font9">Integrating ATR Software with
   University HPC Infrastructure: balancing diverse compute needs</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
   <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
@@ -1733,7 +1648,6 @@ td
   href="https://us-rse.org/usrse25/program/papers/#p-nextflow"><span
   style='color:#1155CC'><font class="font9">Optimizing Nextflow-based Software
   on Shared HPC Resources: A Case Study with make_lastz_chains</font></span></a></td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1741,7 +1655,6 @@ td
   <td class=xl94></td>
   <td class=xl94></td>
   <td class=xl95>&nbsp;</td>
-  <td></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl87 width=132 style='height:13.0pt;width:99pt'>3:00 PM</td>
@@ -1749,15 +1662,6 @@ td
   <td class=xl71>&nbsp;</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
-  <td></td>
- </tr>
- <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl126 style='height:13.0pt'></td>
-  <td colspan=5 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl126 style='height:13.0pt'></td>
-  <td colspan=5 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=0 style='display:none'>
   <td width=132 style='width:99pt'></td>
@@ -1765,16 +1669,13 @@ td
   <td width=204 style='width:153pt'></td>
   <td width=201 style='width:151pt'></td>
   <td width=205 style='width:154pt'></td>
-  <td width=324 style='width:243pt'></td>
  </tr>
 </table>
 
 </div>
 
-
 </body>
 
 </html>
-
 
 
