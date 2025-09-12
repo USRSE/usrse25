@@ -23,17 +23,14 @@ We would greatly appreciate you staying at the conference hotel.  Maintaining re
 
 Please plan to arrive on Sunday, October 5, 2025.  The conference starts early Monday morning, and we are planning an informal networking event on Sunday evening.
 
-A room block at the hotel is available only for Sunday, Monday, and Tuesday nights (Oct 5-7). A reservation for those three nights can be made online through the links below. If you need to add Saturday night (Oct 4) and/or Wednesday night (Oct 8), please first make your online reservation and then email Andrea Rubinstein (alrubins@princeton.edu) with your request. Include your Marriott reservation confirmation number in your message to Andrea.
+A room block at the hotel is available only for Sunday, Monday, and Tuesday nights (Oct 5-7). The deadline to reserve a room in conference room block is September 12, but the room block may fill up before the deadline, so we encourage attendees to reserve a room as soon as possible. A reservation for those three nights can be made online through the links below. If you need to add Saturday night (Oct 4) and/or Wednesday night (Oct 8), please first make your online reservation and then email Andrea Rubinstein (alrubins@princeton.edu) with your request. Include your Marriott reservation confirmation number in your message to Andrea.
 
-* [Regular reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661853085&key=GRP&guestreslink2=true&app=resvlink ) - $239/night + taxes (9/12 update: the regular rate room block is FULL)
+* [Regular reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661853085&key=GRP&guestreslink2=true&app=resvlink ) - $239/night + taxes (**9/12 update: the regular rate room block is FULL**)
 * The government rate room block is FULL
 
 If the regular room block is full, please contact us at [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org) so we can investigate adding additional rooms.
 
-**Room reservations must be made by September 12, 2025.**
-
 If you plan to arrive Saturday (Oct 4), we encourage you to make your room reservation early; the hotel has indicated that they usually sell out on Saturday nights. We unfortunately needed to limit the room block to Sunday through Tuesday nights because we have to pay for rooms that are not filled.
-
 
 ## Food
 
