@@ -103,7 +103,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-style:normal;
 	text-decoration:underline;
 	text-underline-style:single;
-	font-family:"Roboto\,sans-serif";
+	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font10
