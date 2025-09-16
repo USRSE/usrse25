@@ -1595,10 +1595,6 @@ td
   style='color:#1155CC'><font class="font9">Principles for developing a
   personal project management workflow as a Research Software Engineer in an
   autonomous or highly independent context</font></span></a></td>
-  <td class=xl100 width=201 style='width:151pt'><a
-  href="https://us-rse.org/usrse25/program/talks/#heading26"><span
-  style='color:#1155CC'><font class="font9">Reproducibility in Context:
-  Usability, Portability, and the Limits of Pass/Fail Thinking</font></span></a></td>
   <td class=xl99 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading18"><span
   style='color:#1155CC'><font class="font9">Realizing a Project-Based Resource
