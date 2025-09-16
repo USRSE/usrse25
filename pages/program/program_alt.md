@@ -40,7 +40,7 @@ xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<style id="USRSE25_Program_3056_Styles">
+<style id="USRSE25_Program__27059_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
@@ -60,7 +60,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font5
-	{color:black;
+	{color:windowtext;
 	font-size:10.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -72,12 +72,21 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	{color:black;
 	font-size:10.0pt;
 	font-weight:400;
-	font-style:italic;
+	font-style:normal;
 	text-decoration:none;
 	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font7
+	{color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Roboto;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
 	{color:windowtext;
 	font-size:10.0pt;
 	font-weight:700;
@@ -86,7 +95,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font8
+.font9
 	{color:#1155CC;
 	font-size:10.0pt;
 	font-weight:700;
@@ -96,7 +105,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font9
+.font10
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Roboto;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
 	{color:#1155CC;
 	font-size:10.0pt;
 	font-weight:400;
@@ -106,7 +124,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:Roboto;
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font10
+.font12
 	{color:black;
 	font-size:10.0pt;
 	font-weight:700;
@@ -349,24 +367,6 @@ td
 	mso-pattern:#FFE0FF none;}
 .xl85
 	{mso-style-parent:style0;
-	color:black;
-	border-top:.5pt solid #CCCCCC;
-	border-right:none;
-	border-bottom:.5pt solid #CCCCCC;
-	border-left:none;
-	background:#FFE0FF;
-	mso-pattern:#FFE0FF none;}
-.xl86
-	{mso-style-parent:style0;
-	color:black;
-	border-top:.5pt solid #CCCCCC;
-	border-right:.5pt solid #CCCCCC;
-	border-bottom:.5pt solid #CCCCCC;
-	border-left:none;
-	background:#FFE0FF;
-	mso-pattern:#FFE0FF none;}
-.xl87
-	{mso-style-parent:style0;
 	color:white;
 	font-weight:700;
 	font-family:Roboto;
@@ -382,7 +382,7 @@ td
 	background:#9C2375;
 	mso-pattern:#9C2375 none;
 	white-space:normal;}
-.xl88
+.xl86
 	{mso-style-parent:style0;
 	color:white;
 	font-weight:700;
@@ -395,7 +395,7 @@ td
 	background:#9C2375;
 	mso-pattern:#9C2375 none;
 	white-space:normal;}
-.xl89
+.xl87
 	{mso-style-parent:style0;
 	color:blue;
 	font-weight:700;
@@ -404,7 +404,7 @@ td
 	vertical-align:top;
 	background:#FFE0FF;
 	mso-pattern:#FFE0FF none;}
-.xl90
+.xl88
 	{mso-style-parent:style0;
 	color:blue;
 	font-weight:700;
@@ -414,14 +414,14 @@ td
 	background:#FFE0FF;
 	mso-pattern:#FFE0FF none;
 	white-space:normal;}
-.xl91
+.xl89
 	{mso-style-parent:style0;
 	color:black;
 	font-weight:700;
 	vertical-align:top;
 	background:#FFE0FF;
 	mso-pattern:#FFE0FF none;}
-.xl92
+.xl90
 	{mso-style-parent:style0;
 	color:black;
 	font-weight:700;
@@ -432,7 +432,7 @@ td
 	border-left:none;
 	background:#FFE0FF;
 	mso-pattern:#FFE0FF none;}
-.xl93
+.xl91
 	{mso-style-parent:style0;
 	color:white;
 	font-family:Roboto;
@@ -444,12 +444,12 @@ td
 	background:#9C2375;
 	mso-pattern:#9C2375 none;
 	white-space:normal;}
-.xl94
+.xl92
 	{mso-style-parent:style0;
 	color:black;
 	font-style:italic;
 	vertical-align:top;}
-.xl95
+.xl93
 	{mso-style-parent:style0;
 	color:black;
 	font-style:italic;
@@ -458,23 +458,23 @@ td
 	border-right:.5pt solid #CCCCCC;
 	border-bottom:none;
 	border-left:none;}
-.xl96
+.xl94
 	{mso-style-parent:style0;
 	color:black;
 	vertical-align:top;}
-.xl97
+.xl95
 	{mso-style-parent:style0;
 	color:black;
 	vertical-align:top;
 	white-space:normal;}
-.xl98
+.xl96
 	{mso-style-parent:style0;
 	color:blue;
 	text-decoration:underline;
 	text-underline-style:single;
 	vertical-align:top;
 	white-space:normal;}
-.xl99
+.xl97
 	{mso-style-parent:style0;
 	color:#1155CC;
 	text-decoration:underline;
@@ -485,14 +485,14 @@ td
 	border-bottom:none;
 	border-left:none;
 	white-space:normal;}
-.xl100
+.xl98
 	{mso-style-parent:style0;
 	color:#1155CC;
 	text-decoration:underline;
 	text-underline-style:single;
 	vertical-align:top;
 	white-space:normal;}
-.xl101
+.xl99
 	{mso-style-parent:style0;
 	color:black;
 	font-weight:700;
@@ -500,7 +500,7 @@ td
 	background:#FFE0FF;
 	mso-pattern:#FFE0FF none;
 	white-space:normal;}
-.xl102
+.xl100
 	{mso-style-parent:style0;
 	color:blue;
 	font-weight:700;
@@ -514,21 +514,21 @@ td
 	background:#FFE0FF;
 	mso-pattern:#FFE0FF none;
 	white-space:normal;}
-.xl103
+.xl101
 	{mso-style-parent:style0;
 	color:black;
 	border-top:.5pt solid #CCCCCC;
 	border-right:none;
 	border-bottom:none;
 	border-left:none;}
-.xl104
+.xl102
 	{mso-style-parent:style0;
 	color:black;
 	border-top:.5pt solid #CCCCCC;
 	border-right:.5pt solid #CCCCCC;
 	border-bottom:none;
 	border-left:none;}
-.xl105
+.xl103
 	{mso-style-parent:style0;
 	color:blue;
 	font-weight:700;
@@ -542,7 +542,7 @@ td
 	background:#FFE0FF;
 	mso-pattern:#FFE0FF none;
 	white-space:normal;}
-.xl106
+.xl104
 	{mso-style-parent:style0;
 	color:black;
 	font-weight:700;
@@ -554,7 +554,7 @@ td
 	background:#FFE0FF;
 	mso-pattern:#FFE0FF none;
 	white-space:normal;}
-.xl107
+.xl105
 	{mso-style-parent:style0;
 	color:blue;
 	font-weight:700;
@@ -563,6 +563,24 @@ td
 	vertical-align:middle;
 	border-top:.5pt solid #CCCCCC;
 	border-right:none;
+	border-bottom:.5pt solid #CCCCCC;
+	border-left:none;
+	background:#FFE0FF;
+	mso-pattern:#FFE0FF none;}
+.xl106
+	{mso-style-parent:style0;
+	color:black;
+	border-top:.5pt solid #CCCCCC;
+	border-right:none;
+	border-bottom:.5pt solid #CCCCCC;
+	border-left:none;
+	background:#FFE0FF;
+	mso-pattern:#FFE0FF none;}
+.xl107
+	{mso-style-parent:style0;
+	color:black;
+	border-top:.5pt solid #CCCCCC;
+	border-right:.5pt solid #CCCCCC;
 	border-bottom:.5pt solid #CCCCCC;
 	border-left:none;
 	background:#FFE0FF;
@@ -712,7 +730,6 @@ td
 .xl121
 	{mso-style-parent:style0;
 	color:black;
-	font-weight:700;
 	vertical-align:middle;
 	border-top:.5pt solid #CCCCCC;
 	border-right:none;
@@ -723,6 +740,7 @@ td
 .xl122
 	{mso-style-parent:style0;
 	color:black;
+	font-weight:700;
 	vertical-align:middle;
 	border-top:.5pt solid #CCCCCC;
 	border-right:none;
@@ -844,9 +862,8 @@ td
 </head>
 
 <body link="#1155CC" vlink="#1155CC">
-<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
 
-<div id="USRSE25_Program_3056" align=center x:publishsource="Excel">
+<div id="USRSE25_Program__27059" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=943 style='border-collapse:
  collapse;table-layout:fixed;width:708pt'>
@@ -871,10 +888,10 @@ td
   <td height=59 class=xl69 width=132 style='height:44.25pt;width:99pt'>4:30 -
   6:00 PM</td>
   <td class=xl70 colspan=4 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><font
-  class="font5">Sustainable Horizons Institute - Building Engagement Program
+  class="font6">Sustainable Horizons Institute - Building Engagement Program
   Orientation <br>
-    </font><font class="font6">Invited participants only<br>
-    </font><font class="font5">(Bromley/Claypoole)</font></td>
+    </font><font class="font7">Invited participants only<br>
+    </font><font class="font6">(Bromley/Claypoole)</font></td>
  </tr>
  <tr height=28 style='mso-height-source:userset;height:21.0pt'>
   <td height=28 class=xl69 width=132 style='height:21.0pt;border-top:none;
@@ -884,16 +901,17 @@ td
   <td class=xl71 style='border-top:none'>&nbsp;</td>
   <td class=xl72 style='border-top:none'>&nbsp;</td>
  </tr>
- <tr height=48 style='mso-height-source:userset;height:36.0pt'>
-  <td height=48 class=xl69 width=132 style='height:36.0pt;border-top:none;
+ <tr height=64 style='mso-height-source:userset;height:48.0pt'>
+  <td height=64 class=xl69 width=132 style='height:48.0pt;border-top:none;
   width:99pt'>6:00 - 7:00 PM</td>
-  <td class=xl73 colspan=3 style='mso-ignore:colspan'><a
+  <td class=xl73 colspan=4 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><a
   href="https://omnibond.com/project-eureka/index.html"><span style='color:
-  blue;font-weight:700'><font class="font7">Welcome Reception: Open to All
+  blue;font-weight:700'><font class="font8">Welcome Reception: Open to All
   (Ballroom Foyer)<br>
-    Sponsored by </font><font class="font8">Omnibond ProjectEureka</font><font
-  class="font7">™</font></span></a></td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
+    Sponsored by </font><font class="font9">Omnibond ProjectEureka</font><font
+  class="font8">™<br>
+    </font><font class="font10">Light refreshments provided; pl</font><span
+  style='display:none'><font class="font10">an to eat dinner afterwards.</font></span></span></a></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl76 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -927,20 +945,22 @@ td
   <td class=xl71 style='border-top:none'>&nbsp;</td>
   <td class=xl72 style='border-top:none'>&nbsp;</td>
  </tr>
- <tr height=73 style='mso-height-source:userset;height:55.5pt'>
-  <td height=73 class=xl83 width=132 style='height:55.5pt;border-top:none;
+ <tr height=91 style='mso-height-source:userset;height:68.25pt'>
+  <td height=91 class=xl83 width=132 style='height:68.25pt;border-top:none;
   width:99pt'>8:30 AM</td>
-  <td class=xl84 colspan=2 style='mso-ignore:colspan'><a
+  <td colspan=4 class=xl84 style='border-right:.5pt solid #CCCCCC'><a
   href="https://us-rse.org/usrse25/program/keynotes/#maxwell"><span
-  style='color:blue'><font class="font7">Plenary: <br>
+  style='color:blue'><font class="font8">Plenary: <br>
     </font><font class="font0">Welcome<br>
-    </font><font class="font8">Keynote: Reed Maxwell</font><font class="font0"><br>
+    </font><font class="font9">Keynote: Reed Maxwell</font><font class="font0">:
+  Accelerating Continental-Scale Groundwater Simulation With a Fusion of
+  Machine Learning, <br>
+    <span style='mso-spacerun:yes'>                                         
+  </span>Integrated Hydrologic Models and Community Platforms<br>
     (Ballroom ABCDE)</font></span></a></td>
-  <td class=xl85 style='border-top:none'>&nbsp;</td>
-  <td class=xl86 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=31 style='mso-height-source:userset;height:23.25pt'>
-  <td height=31 class=xl87 width=132 style='height:23.25pt;border-top:none;
+  <td height=31 class=xl85 width=132 style='height:23.25pt;border-top:none;
   width:99pt'>10:00 AM</td>
   <td class=xl70 style='border-top:none'>Break</td>
   <td class=xl71 style='border-top:none'>&nbsp;</td>
@@ -948,255 +968,256 @@ td
   <td class=xl72 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl88 width=132 style='height:42.0pt;width:99pt'>10:30 AM</td>
-  <td class=xl89><a
+  <td height=56 class=xl86 width=132 style='height:42.0pt;width:99pt'>10:30 AM</td>
+  <td class=xl87><a
   href="https://us-rse.org/usrse25/program/bofs/#b-studentpanel"><span
-  style='color:blue;font-weight:700'><font class="font8">RSEs across Domains</font><font
-  class="font7"> <br>
+  style='color:blue;font-weight:700'><font class="font9">RSEs across Domains</font><font
+  class="font8"> <br>
     </font></span></a></td>
-  <td class=xl90 width=204 style='width:153pt'><a
+  <td class=xl88 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-users"><span
   style='color:blue;font-weight:700'>Learning to Talk with Your Users: User
   Experience Research for RSEs</span></a></td>
-  <td class=xl91>Improving Scientific Code</td>
-  <td class=xl92>Human and Social Data</td>
+  <td class=xl89>Improving Scientific Code</td>
+  <td class=xl90>Human and Social Data</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94>Location: Bromley/Claypoole<br>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92>Location: Bromley/Claypoole<br>
     </td>
-  <td class=xl94>Location: Ballroom AB</td>
-  <td class=xl94>Location: Ballroom C</td>
-  <td class=xl95>Location: Ballroom DE</td>
+  <td class=xl92>Location: Ballroom AB</td>
+  <td class=xl92>Location: Ballroom C</td>
+  <td class=xl93>Location: Ballroom DE</td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl96></td>
-  <td class=xl97 width=204 style='width:153pt'></td>
-  <td class=xl98 width=201 style='width:151pt'><a
+  <td height=75 class=xl91 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl94></td>
+  <td class=xl95 width=204 style='width:153pt'></td>
+  <td class=xl96 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading8"><span
   style='color:blue'>Developing a Machine Learning-Augmented Solver for the
   Hydrologic Model ParFlow</span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/"><span style='color:#1155CC'><font
-  class="font9">surveydown: An Open-Source, Markdown-Based Platform for
+  class="font11">surveydown: An Open-Source, Markdown-Based Platform for
   Programmable and Reproducible Surveys</font></span></a></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl96></td>
-  <td class=xl97 width=204 style='width:153pt'></td>
-  <td class=xl100 width=201 style='width:151pt'><a
+  <td height=75 class=xl91 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl94></td>
+  <td class=xl95 width=204 style='width:153pt'></td>
+  <td class=xl98 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-spel"><span
-  style='color:#1155CC'><font class="font9">SPEL - Software Package for E3SM
+  style='color:#1155CC'><font class="font11">SPEL - Software Package for E3SM
   Land Model: Code Understanding and Functional Unit Testing</font></span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-pop"><span
-  style='color:#1155CC'><font class="font9">Producing High-fidelity Synthetic
+  style='color:#1155CC'><font class="font11">Producing High-fidelity Synthetic
   Population Ensembles at Scale</font></span></a></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl96></td>
-  <td class=xl97 width=204 style='width:153pt'></td>
-  <td class=xl100 width=201 style='width:151pt'><a
+  <td height=75 class=xl91 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl94></td>
+  <td class=xl95 width=204 style='width:153pt'></td>
+  <td class=xl98 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-lammps"><span
-  style='color:#1155CC'><font class="font9">LAMMPS: A Case Study For Applying
+  style='color:#1155CC'><font class="font11">LAMMPS: A Case Study For Applying
   Modern Software Engineering to an Established Research Software Package</font></span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-syncflow"><span
-  style='color:#1155CC'><font class="font9">SyncFlow: A Scalable Platform for
+  style='color:#1155CC'><font class="font11">SyncFlow: A Scalable Platform for
   Multimodal Learning Analytics</font></span></a></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
-  <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl96></td>
-  <td class=xl97 width=204 style='width:153pt'></td>
-  <td class=xl100 width=201 style='width:151pt'><a
+  <td height=37 class=xl91 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl94></td>
+  <td class=xl95 width=204 style='width:153pt'></td>
+  <td class=xl98 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-fortran"><span
-  style='color:#1155CC'><font class="font9">Idiomatic Correctness-Checking via
+  style='color:#1155CC'><font class="font11">Idiomatic Correctness-Checking via
   Julienne in Fortran 2023</font></span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/notebooks/#n-undate"><span
-  style='color:#1155CC'><font class="font9">Undate: computing with uncertain
+  style='color:#1155CC'><font class="font11">Undate: computing with uncertain
   and partially-unknown dates</font></span></a></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl87 width=132 style='height:13.0pt;width:99pt'>12:00 PM</td>
+  <td height=17 class=xl85 width=132 style='height:13.0pt;width:99pt'>12:00 PM</td>
   <td class=xl80>Main Lunch (Hamilton)</td>
-  <td class=xl80 colspan=3 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><font
-  class="font10">Student-Mentor Lunch (Location TBD)<br>
-    </font><font class="font6">Open to invited participants</font></td>
+  <td class=xl80 colspan=2 style='mso-ignore:colspan'><font class="font12">Mentorship
+  Lunch (Location TBD)<br>
+    </font><font class="font7">Open to invited participants</font></td>
+  <td class=xl82>&nbsp;</td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl88 width=132 style='height:42.0pt;width:99pt'>1:30 PM</td>
-  <td class=xl90 width=201 style='width:151pt'><a
+  <td height=56 class=xl86 width=132 style='height:42.0pt;width:99pt'>1:30 PM</td>
+  <td class=xl88 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-agile"><span
   style='color:blue;font-weight:700'>Agile Foundations for RSEs: Building an AI
   Assistant with Agile</span></a></td>
-  <td class=xl101 width=204 style='width:153pt'>People and Networks<span
+  <td class=xl99 width=204 style='width:153pt'>People and Networks<span
   style='mso-spacerun:yes'> </span></td>
-  <td class=xl90 width=201 style='width:151pt'><a
+  <td class=xl88 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/bofs/#b-bssw"><span
   style='color:blue;font-weight:700'>Better Scientific Software Fellowship
   Community</span></a></td>
-  <td class=xl102 width=205 style='width:154pt'><a
+  <td class=xl100 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-pegasus"><span
   style='color:blue;font-weight:700'>AI Workflows with ACCESS Pegasus</span></a></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94>Location: Bromley/Claypoole</td>
-  <td class=xl94>Location: Ballroom AB</td>
-  <td class=xl94>Location: Ballroom C</td>
-  <td class=xl95>Location: Ballroom DE</td>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92>Location: Bromley/Claypoole</td>
+  <td class=xl92>Location: Ballroom AB</td>
+  <td class=xl92>Location: Ballroom C</td>
+  <td class=xl93>Location: Ballroom DE</td>
  </tr>
  <tr height=37 style='height:28.0pt'>
-  <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=37 class=xl91 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading15"><span
-  style='color:#1155CC'><font class="font9">The True Gravity of Research
+  style='color:#1155CC'><font class="font11">The True Gravity of Research
   Software</font></span></a></td>
   <td></td>
-  <td class=xl95>&nbsp;</td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=75 class=xl91 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading22"><span
-  style='color:#1155CC'><font class="font9">Understanding Research Software
+  style='color:#1155CC'><font class="font11">Understanding Research Software
   Engineer (RSE) Roles and Recruiting through the US-RSE Job Board</font></span></a></td>
   <td></td>
-  <td class=xl95>&nbsp;</td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=37 style='height:28.0pt'>
-  <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=37 class=xl91 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading23"><span
-  style='color:#1155CC'><font class="font9">Building RSE Capacity with the
+  style='color:#1155CC'><font class="font11">Building RSE Capacity with the
   Experiential DataSquad Model</font></span></a></td>
   <td></td>
-  <td class=xl95>&nbsp;</td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=75 class=xl91 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading25"><span
-  style='color:#1155CC'><font class="font9">Accessing your networks: Adapting
+  style='color:#1155CC'><font class="font11">Accessing your networks: Adapting
   interpersonal connections for robust software development and sustainability</font></span></a></td>
   <td></td>
-  <td class=xl95>&nbsp;</td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=25 style='mso-height-source:userset;height:19.5pt'>
-  <td height=25 class=xl87 width=132 style='height:19.5pt;width:99pt'>3:00 PM</td>
+  <td height=25 class=xl85 width=132 style='height:19.5pt;width:99pt'>3:00 PM</td>
   <td class=xl70>Break</td>
   <td class=xl71>&nbsp;</td>
-  <td class=xl103>&nbsp;</td>
-  <td class=xl104>&nbsp;</td>
+  <td class=xl101>&nbsp;</td>
+  <td class=xl102>&nbsp;</td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl88 width=132 style='height:56.0pt;width:99pt'>3:15 PM</td>
-  <td class=xl90 width=201 style='width:151pt'><a
+  <td height=75 class=xl86 width=132 style='height:56.0pt;width:99pt'>3:15 PM</td>
+  <td class=xl88 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/bofs/#b-rsesupport"><span
   style='color:blue;font-weight:700'>Sustainable Models of RSE Support: The
   Prospects of Centralization in Institutional Research</span></a></td>
-  <td class=xl101 width=204 style='width:153pt'>AI Tools</td>
-  <td class=xl105 width=201 style='width:151pt'><a
+  <td class=xl99 width=204 style='width:153pt'>AI Tools</td>
+  <td class=xl103 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-sleap"><span
   style='color:blue;font-weight:700'>Introduction to Multi-Animal Pose Tracking
   with SLEAP</span></a></td>
-  <td class=xl106 width=205 style='width:154pt'>Publishing and Finding Research
+  <td class=xl104 width=205 style='width:154pt'>Publishing and Finding Research
   Software</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94>Location: Bromley/Claypoole</td>
-  <td class=xl94>Location: Ballroom AB</td>
-  <td class=xl94>Location: Ballroom C</td>
-  <td class=xl95>Location: Ballroom DE</td>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92>Location: Bromley/Claypoole</td>
+  <td class=xl92>Location: Ballroom AB</td>
+  <td class=xl92>Location: Ballroom C</td>
+  <td class=xl93>Location: Ballroom DE</td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-aquillm"><span
-  style='color:#1155CC'><font class="font9">AquiLLM: a RAG Tool for Capturing
+  style='color:#1155CC'><font class="font11">AquiLLM: a RAG Tool for Capturing
   Tacit Knowledge in Research Groups</font></span></a></td>
   <td></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading7"><span
-  style='color:#1155CC'><font class="font9">Notebooks as the Published Paper,
+  style='color:#1155CC'><font class="font11">Notebooks as the Published Paper,
   How Ready are Scientific Communities?</font></span></a></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=75 class=xl91 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading9"><span
-  style='color:#1155CC'><font class="font9">Knowledge Graphs as Infrastructure:
-  Enabling Generative AI Integration Across Research Software</font></span></a></td>
+  style='color:#1155CC'><font class="font11">Knowledge Graphs as
+  Infrastructure: Enabling Generative AI Integration Across Research Software</font></span></a></td>
   <td></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading11"><span
-  style='color:#1155CC'><font class="font9">Making Research Software Findable,
+  style='color:#1155CC'><font class="font11">Making Research Software Findable,
   Accessible, Interoperable, Reusable (FAIR) with Codefair</font></span></a></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading30"><span
-  style='color:#1155CC'><font class="font9">Beyond Copilot: RSE Team Lessons
+  style='color:#1155CC'><font class="font11">Beyond Copilot: RSE Team Lessons
   Learned in AI-First Development</font></span></a></td>
   <td></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading12"><span
-  style='color:#1155CC'><font class="font9">Presenting the Actionable
+  style='color:#1155CC'><font class="font11">Presenting the Actionable
   Guidelines for FAIR Research Software Task Force</font></span></a></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading20"><span
-  style='color:#1155CC'><font class="font9">LLMaven: Large Language Model based
-  Agentic Verification and Exploration of Natural Inquiry</font></span></a></td>
+  style='color:#1155CC'><font class="font11">LLMaven: Large Language Model
+  based Agentic Verification and Exploration of Natural Inquiry</font></span></a></td>
   <td></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-github"><span
-  style='color:#1155CC'><font class="font9">An Empirical Survey of GitHub
+  style='color:#1155CC'><font class="font11">An Empirical Survey of GitHub
   Repositories at U.S. R2 and Doctoral/Professional Universities</font></span></a></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading6"><span
-  style='color:#1155CC'><font class="font9">Multilingual Research Software
+  style='color:#1155CC'><font class="font11">Multilingual Research Software
   Translation using AI: Breaking the Communication Barriers</font></span></a></td>
   <td></td>
-  <td class=xl95>&nbsp;</td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=24 style='mso-height-source:userset;height:18.75pt'>
-  <td height=24 class=xl87 width=132 style='height:18.75pt;width:99pt'>4:45 PM</td>
+  <td height=24 class=xl85 width=132 style='height:18.75pt;width:99pt'>4:45 PM</td>
   <td class=xl70>Break</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
  </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl69 width=132 style='height:30.0pt;border-top:none;
+ <tr height=61 style='mso-height-source:userset;height:46.5pt'>
+  <td height=61 class=xl69 width=132 style='height:46.5pt;border-top:none;
   width:99pt'>5:30 PM - 7:00 PM</td>
-  <td class=xl107 colspan=2 style='mso-ignore:colspan'><a
+  <td class=xl105 colspan=4 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><a
   href="https://us-rse.org/usrse25/program/posters/"><span style='color:blue;
-  font-weight:700'><font class="font8">Poster session</font><font class="font7">
-  and reception (Hamilton)</font></span></a></td>
-  <td class=xl85 style='border-top:none'>&nbsp;</td>
-  <td class=xl86 style='border-top:none'>&nbsp;</td>
+  font-weight:700'><font class="font9">Poster session</font><font class="font8">
+  and reception (Hamilton)<br>
+    </font><font class="font10">Light refreshments provided during the
+  reception; plan to eat dinner afterwards.</font></span></a></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl76 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1233,250 +1254,259 @@ td
  <tr height=76 style='mso-height-source:userset;height:57.75pt'>
   <td height=76 class=xl83 width=132 style='height:57.75pt;border-top:none;
   width:99pt'>8:30 AM</td>
-  <td class=xl84 colspan=3 style='mso-ignore:colspan'><a
+  <td class=xl84 colspan=4 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><a
   href="https://us-rse.org/usrse25/program/keynotes/#cohen"><span
-  style='color:blue'><font class="font7">Plenary:<br>
+  style='color:blue'><font class="font8">Plenary:<br>
     </font><font class="font0">Announcements<br>
-    </font><font class="font8">Keynote: Myra Cohen</font><font class="font7"> </font><font
-  class="font0"><br>
-    (Ballroom ABCDE)</font></span></a></td>
-  <td class=xl86 style='border-top:none'>&nbsp;</td>
+    </font><font class="font9">Keynote: Myra Cohen</font><font class="font8">: </font><font
+  class="font0">Building Confidence in What we Build: Correctness in Research
+  Software in the Ag</font><span style='display:none'><font class="font0">e of
+  AI <br>
+    (Ballroom ABCDE)</font></span></span></a></td>
  </tr>
  <tr height=31 style='mso-height-source:userset;height:23.25pt'>
-  <td height=31 class=xl87 width=132 style='height:23.25pt;border-top:none;
+  <td height=31 class=xl85 width=132 style='height:23.25pt;border-top:none;
   width:99pt'>10:00 AM</td>
   <td class=xl70 style='border-top:none'>Break</td>
   <td class=xl71 style='border-top:none'>&nbsp;</td>
-  <td class=xl103 style='border-top:none'>&nbsp;</td>
+  <td class=xl101 style='border-top:none'>&nbsp;</td>
   <td class=xl72 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=93 style='height:70.0pt'>
-  <td height=93 class=xl88 width=132 style='height:70.0pt;width:99pt'>10:30 AM</td>
-  <td class=xl90 width=201 style='width:151pt'><a
+  <td height=93 class=xl86 width=132 style='height:70.0pt;width:99pt'>10:30 AM</td>
+  <td class=xl88 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-joss"><span
   style='color:blue;font-weight:700'>The Journal of Open Source Software: Live
   demonstration and discussion</span></a></td>
-  <td class=xl101 width=204 style='width:153pt'>Biology and Health Applications</td>
-  <td class=xl105 width=201 style='width:151pt'><a
+  <td class=xl99 width=204 style='width:153pt'>Biology and Health Applications</td>
+  <td class=xl103 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-futures"><span
   style='color:blue;font-weight:700'>Resilient Data Futures - How Do We Save,
   Share, and Fund Critical Data Stores Outside Traditional Systems?</span></a></td>
   <td class=xl109 width=205 style='width:154pt'>Scientific Data Management</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94>Location: Bromley/Claypoole</td>
-  <td class=xl94>Location: Ballroom AB</td>
-  <td class=xl94>Location: Ballroom C</td>
-  <td class=xl95>Location: Ballroom DE</td>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92>Location: Bromley/Claypoole</td>
+  <td class=xl92>Location: Ballroom AB</td>
+  <td class=xl92>Location: Ballroom C</td>
+  <td class=xl93>Location: Ballroom DE</td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading10"><span
-  style='color:#1155CC'><font class="font9">A Reproducible and Scalable
+  style='color:#1155CC'><font class="font11">A Reproducible and Scalable
   Pipeline for Processing Administrative Health Claims Data</font></span></a></td>
   <td></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading1"><span
-  style='color:#1155CC'><font class="font9">Heterogeneous Distributed Data
+  style='color:#1155CC'><font class="font11">Heterogeneous Distributed Data
   Management in Academia</font></span></a></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading14"><span
-  style='color:#1155CC'><font class="font9">The Hubverse: Streamlining
+  style='color:#1155CC'><font class="font11">The Hubverse: Streamlining
   Collaborative Infectious Disease Modeling for Public Health Impact</font></span></a></td>
   <td></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading3"><span
-  style='color:#1155CC'><font class="font9">Increasing the Accessibility of
+  style='color:#1155CC'><font class="font11">Increasing the Accessibility of
   Quarto-Based NOAA Fisheries Reports</font></span></a></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=75 class=xl91 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-toolsybio"><span
-  style='color:#1155CC'><font class="font9">ToolsyBio: A retrieval-augmented
+  style='color:#1155CC'><font class="font11">ToolsyBio: A retrieval-augmented
   generation system for navigating the bioinformatics software landscape</font></span></a></td>
   <td></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading16"><span
-  style='color:#1155CC'><font class="font9">Beyond Specialization: Navigating
+  style='color:#1155CC'><font class="font11">Beyond Specialization: Navigating
   the Post-Hadoop Database World</font></span></a></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/notebooks/#n-energy"><span
-  style='color:#1155CC'><font class="font9">Open Free Energy: An Open Source
+  style='color:#1155CC'><font class="font11">Open Free Energy: An Open Source
   Ecosystem for Calculating Free Energies</font></span></a></td>
   <td></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading19"><span
-  style='color:#1155CC'><font class="font9">dbverse: scalable scientific
+  style='color:#1155CC'><font class="font11">dbverse: scalable scientific
   analytics with embedded analytical databases</font></span></a></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
-  <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
+  <td height=37 class=xl91 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/notebooks/#n-image"><span
-  style='color:#1155CC'><font class="font9">Combining TIFF, HDF5, and Zarr into
-  a Single Image File Format</font></span></a></td>
+  style='color:#1155CC'><font class="font11">Combining TIFF, HDF5, and Zarr
+  into a Single Image File Format</font></span></a></td>
   <td></td>
-  <td class=xl95>&nbsp;</td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl94></td>
-  <td class=xl94></td>
-  <td class=xl95>&nbsp;</td>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl92></td>
+  <td class=xl92></td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl87 width=132 style='height:13.0pt;width:99pt'>12:00 PM</td>
+  <td height=17 class=xl85 width=132 style='height:13.0pt;width:99pt'>12:00 PM</td>
   <td class=xl80>Main Lunch (Hamilton)</td>
   <td colspan=3 class=xl127 width=610 style='border-right:.5pt solid #CCCCCC;
-  width:458pt'><font class="font10">US-RSE Group Fair: Learn How to Get More
+  width:458pt'><font class="font12">US-RSE Group Fair: Learn How to Get More
   Involved in US-RSE (Bromley/Claypoole) <br>
-    </font><font class="font6">Bring your lunch and come learn about US-RSE
-  working groups, affinity groups, and other ways to get more involved 
-		in US-RSE</font></td>
+    </font><font class="font7">Bring your lunch and come learn about US-RSE
+  working groups, affinity groups, and other <br>
+    ways to get more involved in US-RSE</font></td>
  </tr>
  <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl88 width=132 style='height:56.0pt;width:99pt'>1:30 PM</td>
-  <td class=xl90 width=201 style='width:151pt'><a
+  <td height=75 class=xl86 width=132 style='height:56.0pt;width:99pt'>1:30 PM</td>
+  <td class=xl88 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-cyverse"><span
   style='color:blue;font-weight:700'>Hands-on scalable cloud automation and
   platform services for AI using CyVerse</span></a></td>
-  <td class=xl90 width=204 style='width:153pt'><a
+  <td class=xl88 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/bofs/#b-aipractice"><span
   style='color:blue;font-weight:700'>AI in Practice: Managing Research Projects
   Incorporating Artificial Intelligence</span></a></td>
-  <td class=xl101 width=201 style='width:151pt'>Software Engineering Practices</td>
+  <td class=xl99 width=201 style='width:151pt'>Software Engineering Practices</td>
   <td class=xl110 width=205 style='width:154pt'>&nbsp;</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94>Location: Bromley/Claypoole</td>
-  <td class=xl94>Location: Ballroom AB</td>
-  <td class=xl94>Location: Ballroom CDE</td>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92>Location: Bromley/Claypoole</td>
+  <td class=xl92>Location: Ballroom AB</td>
+  <td class=xl92>Location: Ballroom CDE</td>
   <td class=xl111>&nbsp;</td>
  </tr>
  <tr height=37 style='height:28.0pt'>
-  <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
+  <td height=37 class=xl91 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
   <td></td>
-  <td class=xl100 width=201 style='width:151pt'><a
+  <td class=xl98 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading4"><span
-  style='color:#1155CC'><font class="font9">Efficient Documentation: Best
+  style='color:#1155CC'><font class="font11">Efficient Documentation: Best
   Practices, Tools, and Opportunities</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
-  <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
+  <td height=37 class=xl91 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
   <td></td>
-  <td class=xl100 width=201 style='width:151pt'><a
+  <td class=xl98 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading13"><span
-  style='color:#1155CC'><font class="font9">Three Foundational Ideas That
+  style='color:#1155CC'><font class="font11">Three Foundational Ideas That
   Shaped Software Engineering</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
  </tr>
  <tr height=37 style='height:28.0pt'>
-  <td height=37 class=xl93 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
+  <td height=37 class=xl91 width=132 style='height:28.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
   <td></td>
-  <td class=xl100 width=201 style='width:151pt'><a
+  <td class=xl98 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading29"><span
-  style='color:#1155CC'><font class="font9">Technical Debt and Code Migration</font></span></a></td>
+  style='color:#1155CC'><font class="font11">Technical Debt and Code Migration</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
   <td></td>
-  <td class=xl100 width=201 style='width:151pt'><a
+  <td class=xl98 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading24"><span
-  style='color:#1155CC'><font class="font9">From Hot Dogs to Human-Centered
+  style='color:#1155CC'><font class="font11">From Hot Dogs to Human-Centered
   Design: Empathy in Software Development</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
   <td></td>
-  <td class=xl100 width=201 style='width:151pt'><a
+  <td class=xl98 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading31"><span
-  style='color:#1155CC'><font class="font9">User-facing tutorials as code:
+  style='color:#1155CC'><font class="font11">User-facing tutorials as code:
   reproducible and reliable tutorials with CI/CD</font></span></a></td>
   <td class=xl112 width=205 style='width:154pt'><u style='visibility:hidden;
   mso-ignore:visibility'>&nbsp;</u></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl94></td>
-  <td class=xl94></td>
-  <td class=xl95>&nbsp;</td>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl92></td>
+  <td class=xl92></td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=24 style='mso-height-source:userset;height:18.75pt'>
-  <td height=24 class=xl87 width=132 style='height:18.75pt;width:99pt'>3:00 PM</td>
+  <td height=24 class=xl85 width=132 style='height:18.75pt;width:99pt'>3:00 PM</td>
   <td class=xl70>Break</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
  </tr>
  <tr height=93 style='height:70.0pt'>
-  <td height=93 class=xl88 width=132 style='height:70.0pt;width:99pt'>3:15 PM</td>
-  <td class=xl90 width=201 style='width:151pt'><a
+  <td height=93 class=xl86 width=132 style='height:70.0pt;width:99pt'>3:15 PM</td>
+  <td class=xl88 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/bofs/#b-accelerating"><span
   style='color:blue;font-weight:700'>Accelerating Research: Strategies from the
   Field</span></a></td>
-  <td class=xl90 width=204 style='width:153pt'><a
+  <td class=xl88 width=204 style='width:153pt'><a
   href="https://us-rse.org/usrse25/program/bofs/#b-first"><span
   style='color:blue;font-weight:700'>From First Commit to First Offer: What I
   Wish I’d Known</span></a></td>
-  <td class=xl90 width=201 style='width:151pt'><a
+  <td class=xl88 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/bofs/#b-airse"><span
   style='color:blue;font-weight:700'>Real-world Impacts of Generative AI in the
   Research Software Engineering and Data Science Workplace</span></a></td>
   <td class=xl109 width=205 style='width:154pt'>&nbsp;</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94>Location: Bromley/Claypoole</td>
-  <td class=xl94>Location: Ballroom AB</td>
-  <td class=xl94>Location: Ballroom CDE</td>
-  <td class=xl95>&nbsp;</td>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92>Location: Bromley/Claypoole</td>
+  <td class=xl92>Location: Ballroom AB</td>
+  <td class=xl92>Location: Ballroom CDE</td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
-  <td height=29 class=xl87 width=132 style='height:22.5pt;width:99pt'>4:45 PM</td>
+  <td height=29 class=xl85 width=132 style='height:22.5pt;width:99pt'>4:45 PM</td>
   <td class=xl70>Break</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
  </tr>
- <tr height=53 style='mso-height-source:userset;height:40.5pt'>
-  <td height=53 class=xl113 width=132 style='height:40.5pt;width:99pt'>6:30 PM
+ <tr height=105 style='mso-height-source:userset;height:79.5pt'>
+  <td height=105 class=xl113 width=132 style='height:79.5pt;width:99pt'>6:30 PM
   - 9:30 PM</td>
-  <td class=xl114 colspan=3 style='mso-ignore:colspan'><a
+  <td class=xl114 colspan=4 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><a
   href="https://www.moshulu.com/"><span style='color:blue;font-weight:700'><font
-  class="font7">Evening dinner at the </font><font class="font8">Moshulu</font><font
-  class="font7"><br>
-    Sponsored by </font><font class="font8">Dell Technologies</font><font
-  class="font7"> and </font><font class="font8">SHI</font></span></a></td>
-  <td class=xl116>&nbsp;</td>
+  class="font8">Food, drinks, and DJ at the </font><font class="font9">Moshulu</font><font
+  class="font8"> </font><font class="font5">(401 S. Columbus Blvd.)</font><font
+  class="font8"><br>
+    Sponsored by </font><font class="font9">Dell Technologies</font><font
+  class="font8"> and </font><font class="font9">SHI</font><font class="font8"><br>
+    </font><font class="font10">Please make your ow</font><span
+  style='display:none'><font class="font10">n way to the Moshulu (about 0.5
+  miles from the hotel) and bring your conference badge for entry.</font><font
+  class="font8"><br>
+    </font><font class="font10">If the walk is inaccessible for you, please let
+  the registration desk know by 3pm.<br>
+    Soda, juice, and one drink ticket are provided; cash bar available for
+  additional drinks.</font></span></span></a></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td height=17 class=xl76 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
@@ -1511,20 +1541,19 @@ td
   <td class=xl70 style='border-top:none'>&nbsp;</td>
   <td class=xl120 style='border-top:none'>&nbsp;</td>
  </tr>
- <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl83 width=132 style='height:13.0pt;border-top:none;
+ <tr height=109 style='mso-height-source:userset;height:82.5pt'>
+  <td height=109 class=xl83 width=132 style='height:82.5pt;border-top:none;
   width:99pt'>8:30 AM</td>
-  <td class=xl85 colspan=4 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><font
-  class="font10">Plenary:<br>
-    </font><font class="font5">Announcements <br>
+  <td class=xl121 colspan=4 style='mso-ignore:colspan;border-right:.5pt solid #CCCCCC'><font
+  class="font12">Plenary:<br>
+    </font><font class="font6">Announcements <br>
     US-RSE Updates<br>
     US-RSE Awards<br>
-    Poster Award<br>
     Better Scientific Software Fellowship Awards<br>
-    (Ballroom </font><span style='display:none'><font class="font5">ABCDE)</font></span></td>
+    (Ballroom ABCDE)</font></td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
-  <td height=29 class=xl87 width=132 style='height:22.5pt;border-top:none;
+  <td height=29 class=xl85 width=132 style='height:22.5pt;border-top:none;
   width:99pt'>10:00 AM</td>
   <td class=xl70 style='border-top:none'>Break</td>
   <td class=xl70 style='border-top:none'>&nbsp;</td>
@@ -1532,21 +1561,21 @@ td
   <td class=xl120 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
-  <td height=29 class=xl87 width=132 style='height:22.5pt;border-top:none;
+  <td height=29 class=xl85 width=132 style='height:22.5pt;border-top:none;
   width:99pt'>10:15 AM</td>
-  <td class=xl121 colspan=2 style='mso-ignore:colspan'>Sponsor panel<span
+  <td class=xl122 colspan=2 style='mso-ignore:colspan'>Sponsor panel<span
   style='mso-spacerun:yes'>  </span>(Ballroom ABCDE)</td>
-  <td class=xl122 style='border-top:none'>&nbsp;</td>
+  <td class=xl121 style='border-top:none'>&nbsp;</td>
   <td class=xl123 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
-  <td height=29 class=xl87 width=132 style='height:22.5pt;border-top:none;
+  <td height=29 class=xl85 width=132 style='height:22.5pt;border-top:none;
   width:99pt'>11:00 AM</td>
-  <td colspan=4 class=xl121 style='border-right:.5pt solid #CCCCCC'>Rapid
+  <td colspan=4 class=xl122 style='border-right:.5pt solid #CCCCCC'>Rapid
   Access Microtalks (Ballroom ABCDE)</td>
  </tr>
  <tr height=29 style='mso-height-source:userset;height:22.5pt'>
-  <td height=29 class=xl87 width=132 style='height:22.5pt;border-top:none;
+  <td height=29 class=xl85 width=132 style='height:22.5pt;border-top:none;
   width:99pt'>12:15 PM</td>
   <td class=xl80 style='border-top:none'>Lunch (Hamilton)</td>
   <td class=xl124 style='border-top:none'>&nbsp;</td>
@@ -1554,119 +1583,122 @@ td
   <td class=xl125 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl88 width=132 style='height:42.0pt;width:99pt'>1:30 PM</td>
-  <td class=xl90 width=201 style='width:151pt'><a
+  <td height=56 class=xl86 width=132 style='height:42.0pt;width:99pt'>1:30 PM</td>
+  <td class=xl88 width=201 style='width:151pt'><a
   href="https://us-rse.org/usrse25/program/workshops/#w-testing"><span
   style='color:blue;font-weight:700'>An Experimentalist Approach to Software
   Testing</span></a></td>
-  <td class=xl101 width=204 style='width:153pt'>Supporting and Managing <br>
+  <td class=xl99 width=204 style='width:153pt'>Supporting and Managing <br>
     RSE Projects</td>
-  <td class=xl101 width=201 style='width:151pt'>Reproducibility and
+  <td class=xl99 width=201 style='width:151pt'>Reproducibility and
   Sustainability</td>
   <td class=xl109 width=205 style='width:154pt'>HPC</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94>Location: Bromley/Claypoole</td>
-  <td class=xl94>Location: Ballroom AB</td>
-  <td class=xl94>Location: Ballroom C</td>
-  <td class=xl95>Location: Ballroom DE</td>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92>Location: Bromley/Claypoole</td>
+  <td class=xl92>Location: Ballroom AB</td>
+  <td class=xl92>Location: Ballroom C</td>
+  <td class=xl93>Location: Ballroom DE</td>
+ </tr>
+ <tr height=80 style='mso-height-source:userset;height:60.0pt'>
+  <td height=80 class=xl91 width=132 style='height:60.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
+  href="https://us-rse.org/usrse25/program/talks/#heading5"><span
+  style='color:#1155CC'><font class="font11">Everything, All at Once,
+  Yesterday: Creating Research Software with Humanities Faculty</font></span></a></td>
+  <td class=xl98 width=201 style='width:151pt'><a
+  href="https://us-rse.org/usrse25/program/talks/#heading2"><span
+  style='color:#1155CC'><font class="font11">Sustaining Growth of Scientific
+  Software with the Software Gardening Almanack</font></span></a></td>
+  <td class=xl97 width=205 style='width:154pt'><a
+  href="https://us-rse.org/usrse25/program/papers/#p-nextflow"><span
+  style='color:#1155CC'><font class="font11">Optimizing Nextflow-based Software
+  on Shared HPC Resources: A Case Study with make_lastz_chains</font></span></a></td>
+ </tr>
+ <tr height=68 style='mso-height-source:userset;height:51.0pt'>
+  <td height=68 class=xl91 width=132 style='height:51.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
+  href="https://us-rse.org/usrse25/program/talks/#heading28"><span
+  style='color:#1155CC'><font class="font11">Program and Technical Management
+  on a Product-Driven Research Project</font></span></a></td>
+  <td class=xl98 width=201 style='width:151pt'><a
+  href="https://us-rse.org/usrse25/program/talks/#heading27"><span
+  style='color:#1155CC'><font class="font11">Design Thinking for
+  Implementation: Leveraging Design Systems for Sustainable and Reproducible
+  Research Software</font></span></a></td>
+  <td class=xl97 width=205 style='width:154pt'><a
+  href="https://us-rse.org/usrse25/program/talks/#heading17"><span
+  style='color:#1155CC'><font class="font11">HPC Carpentry and Community at
+  NIST</font></span></a></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
-  href="https://us-rse.org/usrse25/program/talks/#heading5"><span
-  style='color:#1155CC'><font class="font9">Everything, All at Once, Yesterday:
-  Creating Research Software with Humanities Faculty</font></span></a></td>
-  <td class=xl100 width=201 style='width:151pt'><a
-  href="https://us-rse.org/usrse25/program/talks/#heading2"><span
-  style='color:#1155CC'><font class="font9">Sustaining Growth of Scientific
-  Software with the Software Gardening Almanack</font></span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
-  href="https://us-rse.org/usrse25/program/talks/#heading17"><span
-  style='color:#1155CC'><font class="font9">HPC Carpentry and Community at NIST</font></span></a></td>
- </tr>
- <tr height=93 style='height:70.0pt'>
-  <td height=93 class=xl93 width=132 style='height:70.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
-  href="https://us-rse.org/usrse25/program/talks/#heading21"><span
-  style='color:#1155CC'><font class="font9">Principles for developing a
-  personal project management workflow as a Research Software Engineer in an
-  autonomous or highly independent context</font></span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
+  href="https://us-rse.org/usrse25/program/papers/#p-mit"><span
+  style='color:#1155CC'><font class="font11">MIT Lincoln Laboratory: A Case
+  Study on Improving Software Support for Research Projects</font></span></a></td>
+  <td class=xl98 width=201 style='width:151pt'><a
+  href="https://us-rse.org/usrse25/program/papers/#p-container"><span
+  style='color:#1155CC'><font class="font11">Empirical Evaluation of Container
+  Security and Reproducibility in Research Software Engineering</font></span></a></td>
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/talks/#heading18"><span
-  style='color:#1155CC'><font class="font9">Realizing a Project-Based Resource
+  style='color:#1155CC'><font class="font11">Realizing a Project-Based Resource
   API at the Oak Ridge Leadership Computing Facility</font></span></a></td>
  </tr>
  <tr height=93 style='height:70.0pt'>
-  <td height=93 class=xl93 width=132 style='height:70.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
-  href="https://us-rse.org/usrse25/program/talks/#heading28"><span
-  style='color:#1155CC'><font class="font9">Program and Technical Management on
-  a Product-Driven Research Project</font></span></a></td>
-  <td class=xl100 width=201 style='width:151pt'><a
-  href="https://us-rse.org/usrse25/program/talks/#heading27"><span
-  style='color:#1155CC'><font class="font9">Design Thinking for Implementation:
-  Leveraging Design Systems for Sustainable and Reproducible Research Software</font></span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td height=93 class=xl91 width=132 style='height:70.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl98 width=204 style='width:153pt'><a
+  href="https://us-rse.org/usrse25/program/talks/#heading21"><span
+  style='color:#1155CC'><font class="font11">Principles for developing a
+  personal project management workflow as a Research Software Engineer in an
+  autonomous or highly independent context</font></span></a></td>
+  <td class=xl98 width=201 style='width:151pt'><a
+  href="https://us-rse.org/usrse25/program/papers/#p-trail"><span
+  style='color:#1155CC'><font class="font11">TRAIL: Audit Trails for Enhanced
+  Reproducibility and Observability of Research Computing</font></span></a></td>
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-hpc"><span
-  style='color:#1155CC'><font class="font9">A Hands-On Curriculum for Training
+  style='color:#1155CC'><font class="font11">A Hands-On Curriculum for Training
   in HPC Cluster Deployment and Management</font></span></a></td>
  </tr>
  <tr height=56 style='height:42.0pt'>
-  <td height=56 class=xl93 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl100 width=204 style='width:153pt'><a
-  href="https://us-rse.org/usrse25/program/papers/#p-mit"><span
-  style='color:#1155CC'><font class="font9">MIT Lincoln Laboratory: A Case
-  Study on Improving Software Support for Research Projects</font></span></a></td>
-  <td class=xl100 width=201 style='width:151pt'><a
-  href="https://us-rse.org/usrse25/program/papers/#p-container"><span
-  style='color:#1155CC'><font class="font9">Empirical Evaluation of Container
-  Security and Reproducibility in Research Software Engineering</font></span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
+  <td height=56 class=xl91 width=132 style='height:42.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl92></td>
+  <td></td>
+  <td class=xl97 width=205 style='width:154pt'><a
   href="https://us-rse.org/usrse25/program/papers/#p-atr"><span
-  style='color:#1155CC'><font class="font9">Integrating ATR Software with
+  style='color:#1155CC'><font class="font11">Integrating ATR Software with
   University HPC Infrastructure: balancing diverse compute needs</font></span></a></td>
  </tr>
- <tr height=75 style='height:56.0pt'>
-  <td height=75 class=xl93 width=132 style='height:56.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl94></td>
-  <td class=xl100 width=201 style='width:151pt'><a
-  href="https://us-rse.org/usrse25/program/papers/#p-trail"><span
-  style='color:#1155CC'><font class="font9">TRAIL: Audit Trails for Enhanced
-  Reproducibility and Observability of Research Computing</font></span></a></td>
-  <td class=xl99 width=205 style='width:154pt'><a
-  href="https://us-rse.org/usrse25/program/papers/#p-nextflow"><span
-  style='color:#1155CC'><font class="font9">Optimizing Nextflow-based Software
-  on Shared HPC Resources: A Case Study with make_lastz_chains</font></span></a></td>
+ <tr height=17 style='height:13.0pt'>
+  <td height=17 class=xl91 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
+  <td class=xl92></td>
+  <td class=xl92></td>
+  <td class=xl92></td>
+  <td class=xl93>&nbsp;</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl93 width=132 style='height:13.0pt;width:99pt'>&nbsp;</td>
-  <td class=xl94></td>
-  <td class=xl94></td>
-  <td class=xl94></td>
-  <td class=xl95>&nbsp;</td>
- </tr>
- <tr height=17 style='height:13.0pt'>
-  <td height=17 class=xl87 width=132 style='height:13.0pt;width:99pt'>3:00 PM</td>
+  <td height=17 class=xl85 width=132 style='height:13.0pt;width:99pt'>3:00 PM</td>
   <td class=xl70>Adjourn</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl71>&nbsp;</td>
   <td class=xl72>&nbsp;</td>
  </tr>
- <tr height=0 style='display:none'>
+  <tr height=0 style='display:none'>
   <td width=132 style='width:99pt'></td>
   <td width=201 style='width:151pt'></td>
   <td width=204 style='width:153pt'></td>
   <td width=201 style='width:151pt'></td>
   <td width=205 style='width:154pt'></td>
  </tr>
-</table>
+ </table>
 
 </div>
 
