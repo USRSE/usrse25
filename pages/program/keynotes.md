@@ -13,6 +13,8 @@ set_last_modified: true
 
 **Accelerating Continental-Scale Groundwater Simulation With a Fusion of Machine Learning, Integrated Hydrologic Models and Community Platforms**
 
+<img src="{{ site.baseurl }}/assets/img/Maxwell.jpeg" alt="Reed Maxwell, Princeton University" style="float:left; padding:1em; width:350px">
+
 Groundwater is by far the largest liquid freshwater supply on the planet; yet it is often treated as an isolated system and neglected or greatly simplified in earth systems analysis. It is well established that groundwater is an important buffer to the hydrologic cycle. It stabilizes water supplies across spatial scales and over long time frames. However, these dynamics can be difficult to capture because groundwater surface water interactions are non-linear and vary greatly based on climate, human activity and hydrogeologic setting.  Simulations with integrated hydrology models (that solve the 3D Richards’ equation and 2D shallow water equations in a globally-implicit manner) provide robust results all the way to continental scales, yet are computationally expensive, running on supercomputers. 
 
 Our team has developed the CONUS2.1 platform, which is a high-resolution, physically-based model that couples surface and subsurface hydrology, enabling the simulation of complex processes such as groundwater-surface water interactions, evapotranspiration, and land-atmosphere feedbacks.  These models are all brought together under the HydroFrame ([hydroframe.org](https://hydroframe.org/)) platform which links many of our team’s developments to bring data, simulation, and software architecture, served to the hydrologic community.  We are evolving this platform into the first digital twin of the full terrestrial hydrologic cycle across the United States.  Our approach trains Machine Learning (ML) emulators of integrated hydrology models to drastically reduce the computational burden. We combine these emulator approaches with both purely data-driven approaches and Simulation-Based Inference, to generate seasonal to annual hydrologic scenarios of both groundwater and surface water systems using observations and sophisticated physics-based hydrologic models. This talk will highlight the technical challenges of this rapidly developing branch of hydrologic modelling and discuss the platform we have developed, HydroGEN, which is a hyperresolution hydrology digital twin of the Continental US (CONUS).
@@ -23,6 +25,8 @@ About Dr. Maxwell: Reed Maxwell is the William and Edna Macaleer Professor of En
 ## Tuesday Keynote: Dr. Myra Cohen
 
 **Building Confidence in What we Build: Correctness in Research Software in the Age of AI**
+
+<img src="{{ site.baseurl }}/assets/img/Cohen.jpg" alt="Myra Cohen, Iowa State University" style="float:left; padding:1em; width:350px">
  
 Research software and workflows are increasingly dependent on the use of artificial intelligence (AI) both as programming agents and as predictive algorithms. In research software, answering the question whether our software is correct often requires extensive domain knowledge, may rely on complex models, and can be hard to generalize. The use of AI is making these problems even harder and is forcing us to find new ways to validate our software. In this talk I will discuss the general problem of testing research software (with a focus on the scientific domain), present some core challenges in system level testing, and then present some techniques we can use to help when exactness is no longer possible.  
  
