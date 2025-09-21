@@ -11,7 +11,7 @@ set_last_modified: true
 All conference participants are expected to abide by the Code of Conduct in all events and interactions related to the conference.  This includes evening events and continued
 interactions after the conference.
 
-Please report problems or concerns to [coc@us-rse.org](mailto:coc@us-rse.org).  During the conference, please report problems or concerns to those wearing a "Code of Conduct Enforcer" button.
+**Reporting or Questions**: Please report problems or concerns to [coc@us-rse.org](mailto:coc@us-rse.org).  During the conference, you can also report problems or concerns to those wearing a "Code of Conduct Enforcer" button: Suzanne Prentice, J.C. Subida, Ludovico Bianchi, and Hannah Cohoon.  You can also reach these people individually via a Direct Message on Slack.
 
 To protect the safety of all attendees and participants, USRSE'25 participants and those in conference spaces agree not to engage in harassment or abuse.
 Violations of this Code of Conduct may have consequences ranging from a verbal or written warning and up to removal from the conference or exclusion from conference spaces.
@@ -37,7 +37,7 @@ To protect and mitigate damage to its reputation and that of its individual memb
 By participating in USRSE'25 events or other spaces, you agree to accept the terms of the Code of Conduct and acknowledge that your voluntary involvement with this event or violation of this Code may result in reputational harm, including loss of business, loss of income, or loss of contractual advantage.
 
 ## Reporting code of conduct violations
-If you learn about a violation of this Code of Conduct, please inform the Code of Conduct Committee at [coc@us-rse.org](mailto:coc@us-rse.org) or reach out individually to those wearing a "Code of Conduct Enforcer" button at the conference.
+If you learn about a violation of this Code of Conduct, please inform the Code of Conduct Committee at [coc@us-rse.org](mailto:coc@us-rse.org) or reach out individually to those wearing a "Code of Conduct Enforcer" button at the conference: Suzanne Prentice, J.C. Subida, Ludovico Bianchi, and Hannah Cohoon.
 Anonymous reports will be accepted.
 We will strive to keep identifying details of reporters and reports confidential unless we receive a valid court order or have another compelling reason to disclose them.
 To help us respond to your report, please include as much of the following information as possible in your reports:
