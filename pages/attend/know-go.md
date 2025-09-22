@@ -76,14 +76,23 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 ## Connect on Social Media
 
 -   Join the US-RSE Slack space. All conference-related discussions will be in the `#usrse25` channel.
+
 -   Official Conference hashtag: **#usrse25**
+
 -   US-RSE Social Media Handles to follow:
-    -   ![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg){width="12"} **X/ Twitter:** [\@us_rse](https://x.com/us_rse)
-    -   ![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg){width="15"} **Mastodon:** [\@us_rse\@fosstodon.org](https://fosstodon.org/@us_rse)
-    -   ![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg){width="15"} **Bluesky:** [\@us-rse.bsky.social](https://bsky.app/profile/us-rse.bsky.social)
-    -   ![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){width="15"} **LinkedIn:** [US Research Software Engineer Association](https://www.linkedin.com/company/us-rse)
+
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="16" height="16" style="vertical-align:middle;"/> **X/ Twitter:** [\@us_rse](https://x.com/us_rse)
+
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg" width="16" height="16" style="vertical-align:middle;"/> **Mastodon:** [\@us_rse\@fosstodon.org](https://fosstodon.org/@us_rse)
+
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" width="16" height="16" style="vertical-align:middle;"/> **Bluesky:** [\@us-rse.bsky.social](https://bsky.app/profile/us-rse.bsky.social)
+
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="16" height="16" style="vertical-align:middle;"/> **LinkedIn:** [US Research Software Engineer Association](https://www.linkedin.com/company/us-rse)
+
 -   Quick guide to [getting involved with US-RSE](https://us-rse.org/get-involved/).
+
 -   Tips for engaging social media posts:
+
     -   Always include an image or graphic – visuals boost reach
         -   Image size: 1080 x 1080 (square) or 1080 x 1350 (vertical)
     -   Tag your co-authors, collaborators, institution, sponsors
@@ -131,4 +140,4 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
     -   Send promised resources or references promptly.
     -   Reflect on your learnings and continue conversations.
 -   **Student and Early Career Attendees**
-    -   Please see the [Student & Early-Career Focused Sessions](<https://us-rse.org/usrse25/program/student-early-career-program/>)
+    -   Please see the [Student & Early-Career Focused Sessions](https://us-rse.org/usrse25/program/student-early-career-program/)
