@@ -16,19 +16,19 @@ Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you ne
 ## Essential Logistics
 
 -   **Dates:** Oct 6-8, 2025
--   **Location:** [Philadelphia Marriott Old Cit](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/), One Dock St, Philadelphia, PA 19106
+-   **Location:** [Philadelphia Marriott Old City](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/), One Dock St, Philadelphia, PA 19106
 -   **Registration Desk:** Ballroom Foyer
-    -   Sunday October 5: 5:30 pm - 7:00 pm
-    -   Monday October 6: 7:30 am - 3:30pm
-    -   Tuesday October 7: 7:30 am - 3:30pm
-    -   Wednesday October 8:00 am - 8:30 am
--   **Badge Pickup:** Bring [photo ID / ticket QR code?].
--   **Ribbons**: Pick up the appropriate ribbons (such as New Attendee, Data Scientist, RSE, etc) - we have some fun options this year to personalize your conference badges.
+    -   Sunday October 5th: 5:30 pm - 7:00 pm
+    -   Monday October 6th: 7:30 am - 3:30 pm
+    -   Tuesday October 7th: 7:30 am - 3:30 pm
+    -   Wednesday October 8th: 8:00 am - 8:30 am
+-   **Badge Pickup:** Bring an ID.
+-   **Ribbons**: Pick up the appropriate ribbons while supplies last (such as New Attendee, Data Scientist, RSE, etc) - we have some fun options this year to personalize your conference badges.
 
 ## Travel & Transportation
 
 -   **Getting There:** See our guide on [getting to Philadelphia](https://us-rse.org/usrse25/attend/travel/#getting-to-philadelphia) for airports, transportation and parking information.
--   **Parking:** The daily parking rate at the hotel is \$60. There are additional parking garages approximately a half-mile from the hotel.
+-   **Parking:** The daily parking rate at the hotel is \$60. There are additional parking garages approximately a half-mile from the hotel. Parking rates are subject to change.
 -   **Public Transit & Rideshare:** See our [transportation guide on getting to the conference venue](https://us-rse.org/usrse25/attend/travel/#transportation-from-phl-to-the-conference-area-old-city)
 
 ## Schedule & Programming
@@ -38,10 +38,10 @@ Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you ne
 
 ## Meals & Refreshments
 
--   Registration includes breakfast and lunch Monday - Wednesday in Hamilton.
+-   Registration includes breakfast and lunch Monday - Wednesday served in the Hamilton Room.
 -   **Welcome reception** in the Ballroom Foyer on Sunday October 5th from 6:00 pm - 7:00 pm.
 -   **Poster session and reception** in Hamilton on Monday October 6th from 5:30 pm - 7:00 pm.
--   **Food, drinks and DJ** at [Moshulu](https://www.moshulu.com/) (401 S. Columbus Blvd.) on Tuesday October 7th from 6:30pm - 9:30 pm.
+-   **Food, drinks and DJ** at [Moshulu](https://www.moshulu.com/) (401 S. Columbus Blvd.) on Tuesday October 7th from 6:30 pm - 9:30 pm.
 -   **Local dining options** listed in [things to do or see](https://us-rse.org/usrse25/attend/local-info/).
 
 ## Things to Do or See
@@ -58,7 +58,7 @@ Checkout this local [guide](https://us-rse.org/usrse25/attend/local-info/) for t
 ## Dress Code & Weather
 
 -   Dress code: [Business casual / formal / casual]
--   Weather: Expect 70°F / 50°F. May need a light jacket or long sleeves. Pack accordingly. Rain is not expected, umbrellas are available in local stores. Conference hotel is also the conference venue.
+-   Weather: Philadelphia in early October averages highs near 70°F and lows around 50°F. Pack a light jacket or sweater. The hotel and conference rooms can be chilly.
 
 ## Health & Safety
 
@@ -66,8 +66,8 @@ Checkout this local [guide](https://us-rse.org/usrse25/attend/local-info/) for t
 -   **On-Site Help Desk:** Located at [spot in venue]
 -   **Accessibility:** [Wheelchair access, interpreters, quiet rooms available].
 -   **Quiet Rooms** will be open in the Boardroom at the following times:
-    -   Monday October 6th: 8:00 am - 4:30pm
-    -   Tuesday October 7th: 8:00 am - 4:30pm
+    -   Monday October 6th: 8:00 am - 4:30 pm
+    -   Tuesday October 7th: 8:00 am - 4:30 pm
     -   Wednesday October 8th: 8:00 am - Noon
 -   **Community Mentors:** Our volunteers are available to answer questions and connect you with others. Look for [special lanyards/ribbons/shirts].
 
@@ -79,13 +79,13 @@ Checkout this local [guide](https://us-rse.org/usrse25/attend/local-info/) for t
 
 ## Connect on Social Media
 
+-   Join the US-RSE Slack space. All conference-related discussions will be in the `#usrse25` channel.
 -   Official Conference hashtag: **#usrse25**
 -   US-RSE Social Media Handles to follow:
     -   ![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg){width="12"} **X/ Twitter:** [\@us_rse](https://x.com/us_rse)
     -   ![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg){width="15"} **Mastodon:** [\@us_rse\@fosstodon.org](https://fosstodon.org/@us_rse)
     -   ![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg){width="15"} **Bluesky:** [\@us-rse.bsky.social](https://bsky.app/profile/us-rse.bsky.social)
     -   ![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){width="15"} **LinkedIn:** [US Research Software Engineer Association](https://www.linkedin.com/company/us-rse)
--   Join the US-RSE Slack space. All conference-related discussions will be in the `#usrse25` channel.
 -   Quick guide to [getting involved with US-RSE](https://us-rse.org/get-involved/).
 -   Tips for engaging social media posts:
     -   Always include an image or graphic – visuals boost reach
@@ -98,7 +98,8 @@ Checkout this local [guide](https://us-rse.org/usrse25/attend/local-info/) for t
 ## Networking Tips & New Attendee Orientation
 
 -   **Before the conference**
-    -   **Set goals**: Know if you’re looking for collaborators, learning new tools, or meeting peers. ● Research attendees & speakers: Identify people to meet; follow them online for conversation starters.
+    -   **Set goals**: Know if you’re looking for collaborators, learning new tools, or meeting peers.
+    -   **Research attendees & speakers**: Identify people to meet; follow them online for conversation starters.
     -   **Prepare a brief intro**: 20–30 seconds about yourself and your interests.
     -   **Join the US-RSE slack space**: Use the `#usrse25` channel to connect with attendees and conference organizers. Add your job title, Institute, LinkedIn, email and other handles to your Slack profile, so other attendees can know you better.
     -   **Update** your resume, LinkedIn, and other professional accounts.
