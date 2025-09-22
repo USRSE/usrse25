@@ -243,6 +243,6 @@ research data!
 <a name="w-joss"></a>
 ## The Journal of Open Source Software: Live demonstration and discussion
 
-_Patrick Diehl, Daniel S. Katz, Kyle Niemeyer_
+_Patrick Diehl, Will Gearty, Daniel S. Katz_
 
 The Journal of Open Source Software (JOSS) supports valuing research software contributions to the open source software (OSS) ecosystem by providing a free, diamond open access, and open-source venue that is run in the style of OSS itself. A particularly distinctive element of JOSS is that it uses open peer review in a collaborative, iterative format, unlike most publishers. Additionally, all the components of the process—from the reviews to the papers to the software that is the subject of the papers to the software that the journal runs—are open. In this session, we will describe JOSS’s history and its peer review process using an editorial bot and present statistics gathered from JOSS’s public review history on GitHub showing an increasing number of peer reviewed papers each year. We will then demonstrate JOSS showing the various roles that exist, including author, editor, and reviewer. Before and while running this live demo, we will take questions from the audience and discuss JOSS, research software, and publishing more widely. We'll end by discussing some challenges JOSS faces.
