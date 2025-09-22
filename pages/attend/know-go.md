@@ -133,3 +133,5 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
     -   Follow up with personalized LinkedIn/X messages.
     -   Send promised resources or references promptly.
     -   Reflect on your learnings and continue conversations.
+-   Student and Early Career Attendees
+    -   Please see the [Student & Early-Career Focused Sessions](<https://us-rse.org/usrse25/program/student-early-career-program/>)
