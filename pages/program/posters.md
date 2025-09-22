@@ -18,8 +18,8 @@ as soon as possible, which may be before, during, or shortly after the conferenc
 <div class="card-header d-flex justify-content-center" id="heading0">
 <h5 class="mb-0">
 <button aria-controls="collapse0" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse0" data-toggle="collapse">
-                    Teaching community scientists how to analyze iNaturalist data using R<br>Wai-Yin Kwan
-                </button>
+  Teaching community scientists how to analyze iNaturalist data using R<br><b>Wai-Yin Kwan</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading0" class="collapse" data-parent="#accordion" id="collapse0">
@@ -57,8 +57,8 @@ workshop.
 <div class="card-header d-flex justify-content-center" id="heading1">
 <h5 class="mb-0">
 <button aria-controls="collapse1" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse1" data-toggle="collapse">
-                    Modeling Social Dynamics in Open Source Software Forking<br>Junaid Ahmed Iqbal
-                </button>
+  Modeling Social Dynamics in Open Source Software Forking<br><b>Junaid Ahmed Iqbal</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading1" class="collapse" data-parent="#accordion" id="collapse1">
@@ -82,9 +82,9 @@ of community changes.
 <div class="card-header d-flex justify-content-center" id="heading2">
 <h5 class="mb-0">
 <button aria-controls="collapse2" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse2" data-toggle="collapse">
-                    INnovative Training Enabled by a Research Software
-Engineering ity of Trainers (INTERSECT)<br>Jeffrey Carver and Ian Cosden
-                </button>
+ INnovative Training Enabled by a Research Software
+ Engineering ity of Trainers (INTERSECT)<br><b>Jeffrey Carver and Ian Cosden</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading2" class="collapse" data-parent="#accordion" id="collapse2">
@@ -164,8 +164,8 @@ contributors or participants.
 <div class="card-header d-flex justify-content-center" id="heading3">
 <h5 class="mb-0">
 <button aria-controls="collapse3" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse3" data-toggle="collapse">
-Better Scientific Software Fellowship Program<br>Elsa Gonsiorowski, Adam Lavely, and Mary Ann Leung
-                </button>
+Better Scientific Software Fellowship Program<br><b>Elsa Gonsiorowski, Adam Lavely, and Mary Ann Leung</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading3" class="collapse" data-parent="#accordion" id="collapse3">
@@ -208,8 +208,8 @@ connections between research software engineers.
 <h5 class="mb-0">
 <button aria-controls="collapse4" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse4" data-toggle="collapse">
 Presenting the Actionable Guidelines for FAIR Research
-Software Task Force<br>Bhavesh Patel and Daniel Garijo
-                </button>
+Software Task Force<br><b>Bhavesh Patel and Daniel Garijo</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4" class="collapse" data-parent="#accordion" id="collapse4">
@@ -256,8 +256,8 @@ Force.
 <div class="card-header d-flex justify-content-center" id="heading5">
 <h5 class="mb-0">
 <button aria-controls="collapse5" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse5" data-toggle="collapse">
-Steps Towards a Digital Twin for Safeguards in Nuclear Waste Management<br>Manuel Kreutle and Irmgard Niemeyer
-                </button>
+Steps Towards a Digital Twin for Safeguards in Nuclear Waste Management<br><b>Manuel Kreutle and Irmgard Niemeyer</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading5" class="collapse" data-parent="#accordion" id="collapse5">
@@ -327,8 +327,8 @@ engineering.
 <h5 class="mb-0">
 <button aria-controls="collapse6" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse6" data-toggle="collapse">
 Searching Sage: AI-Powered Image Retrieval on a Nationwide
-Edge Computing Cyberinfrastructure<br>Francisco Lozano, Neal Conrad, Sean Shahkarami, Peter Lebiedzinski, and Pete Beckman
-                </button>
+Edge Computing Cyberinfrastructure<br><b>Francisco Lozano, Neal Conrad, Sean Shahkarami, Peter Lebiedzinski, and Pete Beckman</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading6" class="collapse" data-parent="#accordion" id="collapse6">
@@ -375,8 +375,8 @@ decision-making
 <div class="card-header d-flex justify-content-center" id="heading7">
 <h5 class="mb-0">
 <button aria-controls="collapse7" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse7" data-toggle="collapse">
-Collaborative Lesson Development Training for RSEs<br>Sarah Stevens, Toby Hodges, and Aleksandra Nenadic
-                </button>
+Collaborative Lesson Development Training for RSEs<br><b>Sarah Stevens, Toby Hodges, and Aleksandra Nenadic</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading7" class="collapse" data-parent="#accordion" id="collapse7">
@@ -426,8 +426,8 @@ it already.
 <div class="card-header d-flex justify-content-center" id="heading8">
 <h5 class="mb-0">
 <button aria-controls="collapse8" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse8" data-toggle="collapse">
-An Easy, Automatic, Flexible Website Template for Labs<br>Vincent Rubinetti
-                </button>
+An Easy, Automatic, Flexible Website Template for Labs<br><b>Vincent Rubinetti</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading8" class="collapse" data-parent="#accordion" id="collapse8">
@@ -493,8 +493,8 @@ effectively serves the needs of its users.
 <div class="card-header d-flex justify-content-center" id="heading9">
 <h5 class="mb-0">
 <button aria-controls="collapse9" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse9" data-toggle="collapse">
-Community Code Review in the Digital Humanities<br>Julia Damerow, Rebecca Sutton Koeser, Jeffrey C. Carver, and Malte Vogl
-                </button>
+Community Code Review in the Digital Humanities<br><b>Julia Damerow, Rebecca Sutton Koeser, Jeffrey C. Carver, and Malte Vogl</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading9" class="collapse" data-parent="#accordion" id="collapse9">
@@ -521,8 +521,8 @@ lessons have been learnt.
 <h5 class="mb-0">
 <button aria-controls="collapse10" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse10" data-toggle="collapse">
 Are AI code assistants making research code vulnerable to
-major errors?<br>Gabrielle O'Brien
-                </button>
+major errors?<br><b>Gabrielle O'Brien</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading10" class="collapse" data-parent="#accordion" id="collapse10">
@@ -573,8 +573,8 @@ upholding code quality in the coming years.
 <div class="card-header d-flex justify-content-center" id="heading11">
 <h5 class="mb-0">
 <button aria-controls="collapse11" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse11" data-toggle="collapse">
-Surveying the Digital Humanities Research Software Engineering Landscape<br>Rebecca Sutton Koeser and Julia Damerow
-                </button>
+Surveying the Digital Humanities Research Software Engineering Landscape<br><b>Rebecca Sutton Koeser and Julia Damerow</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading11" class="collapse" data-parent="#accordion" id="collapse11">
@@ -599,8 +599,8 @@ survey.
 <div class="card-header d-flex justify-content-center" id="heading12">
 <h5 class="mb-0">
 <button aria-controls="collapse12" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse12" data-toggle="collapse">
-Testing Research Software<br>Nasir Eisty, Jeffrey Carver, and Upulee Kanewala
-                </button>
+Testing Research Software<br><b>Nasir Eisty, Jeffrey Carver, and Upulee Kanewala</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading12" class="collapse" data-parent="#accordion" id="collapse12">
@@ -652,8 +652,8 @@ developers on software testing.
 <div class="card-header d-flex justify-content-center" id="heading13">
 <h5 class="mb-0">
 <button aria-controls="collapse13" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse13" data-toggle="collapse">
-Building Scientific Python Packages<br>Henry Schreiner
-                </button>
+Building Scientific Python Packages<br><b>Henry Schreiner</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading13" class="collapse" data-parent="#accordion" id="collapse13">
@@ -751,8 +751,8 @@ https://pybind11.readthedocs.io
 <h5 class="mb-0">
 <button aria-controls="collapse14" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse14" data-toggle="collapse">
 Ten Simple Rules for Catalyzing Collaborations and Building Bridges between Research Software Engineers and Software
-Engineering Researchers<br>Nasir Eisty, Jeffrey Carver, Johanna Cohoon, Ian Cosden, Carole Goble, and Samuel Grayson
-                </button>
+Engineering Researchers<br><b>Nasir Eisty, Jeffrey Carver, Johanna Cohoon, Ian Cosden, Carole Goble, and Samuel Grayson</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading14" class="collapse" data-parent="#accordion" id="collapse14">
@@ -835,8 +835,8 @@ productive partnerships and high quality research software.
 <div class="card-header d-flex justify-content-center" id="heading15">
 <h5 class="mb-0">
 <button aria-controls="collapse15" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse15" data-toggle="collapse">
-Recreating Old Cray Programming Environments with Containers for the Gaea Supercomputer<br>Subil Abraham and Elijah Maccarthy
-                </button>
+Recreating Old Cray Programming Environments with Containers for the Gaea Supercomputer<br><b>Subil Abraham and Elijah Maccarthy</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading15" class="collapse" data-parent="#accordion" id="collapse15">
@@ -919,8 +919,8 @@ found it close to native, so it is not reiterated here.
 <h5 class="mb-0">
 <button aria-controls="collapse16" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse16" data-toggle="collapse">
 IN-CORE - Software Engineering Practices on a Large Scale
-Project<br>Jong Lee, Christopher Navarro, Rob Kooper, Chen Wang, Yong Wook Kim, and Rashmil Panchani
-                </button>
+Project<br><b>Jong Lee, Christopher Navarro, Rob Kooper, Chen Wang, Yong Wook Kim, and Rashmil Panchani</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading16" class="collapse" data-parent="#accordion" id="collapse16">
@@ -985,8 +985,8 @@ processes in place can help manage this complexity.
 <h5 class="mb-0">
 <button aria-controls="collapse17" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse17" data-toggle="collapse">
 Empowering Motorcyclists: Mobile 3D Scene Reconstruction
-for Fairer Post-Incident Insurance Adjudication<br>Ayush Saha, Vinay Bidin, Yawevan Mireku, and Saili Karkare
-                </button>
+for Fairer Post-Incident Insurance Adjudication<br><b>Ayush Saha, Vinay Bidin, Yawevan Mireku, and Saili Karkare</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading17" class="collapse" data-parent="#accordion" id="collapse17">
@@ -1015,8 +1015,8 @@ against riders.
 <h5 class="mb-0">
 <button aria-controls="collapse18" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse18" data-toggle="collapse">
 Reconstruction and Analysis of 3D Tissue Volumes in the
-CODA Project<br>Margaret Eminizer and Tyler Newton
-                </button>
+CODA Project<br><b>Margaret Eminizer and Tyler Newton</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading18" class="collapse" data-parent="#accordion" id="collapse18">
@@ -1065,8 +1065,8 @@ individual groups.
 <div class="card-header d-flex justify-content-center" id="heading19">
 <h5 class="mb-0">
 <button aria-controls="collapse19" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse19" data-toggle="collapse">
-Sustainable LLMs: Compression-Driven Efficiency for Faster Training and Inference<br>Elham Barezi and Primus Kabuo
-                </button>
+Sustainable LLMs: Compression-Driven Efficiency for Faster Training and Inference<br><b>Elham Barezi and Primus Kabuo</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading19" class="collapse" data-parent="#accordion" id="collapse19">
@@ -1122,8 +1122,8 @@ sustainable, scalable, and widely deployable AI systems.
 <div class="card-header d-flex justify-content-center" id="heading20">
 <h5 class="mb-0">
 <button aria-controls="collapse20" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse20" data-toggle="collapse">
-Enhancing Earth System Reproducibility Testing with False Discovery Rate Correction<br>Michael Kelleher and Salil Mahajan
-                </button>
+Enhancing Earth System Reproducibility Testing with False Discovery Rate Correction<br><b>Michael Kelleher and Salil Mahajan</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading20" class="collapse" data-parent="#accordion" id="collapse20">
@@ -1175,8 +1175,8 @@ higher confidence.
 <h5 class="mb-0">
 <button aria-controls="collapse21" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse21" data-toggle="collapse">
 paleopal: a highly interactive Shiny app for building
-reproducible data science workflows in paleontology<br>William Gearty
-                </button>
+reproducible data science workflows in paleontology<br><b>William Gearty</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading21" class="collapse" data-parent="#accordion" id="collapse21">
@@ -1242,9 +1242,9 @@ fields.
 <h5 class="mb-0">
 <button aria-controls="collapse22" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse22" data-toggle="collapse">
 Exploring the Promise and Peril of Generative AI for Usable
-Scientific GUIs<br>Rajshree Deshmukh, Cody O'Donnell, Johanna Cohoon, Drew
-Paine, Sarah Poon, Dan Gunter, and Lavanya Ramakrishnan
-                </button>
+Scientific GUIs<br><b>Rajshree Deshmukh, Cody O'Donnell, Johanna Cohoon, Drew
+Paine, Sarah Poon, Dan Gunter, and Lavanya Ramakrishnan</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading22" class="collapse" data-parent="#accordion" id="collapse22">
@@ -1321,8 +1321,8 @@ scientific web applications.
 <h5 class="mb-0">
 <button aria-controls="collapse23" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse23" data-toggle="collapse">
 Trust, but Not Too Much: How Far Can LLMs Be Trusted to
-Audit Software Citations?<br>Ketan Bhardwaj, Robin Fievet, Dave Brownell, and Jeffery Young
-                </button>
+Audit Software Citations?<br><b>Ketan Bhardwaj, Robin Fievet, Dave Brownell, and Jeffery Young</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading23" class="collapse" data-parent="#accordion" id="collapse23">
@@ -1357,8 +1357,8 @@ the importance of software in research publications.
 <div class="card-header d-flex justify-content-center" id="heading24">
 <h5 class="mb-0">
 <button aria-controls="collapse24" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse24" data-toggle="collapse">
-Characterizing the Security Culture of the Research Software Engineering ity<br>Matthew Armstrong, Jeffrey Carver, and Reed Milewicz
-                </button>
+Characterizing the Security Culture of the Research Software Engineering ity<br><b>Matthew Armstrong, Jeffrey Carver, and Reed Milewicz</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading24" class="collapse" data-parent="#accordion" id="collapse24">
@@ -1420,8 +1420,8 @@ RSEs face.
 <div class="card-header d-flex justify-content-center" id="heading25">
 <h5 class="mb-0">
 <button aria-controls="collapse25" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse25" data-toggle="collapse">
-Teaching a semester course in GPU-centric, scalable scientific computing for mechanistic modeling<br>Pariksheet Nanda
-                </button>
+Teaching a semester course in GPU-centric, scalable scientific computing for mechanistic modeling<br><b>Pariksheet Nanda</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading25" class="collapse" data-parent="#accordion" id="collapse25">
@@ -1529,8 +1529,8 @@ teaching and learning endeavors.
 <h5 class="mb-0">
 <button aria-controls="collapse26" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse26" data-toggle="collapse">
 A Universal Edge-Cloud Architecture for Autonomous 3D
-Printing<br>Bing Zhang, Austin Lomas, Sandeep Puthanveetil Satheesan, Matthew Berry, and Ying Diao
-                </button>
+Printing<br><b>Bing Zhang, Austin Lomas, Sandeep Puthanveetil Satheesan, Matthew Berry, and Ying Diao</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading26" class="collapse" data-parent="#accordion" id="collapse26">
@@ -1602,8 +1602,8 @@ platform for autonomous 3D printing.
 <h5 class="mb-0">
 <button aria-controls="collapse27" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse27" data-toggle="collapse">
 Collaboration In Scientific Software: A Systematic
-Literature Review<br>Olivia B. Newton, Anshu Dubey, Denice Ward Hood, and Lois Curfman McInnes
-                </button>
+Literature Review<br><b>Olivia B. Newton, Anshu Dubey, Denice Ward Hood, and Lois Curfman McInnes</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading27" class="collapse" data-parent="#accordion" id="collapse27">
@@ -1681,8 +1681,8 @@ vol. 68, no. 2, pp. 20–23, Feb. 2025, doi: 10.1145/3685265.
 <h5 class="mb-0">
 <button aria-controls="collapse28" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse28" data-toggle="collapse">
 Research Computing Accounting Management System (RCAMS): An
-Inner-Source Code Built with Open-Source Best Practices<br>Devin Fromond and Fang Liu
-                </button>
+Inner-Source Code Built with Open-Source Best Practices<br><b>Devin Fromond and Fang Liu</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading28" class="collapse" data-parent="#accordion" id="collapse28">
@@ -1774,8 +1774,8 @@ management.
 <div class="card-header d-flex justify-content-center" id="heading29">
 <h5 class="mb-0">
 <button aria-controls="collapse29" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse29" data-toggle="collapse">
-Bayesian Modeling with Stan and Python: A Hands-on Introduction<br>Samvardhan Vishnoi
-                </button>
+Bayesian Modeling with Stan and Python: A Hands-on Introduction<br><b>Samvardhan Vishnoi</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading29" class="collapse" data-parent="#accordion" id="collapse29">
@@ -1823,8 +1823,8 @@ frameworks in everyday research workflows.
 <div class="card-header d-flex justify-content-center" id="heading30">
 <h5 class="mb-0">
 <button aria-controls="collapse30" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse30" data-toggle="collapse">
-Dataset Integrity Done with Git (didg) – A framework for managing neuroscience datasets along processing phases<br>Roland Ferger and Jose Pena
-                </button>
+Dataset Integrity Done with Git (didg) – A framework for managing neuroscience datasets along processing phases<br><b>Roland Ferger and Jose Pena</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading30" class="collapse" data-parent="#accordion" id="collapse30">
@@ -1907,8 +1907,8 @@ other requirements to a minimum.
 <h5 class="mb-0">
 <button aria-controls="collapse31" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse31" data-toggle="collapse">
 Streamlining Data Publication: A Case Study in Upgrading
-DOI Services for Environmental Science<br>Shalki Shrivastava and Fianna O'Brien
-                </button>
+DOI Services for Environmental Science<br><b>Shalki Shrivastava and Fianna O'Brien</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading31" class="collapse" data-parent="#accordion" id="collapse31">
@@ -1967,8 +1967,8 @@ thoughtful RSE work across the scientific community.
 <div class="card-header d-flex justify-content-center" id="heading32">
 <h5 class="mb-0">
 <button aria-controls="collapse32" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse32" data-toggle="collapse">
-Going Deeper: Advancing Data Discovery Through Content Analysis<br>Shalki Shrivastava
-                </button>
+Going Deeper: Advancing Data Discovery Through Content Analysis<br><b>Shalki Shrivastava</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading32" class="collapse" data-parent="#accordion" id="collapse32">
@@ -2031,8 +2031,8 @@ in the process.
 <h5 class="mb-0">
 <button aria-controls="collapse33" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse33" data-toggle="collapse">
 Eye-tracking in MNE-Python: A Unified Framework for Neural
-and Ocular Data Analysis<br>Scott Huberty
-                </button>
+and Ocular Data Analysis<br><b>Scott Huberty</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading33" class="collapse" data-parent="#accordion" id="collapse33">
@@ -2061,8 +2061,8 @@ Python library for human neurophysiological data analyses.
 <div class="card-header d-flex justify-content-center" id="heading34">
 <h5 class="mb-0">
 <button aria-controls="collapse34" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse34" data-toggle="collapse">
-RepoAuditor: A New Approach to Auditing Open Source Repositories<br>Varun Agarwal, Mathieu Tanneau, David Brownell, and Jeffrey Young
-                </button>
+RepoAuditor: A New Approach to Auditing Open Source Repositories<br><b>Varun Agarwal, Mathieu Tanneau, David Brownell, and Jeffrey Young</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading34" class="collapse" data-parent="#accordion" id="collapse34">
@@ -2124,8 +2124,8 @@ evolution of the RepoAuditor framework.
 <h5 class="mb-0">
 <button aria-controls="collapse35" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse35" data-toggle="collapse">
 Motivations and Barriers to Contributing to Open Source
-Research Software<br>Valeria Inojosa, Alex Teabo, and Josh de Leeuw
-                </button>
+Research Software<br><b>Valeria Inojosa, Alex Teabo, and Josh de Leeuw</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading35" class="collapse" data-parent="#accordion" id="collapse35">
@@ -2206,8 +2206,8 @@ participation in open source development to their peers.
 <h5 class="mb-0">
 <button aria-controls="collapse36" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse36" data-toggle="collapse">
 Evaluating Scalability and Modularity: A Comparative Study
-of Traditional Software Architectures<br>Onyedikachi Kanu, Bouchaib Falah, and Olamide Tawose
-                </button>
+of Traditional Software Architectures<br><b>Onyedikachi Kanu, Bouchaib Falah, and Olamide Tawose</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading36" class="collapse" data-parent="#accordion" id="collapse36">
@@ -2258,8 +2258,8 @@ available resources.
 <div class="card-header d-flex justify-content-center" id="heading37">
 <h5 class="mb-0">
 <button aria-controls="collapse37" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse37" data-toggle="collapse">
-PyEEG: Unifying Rodent EEG Analysis Pipelines<br>Joseph Dong, Yongtaek Oh, and Eric Marsh
-                </button>
+PyEEG: Unifying Rodent EEG Analysis Pipelines<br><b>Joseph Dong, Yongtaek Oh, and Eric Marsh</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading37" class="collapse" data-parent="#accordion" id="collapse37">
@@ -2354,8 +2354,8 @@ doi:10.3389/fnins.2013.00267.
 <div class="card-header d-flex justify-content-center" id="heading38">
 <h5 class="mb-0">
 <button aria-controls="collapse38" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse38" data-toggle="collapse">
-Some tips on modernizing legacy software<br>Alex Koufos
-                </button>
+Some tips on modernizing legacy software<br><b>Alex Koufos</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading38" class="collapse" data-parent="#accordion" id="collapse38">
@@ -2397,9 +2397,9 @@ that meets the demands of modern scientific research.
 <div class="card-header d-flex justify-content-center" id="heading39">
 <h5 class="mb-0">
 <button aria-controls="collapse39" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse39" data-toggle="collapse">
-Dual-Branch Neural Networks for Galaxy Redshift Estimation<br>Jacob Nowack, Srinath Saikrishnan, Vikram Seenivasan, Tuan
-Do, Bernie Boscoe, Zhuo Chen, and Chandler Campbell
-                </button>
+Dual-Branch Neural Networks for Galaxy Redshift Estimation<br><b>Jacob Nowack, Srinath Saikrishnan, Vikram Seenivasan, Tuan
+Do, Bernie Boscoe, Zhuo Chen, and Chandler Campbell</b>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading39" class="collapse" data-parent="#accordion" id="collapse39">
@@ -2452,7 +2452,7 @@ scientists working with machine learning pipelines.
 <div class="card-header d-flex justify-content-center" id="heading40">
 <h5 class="mb-0">
 <button aria-controls="collapse40" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse40" data-toggle="collapse">
-From MPI to ZeroMQ: Scalable Online Feedback for Serial Crystallography with Bayesian/ML-Ready Hooks<br>Abdullah Maruf
+From MPI to ZeroMQ: Scalable Online Feedback for Serial Crystallography with Bayesian/ML-Ready Hooks<br><b>Abdullah Maruf</b>
 </button>
 </h5>
 </div>
@@ -2470,7 +2470,7 @@ OM (OnDA Monitor) is widely used at free-electron laser and synchrotron faciliti
 <div class="card-header d-flex justify-content-center" id="heading41">
 <h5 class="mb-0">
 <button aria-controls="collapse41" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse41" data-toggle="collapse">
-Bandwidth Allocation for Heterogeneous HPC Data Ingestion using Dynamic Auctions<br>Abrar Hossain
+Bandwidth Allocation for Heterogeneous HPC Data Ingestion using Dynamic Auctions<br><b>Abrar Hossain</b>
 </button>
 </h5>
 </div>
@@ -2488,7 +2488,7 @@ Modern High-Performance Computing (HPC) centers face significant challenges in i
 <div class="card-header d-flex justify-content-center" id="heading42">
 <h5 class="mb-0">
 <button aria-controls="collapse42" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse42" data-toggle="collapse">
-Searching Stable Chemical Space through Computational Methods using Multi-objectives Genetic Algorithm<br>Amir Husen
+Searching Stable Chemical Space through Computational Methods using Multi-objectives Genetic Algorithm<br><b>Amir Husen</b>
 </button>
 </h5>
 </div>
@@ -2506,7 +2506,7 @@ Understanding the stability of crystalline materials is central to designing new
 <div class="card-header d-flex justify-content-center" id="heading43">
 <h5 class="mb-0">
 <button aria-controls="collapse43" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse43" data-toggle="collapse">
-Event-Driven GPU Memory Management for Efficient Sparse Training<br>Areebah Layne
+Event-Driven GPU Memory Management for Efficient Sparse Training<br><b>Areebah Layne</b>
 </button>
 </h5>
 </div>
@@ -2524,7 +2524,7 @@ Current GPU training systems waste significant compute and memory on zero activa
 <div class="card-header d-flex justify-content-center" id="heading44">
 <h5 class="mb-0">
 <button aria-controls="collapse44" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse44" data-toggle="collapse">
-Interactive Grit Tracker: A Tool for Mentoring STEM Resilience<br>Ashley Escude
+Interactive Grit Tracker: A Tool for Mentoring STEM Resilience<br><b>Ashley Escude</b>
 </button>
 </h5>
 </div>
@@ -2542,7 +2542,7 @@ The poster will present the Interactive Grit Tracker, a web-based tool designed 
 <div class="card-header d-flex justify-content-center" id="heading45">
 <h5 class="mb-0">
 <button aria-controls="collapse45" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse45" data-toggle="collapse">
-Adaptive Trend Extraction in Financial Time Series Using ℓ₁ Trend Filtering<br>Augustine Manu-Frimpong
+Adaptive Trend Extraction in Financial Time Series Using ℓ₁ Trend Filtering<br><b>Augustine Manu-Frimpong</b>
 </button>
 </h5>
 </div>
@@ -2560,14 +2560,14 @@ Extracting underlying trends from noisy time series is a fundamental challenge i
 <div class="card-header d-flex justify-content-center" id="heading46">
 <h5 class="mb-0">
 <button aria-controls="collapse46" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse46" data-toggle="collapse">
-Accelerating GNN Inference for High-Speed Particle Track Reconstruction<br>Carson Zoccole
+Accelerating GNN Inference for High-Speed Particle Track Reconstruction<br><b>Meara Whitely and Carson Zoccole</b>
 </button>
 </h5>
 </div>
 <div aria-labelledby="heading46" class="collapse" data-parent="#accordion" id="collapse46">
 <div class="card-body">
 <p>
-Graph Neural Networks (GNNs) process large, sparse, and irregular graph, making them useful for particle track reconstruction. This project uses GNNs with TrackML which is a particle tracking challenge with the goal of reconstructing the paths of particles that traveled through detectors, and doing so as fast as possible without sacrificing accuracy. The GNN input graphs are processed using float32, but it is possible to also use Automated Mixed Precision (AMP) or manually convert to different precisions.
+Graph Neural Networks (GNNs) process large, sparse, and irregular graphs, making them useful for particle track reconstruction. This project uses GNNs with TrackML which is a particle tracking challenge with the goal of reconstructing the paths of particles that traveled through detectors, and doing so as fast as possible without sacrificing accuracy. The GNN input graphs are processed using float32, but it is possible to also use Automated Mixed Precision (AMP) or manually convert to different precisions.
 </p>
 </div>
 </div>
@@ -2578,7 +2578,7 @@ Graph Neural Networks (GNNs) process large, sparse, and irregular graph, making 
 <div class="card-header d-flex justify-content-center" id="heading47">
 <h5 class="mb-0">
 <button aria-controls="collapse47" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse47" data-toggle="collapse">
-X2Sim: Rapid digital twin creation from text and videos for natural hazard modeling<br>Cristian Moran
+X2Sim: Rapid digital twin creation from text and videos for natural hazard modeling<br><b>Cristian Moran</b>
 </button>
 </h5>
 </div>
@@ -2596,7 +2596,7 @@ Traditional methods for modeling natural hazards such as landslides, floods, and
 <div class="card-header d-flex justify-content-center" id="heading48">
 <h5 class="mb-0">
 <button aria-controls="collapse48" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse48" data-toggle="collapse">
-Fostering Psychological Safety in Neurodiverse Tech Teams<br>Darren Butler
+Fostering Psychological Safety in Neurodiverse Tech Teams<br><b>Darren Butler</b>
 </button>
 </h5>
 </div>
@@ -2614,7 +2614,7 @@ Psychological safety is the belief that a context is safe for interpersonal risk
 <div class="card-header d-flex justify-content-center" id="heading49">
 <h5 class="mb-0">
 <button aria-controls="collapse49" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse49" data-toggle="collapse">
-Utilities To Execute Pipelines (UTEP)<br>Diego Juarez Rosales
+Utilities To Execute Pipelines (UTEP)<br><b>Diego Juarez Rosales</b>
 </button>
 </h5>
 </div>
@@ -2632,7 +2632,7 @@ To reduce human error in creating input files for simulations, especially when h
 <div class="card-header d-flex justify-content-center" id="heading50">
 <h5 class="mb-0">
 <button aria-controls="collapse50" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse50" data-toggle="collapse">
-A Modular Architecture for Detecting Contextual Divergence in Large Language Models<br>Hattie Lyons
+A Modular Architecture for Detecting Contextual Divergence in Large Language Models<br><b>Hattie Lyons</b>
 </button>
 </h5>
 </div>
@@ -2650,7 +2650,7 @@ Large Language Models (LLMs) are increasingly being used as agentic systems in h
 <div class="card-header d-flex justify-content-center" id="heading51">
 <h5 class="mb-0">
 <button aria-controls="collapse51" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse51" data-toggle="collapse">
-Innovative Web Applications for Demographic and Health Spatial Data Visualization<br>Laphatrada Richards
+Innovative Web Applications for Demographic and Health Spatial Data Visualization<br><b>Laphatrada Richards</b>
 </button>
 </h5>
 </div>
@@ -2668,7 +2668,7 @@ Rising suicide rates in the U.S. remain a critical public health issue, especial
 <div class="card-header d-flex justify-content-center" id="heading52">
 <h5 class="mb-0">
 <button aria-controls="collapse52" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse52" data-toggle="collapse">
-Software for Nuclear Data Analysis<br>Leonith Rodriguez
+Software for Nuclear Data Analysis<br><b>Leonith Rodriguez</b>
 </button>
 </h5>
 </div>
@@ -2681,30 +2681,11 @@ This project aims to analyze data from isotope production experiments at the Cyc
 </div>
 </div>
 
-
-<div class="card">
-<div class="card-header d-flex justify-content-center" id="heading53">
-<h5 class="mb-0">
-<button aria-controls="collapse53" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse53" data-toggle="collapse">
-Accelerating GNN Inference for High-Speed Particle Track Reconstruction<br>Meara Whitely
-</button>
-</h5>
-</div>
-<div aria-labelledby="heading53" class="collapse" data-parent="#accordion" id="collapse53">
-<div class="card-body">
-<p>
-Graph Neural Networks (GNNs) process large, sparse, and irregular graphs, making them useful for particle track reconstruction. This project uses GNNs with TrackML which is a particle tracking challenge with the goal of reconstructing the paths of particles that traveled through detectors, and doing so as fast as possible without sacrificing accuracy. The GNN input graphs are processed using float32, but it is possible to also use Automated Mixed Precision (AMP) or manually convert to different precisions.
-</p>
-</div>
-</div>
-</div>
-
-
 <div class="card">
 <div class="card-header d-flex justify-content-center" id="heading54">
 <h5 class="mb-0">
 <button aria-controls="collapse54" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse54" data-toggle="collapse">
-Evaluating Scalability and Modularity: A Comparative Study of Traditional Software Architectures<br>Onyedikachi Kanu
+Evaluating Scalability and Modularity: A Comparative Study of Traditional Software Architectures<br><b>Onyedikachi Kanu</b>
 </button>
 </h5>
 </div>
@@ -2722,7 +2703,7 @@ Monolithic software architectures are being replaced by microservices-based soft
 <div class="card-header d-flex justify-content-center" id="heading55">
 <h5 class="mb-0">
 <button aria-controls="collapse55" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse55" data-toggle="collapse">
-Early Risk Assessment of Healthcare Conditions under Rural Data-Quality Constraints<br>Sonal Jha
+Early Risk Assessment of Healthcare Conditions under Rural Data-Quality Constraints<br><b>Sonal Jha</b>
 </button>
 </h5>
 </div>
@@ -2740,7 +2721,7 @@ Early risk assessment of healthcare conditions becomes particularly challenging 
 <div class="card-header d-flex justify-content-center" id="heading56">
 <h5 class="mb-0">
 <button aria-controls="collapse56" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse56" data-toggle="collapse">
-Epilepsy Foresight Toolkit<br>William Planic
+Epilepsy Foresight Toolkit<br><b>William Planic</b>
 </button>
 </h5>
 </div>
@@ -2752,10 +2733,5 @@ The Epilepsy Foresight Toolkit is designed to be a comprehensive suite for analy
 </div>
 </div>
 </div>
-
-
-
-
-
 
 </div>
