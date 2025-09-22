@@ -48,17 +48,13 @@ Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you ne
 
 Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for things to do or see while in Philly. It covers some historical and cultural must-see spots as well as a curated guide to dining options near the conference venue.
 
-## What to Bring
+## What to Bring & Weather
 
 -   Photo ID and your conference badge
 -   Laptop, chargers, extension cord
 -   Business cards or digital contact-sharing app
 -   Water bottle, notebook, sweater (rooms can be chilly!)
-
-## Dress Code & Weather
-
--   Dress code: [Business casual / formal / casual]
--   Weather: Philadelphia in early October averages highs near 70°F and lows around 50°F. Pack a light jacket or sweater. The hotel and conference rooms can be chilly.
+-   **Weather**: Philadelphia in early October averages highs near 70°F and lows around 50°F. Pack a light jacket or sweater. The hotel and conference rooms may be chilly.
 
 ## Health & Safety
 
@@ -73,7 +69,7 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 
 ## Connectivity & Tech
 
--   **Wi-Fi Network:** `[NetworkName]`
+-   **Wi-Fi Network:** `[NetworkName]` (QR code)
 -   **Password:** `[Password]`
 -   Charging stations available in [locations].
 
@@ -103,7 +99,8 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
     -   **Prepare a brief intro**: 20–30 seconds about yourself and your interests.
     -   **Join the US-RSE slack space**: Use the `#usrse25` channel to connect with attendees and conference organizers. Add your job title, Institute, LinkedIn, email and other handles to your Slack profile, so other attendees can know you better.
     -   **Update** your resume, LinkedIn, and other professional accounts.
-    -   **Familiarize** yourself with our Code of Conduct [link??]
+    -   **Familiarize** yourself with our [Code of Conduct](https://us-rse.org/usrse25/about/code-of-conduct/).
+    -   Optionally, watchthe orientation video from [last year's conference](https://youtu.be/KgukUoBKBTk?si=FQ8HqBZae6crUm1S).
 -   **During the conference**
     -   Introduce yourself to someone new at each session or meal.
     -   Sit strategically for easy conversation.
@@ -133,5 +130,5 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
     -   Follow up with personalized LinkedIn/X messages.
     -   Send promised resources or references promptly.
     -   Reflect on your learnings and continue conversations.
--   Student and Early Career Attendees
+-   **Student and Early Career Attendees**
     -   Please see the [Student & Early-Career Focused Sessions](<https://us-rse.org/usrse25/program/student-early-career-program/>)
