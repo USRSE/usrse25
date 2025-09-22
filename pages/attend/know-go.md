@@ -22,12 +22,11 @@ Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you ne
     -   Monday October 6th: 7:30 am - 3:30 pm
     -   Tuesday October 7th: 7:30 am - 3:30 pm
     -   Wednesday October 8th: 8:00 am - 8:30 am
--   **Badge Pickup:** Bring an ID.
--   **Ribbons**: Pick up the appropriate ribbons while supplies last (such as New Attendee, Data Scientist, RSE, etc) - we have some fun options this year to personalize your conference badges.
+-  **Seating**: There are tables in the main Ballroom, and just chairs in the Bromley/Claypoole room.  There are some outlets available around the hotel, but power is not accessible from most conference seats.  
 
 ## Travel & Transportation
 
--   **Getting There:** See our guide on [getting to Philadelphia](https://us-rse.org/usrse25/attend/travel/#getting-to-philadelphia) for airports, transportation and parking information.
+-   **Getting There:** See our guide on [getting to Philadelphia](https://us-rse.org/usrse25/attend/travel/#getting-to-philadelphia) for airports, transportation and parking information.  As a heads up, there is a Philadelphia Eagles home game on Sunday afternoon.
 -   **Parking:** The daily parking rate at the hotel is \$60. There are additional parking garages approximately a half-mile from the hotel. Parking rates are subject to change.
 -   **Public Transit & Rideshare:** See our [transportation guide on getting to the conference venue](https://us-rse.org/usrse25/attend/travel/#transportation-from-phl-to-the-conference-area-old-city)
 
@@ -39,10 +38,10 @@ Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you ne
 ## Meals & Refreshments
 
 -   Registration includes breakfast and lunch Monday - Wednesday served in the Hamilton Room.
--   **Welcome reception** in the Ballroom Foyer on Sunday October 5th from 6:00 pm - 7:00 pm.
--   **Poster session and reception** in Hamilton on Monday October 6th from 5:30 pm - 7:00 pm.
+-   **Welcome reception** with light refreshments in the Ballroom Foyer on Sunday October 5th from 6:00 pm - 7:00 pm.  Plan to eat dinner elsewhere after the reception.
+-   **Poster session and reception** with light refreshments in Hamilton on Monday October 6th from 5:30 pm - 7:00 pm.  Plan to eat dinner elsewhere after the reception.
 -   **Food, drinks and DJ** at [Moshulu](https://www.moshulu.com/) (401 S. Columbus Blvd.) on Tuesday October 7th from 6:30 pm - 9:30 pm.
--   **Local dining options** listed in [things to do or see](https://us-rse.org/usrse25/attend/local-info/).
+-   **Local dining options** listed in [things to do or see](https://us-rse.org/usrse25/attend/local-info/).  There is a restaurant in the conference hotel.
 
 ## Enjoy Philly
 
@@ -51,27 +50,29 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 ## What to Bring & Weather
 
 -   Photo ID and your conference badge
--   Laptop, chargers, extension cord
+-   Laptop, chargers
 -   Business cards or digital contact-sharing app
 -   Water bottle, notebook, sweater (rooms can be chilly!)
--   **Weather**: Philadelphia in early October averages highs near 70°F and lows around 50°F. Pack a light jacket or sweater. The hotel and conference rooms may be chilly.
+-   **Posters**: If you're presenting a poster, please bring the printed poster with you.  The regsitration desk can hold your poster on Monday if you need a place to store it.  
+-   **Weather**: Philadelphia in early October averages highs near 70°F and lows around 50°F. Pack a light jacket or sweater. The hotel and conference rooms may be chilly.  The walk to the Tuesday evening event is approximately half a mile along the river.
 
 ## Health & Safety
 
--   **Guidelines:** Please wear a mask and take adequate precautions if you are sick or suspect you are sick.
--   **On-Site Help Desk:** Located at [spot in venue]
--   **Accessibility:** [Wheelchair access, interpreters, quiet rooms available].
--   **Quiet Rooms** will be open in the Boardroom at the following times:
+-   **Guidelines:** Please do not attend if you are sick.  You are welcome and encouraged to wear a mask.  
+-   **On-Site Help Desk:** Visit the registration desk located outside of the main conference rooms (Ballroom foyer).
+-   **Accessibility:** If you have a need that wasn't shared on the registration form, please contact usrse25-conference@us-rse.org ASAP.  If the walk to the Moshulu on Tuesday evening is not accessible for you, please let the registration desk know by 3pm on Tuesday so arrangements can be made.  
+-   **Food Restrictions**: All fod restrictions that were noted on the registration form have been discussed with the food vendors.  We will be posting a menu overview on the website before the conference.  If you have additional concerns or questions, please get in touch with [Christian Tabedzki](mailto:ct5868@princeton.edu).  If you have any issues during the conference, please let us know at the registration desk.  
+-   **Quiet Room** will be open in the Boardroom at the following times if you need a break:
     -   Monday October 6th: 8:00 am - 4:30 pm
     -   Tuesday October 7th: 8:00 am - 4:30 pm
     -   Wednesday October 8th: 8:00 am - Noon
--   **Community Mentors:** Our volunteers are available to answer questions and connect you with others. Look for [special lanyards/ribbons/shirts].
+-   **Code of Conduct:** If you have a [Code of Conduct](https://us-rse.org/usrse25/about/code-of-conduct/) question or concern, please see the Code of Conduct page for options on contacting the committee members.
+-   **Public Spaces:** While USRSE'25 is the main event at the hotel Monday-Wednesday, there are a few other small events, and the lobby/conference areas are publicly accessible.  Please do not leave your belongings unattended.  
 
 ## Connectivity & Tech
 
--   **Wi-Fi Network:** `[NetworkName]` (QR code)
--   **Password:** `[Password]`
--   Charging stations available in [locations].
+-   **Wi-Fi Network:** A conference Wi-Fi network will be available onsite Monday-Wednesday.  Connection details will be on the printed conference program.  
+-   There are some power outlets available around the hotel, but plugs are not accessible from most conference seats.  
 
 ## Connect on Social Media
 
@@ -81,7 +82,7 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 
 -   US-RSE Social Media Handles to follow:
 
-    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" style="width:16px;vertical-align:middle;"/> **X/ Twitter:** [\@us_rse](https://x.com/us_rse)
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" style="width:16px;vertical-align:middle;"/> **X/Twitter:** [\@us_rse](https://x.com/us_rse)
 
     -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg" style="width:16px;vertical-align:middle;"/> **Mastodon:** [\@us_rse\@fosstodon.org](https://fosstodon.org/@us_rse)
 
