@@ -2448,4 +2448,314 @@ scientists working with machine learning pipelines.
 </div>
 </div>
 
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading40">
+<h5 class="mb-0">
+<button aria-controls="collapse40" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse40" data-toggle="collapse">
+From MPI to ZeroMQ: Scalable Online Feedback for Serial Crystallography with Bayesian/ML-Ready Hooks<br>Abdullah Maruf
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading40" class="collapse" data-parent="#accordion" id="collapse40">
+<div class="card-body">
+<p>
+OM (OnDA Monitor) is widely used at free-electron laser and synchrotron facilities for online scoring and monitoring of diffraction during serial crystallography. We present a re-architected parallelization layer that replaces the original MPI layer with a ZeroMQ (“ZMQ-socket”) design that reduces external dependencies, improves portability across heterogeneous beamlines, and enables dynamic worker join/leave so monitoring can resume after interruptions without loss of accumulated statistics. Beyond these systems gains, we expose a lightweight probabilistic interface that supports Monte Carlo adaptation in the small-hit regime: sequential sampling updates run-time estimates of hit rate and resolution, tunes acquisition/processing thresholds, and provides uncertainty-aware stopping/continuation decisions to use beamtime efficiently. The core remains usable out-of-the-box, while optional plug-ins can ingest streaming features for complementary deep-learning quality scoring. Ongoing work targets optimization of the ZMQ layer and benchmarking Monte Carlo policies under realistic beam conditions, toward a portable release for routine deployment at beamlines.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading41">
+<h5 class="mb-0">
+<button aria-controls="collapse41" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse41" data-toggle="collapse">
+Bandwidth Allocation for Heterogeneous HPC Data Ingestion using Dynamic Auctions<br>Abrar Hossain
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading41" class="collapse" data-parent="#accordion" id="collapse41">
+<div class="card-body">
+<p>
+Modern High-Performance Computing (HPC) centers face significant challenges in ingesting large and diverse data streams, resulting in bandwidth bottlenecks and scientific delays. To overcome the limitations of traditional static allocation and simple queuing methods, this work introduces a dynamic, value-based approach to bandwidth allocation. We propose two new auction-based mechanisms: the computationally efficient Greedy Value Density Auction and the theoretically robust Vickrey-Clarke-Groves (VCG) Knapsack Auction. Both mechanisms utilize user-provided bids that specify data requirements and scientific value, aiming to maximize the total value of successful data transfers. Simulation results, based on realistic workload characteristics, show that these auction mechanisms significantly outperform standard First-Come, First-Served (FCFS) baselines. In high-load scenarios, our methods reduce average and tail completion delays by over 80% and improve predictability by decreasing the coefficient of variation of delay by up to 85%. Additionally, network stability is enhanced, with the peak-to-average load ratio reduced by as much as 70%. This value-driven, adaptive strategy alleviates congestion, improves bandwidth utilization, and ensures that access is prioritized based on scientific importance—ultimately accelerating scientific discovery.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading42">
+<h5 class="mb-0">
+<button aria-controls="collapse42" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse42" data-toggle="collapse">
+Searching Stable Chemical Space through Computational Methods using Multi-objectives Genetic Algorithm<br>Amir Husen
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading42" class="collapse" data-parent="#accordion" id="collapse42">
+<div class="card-body">
+<p>
+Understanding the stability of crystalline materials is central to designing new functional compounds. In this work, we integrate Phonopy, a first-principles phonon calculation package, with PyGAD, a Python-based library for multi-objectives genetic algorithms, to systematically search stable regions of chemical space and structural stability. Phonopy enables the calculation of phonon dispersion relations, where the presence or absence of imaginary vibrational modes determines dynamical stability. These results are coupled with PyGAD’s multi-objective genetic algorithm (MOGA), where Born–von Kármán force constants evolve across generations to efficiently search parameter space and identify Pareto-optimal solutions. The workflow produces a “stability map” for body-centered cubic (BCC) structures such as Fe and V, balancing stability criteria with agreement to experimental phonon spectra. Importantly, all simulations are executed on the National Energy Research Scientific Computing Center (NERSC) JupyterHub platform, which provides scalable high-performance computing resources and a reproducible environment for running optimization-driven phonon calculations. By combining phonon-based lattice dynamics with evolutionary algorithms on HPC infrastructure, this framework demonstrates a transferable and efficient strategy for navigating chemical space, accelerating materials discovery, and enabling high-throughput stability screening.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading43">
+<h5 class="mb-0">
+<button aria-controls="collapse43" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse43" data-toggle="collapse">
+Event-Driven GPU Memory Management for Efficient Sparse Training<br>Areebah Layne
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading43" class="collapse" data-parent="#accordion" id="collapse43">
+<div class="card-body">
+<p>
+Current GPU training systems waste significant compute and memory on zero activations in sparse neural networks. We propose an event-driven GPU architecture that triggers computation only for non-zero activations, achieving 3x memory efficiency and 2x training speedup on sparse workloads. Our system uses CUDA events to coordinate dynamic memory allocation and kernel dispatch based on runtime sparsity patterns. We evaluate transformer models with 70-90% sparsity, showing consistent improvements over PyTorch and other baselines while maintaining accuracy. This work demonstrates how event-driven computing can unlock GPU efficiency for the next generation of large, sparse neural networks.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading44">
+<h5 class="mb-0">
+<button aria-controls="collapse44" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse44" data-toggle="collapse">
+Interactive Grit Tracker: A Tool for Mentoring STEM Resilience<br>Ashley Escude
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading44" class="collapse" data-parent="#accordion" id="collapse44">
+<div class="card-body">
+<p>
+The poster will present the Interactive Grit Tracker, a web-based tool designed to support mentoring for NSF STEM in rural Louisiana. Built using Python and JavaScript, the tool allows mentors and students to input challenges, like financial stress or time constraints, and resilience strategies, like tutoring or peer support, generating real-time visualizations like bar charts to track progress. Drawing form an NSF S-STEM photovoice project, the tracker uses student narratives to foster academic confidence and belonging, addressing retention gaps in underserved communities. The poster will showcase the tool’s interface, a sample output, and its potential to enhance mentoring practices.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading45">
+<h5 class="mb-0">
+<button aria-controls="collapse45" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse45" data-toggle="collapse">
+Adaptive Trend Extraction in Financial Time Series Using ℓ₁ Trend Filtering<br>Augustine Manu-Frimpong
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45" class="collapse" data-parent="#accordion" id="collapse45">
+<div class="card-body">
+<p>
+Extracting underlying trends from noisy time series is a fundamental challenge in fields such as economics, finance, and environmental science. Traditional methods such as the Hodrick Prescott (HP) filter apply an ℓ₂ penalty that smooths curvature but often oversmooths abrupt changes, limiting their usefulness in detecting structural breaks. Building on the theoretical foundation of Kim, Koh, Boyd, and Gorinevsky (2009), this project applies ℓ₁ trend filtering which replaces the ℓ₂ penalty with an ℓ₁ penalty on second order differences to real financial data. The ℓ₁ approach produces piecewise linear trend estimates where slope changes correspond to structural events and it achieves computational complexity comparable to HP filtering. Using daily log transformed S and P 500 index data from early 2025, we implemented gradient descent optimization and compared both filters. The ℓ₁ filter more effectively identified sudden drops and recoveries, while residual analysis confirmed improved noise removal without oversmoothing. These results demonstrate ℓ₁ trend filtering as a practical and scalable alternative for uncovering meaningful regime shifts in financial and other time series.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading46">
+<h5 class="mb-0">
+<button aria-controls="collapse46" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse46" data-toggle="collapse">
+Accelerating GNN Inference for High-Speed Particle Track Reconstruction<br>Carson Zoccole
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading46" class="collapse" data-parent="#accordion" id="collapse46">
+<div class="card-body">
+<p>
+Graph Neural Networks (GNNs) process large, sparse, and irregular graph, making them useful for particle track reconstruction. This project uses GNNs with TrackML which is a particle tracking challenge with the goal of reconstructing the paths of particles that traveled through detectors, and doing so as fast as possible without sacrificing accuracy. The GNN input graphs are processed using float32, but it is possible to also use Automated Mixed Precision (AMP) or manually convert to different precisions.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading47">
+<h5 class="mb-0">
+<button aria-controls="collapse47" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse47" data-toggle="collapse">
+X2Sim: Rapid digital twin creation from text and videos for natural hazard modeling<br>Cristian Moran
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading47" class="collapse" data-parent="#accordion" id="collapse47">
+<div class="card-body">
+<p>
+Traditional methods for modeling natural hazards such as landslides, floods, and storm surges are computationally intensive and time-consuming, thus limiting their applicability in effective disaster preparedness and response in real-world scenarios. To address this challenge, we present a novel framework, through TACC’s HPC resources, for rapidly creating digital twins that significantly reduces the time, manual input, and computational resources needed for simulating the interaction between natural hazards and real-world 3D objects. Our X2Sim framework utilizes an agentic text-to-simulation Large Language Model (LLM) to generate digital twins, integrating two distinct 3D object generation methods: (i) A text-to-3D point cloud diffusion model that swiftly creates 3D point clouds from natural language descriptions, enabling rapid digital twin prototyping, and (ii) An efficient method for constructing high-fidelity point clouds from video input, allowing for more detailed digital twin representations of existing structures. These digital twins are integrated into a Graph Network-based Simulator (GNS) that models the dynamics of particle and fluid interactions, enabling the simulation of complex natural hazard scenarios. Our X2Sim system allows for adjusting simulation parameters, offering a robust tool for exploring various disaster scenarios and their impacts on the digital twins. While our digital twin framework may not match the accuracy of high-fidelity numerical methods, it significantly reduces computation time and complexity, making it viable for near-real-time applications. The X2Sim approach offers a valuable balance between speed and precision in digital twin creation and simulation, providing a streamlined, low-intervention workflow for researchers and practitioners in natural hazard modeling and disaster preparedness.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading48">
+<h5 class="mb-0">
+<button aria-controls="collapse48" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse48" data-toggle="collapse">
+Fostering Psychological Safety in Neurodiverse Tech Teams<br>Darren Butler
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading48" class="collapse" data-parent="#accordion" id="collapse48">
+<div class="card-body">
+<p>
+Psychological safety is the belief that a context is safe for interpersonal risk taking - that speaking up with ideas, questions, concerns, or mistakes will be welcomed and valued. Psychological safety is crucial in software engineering communication, particularly in tightly coupled team activities such as mob programming (i.e., mobbing), where three or more team members collaborate to develop software together. Autistic software engineers can feel unsafe in teams due to the anxiety and stress when communicating with others with different communication styles. A collaborative space that allows autistic team members to communicate in neurodiverse teams flexibly can increase the psychological safety and accessibility of collaborative software development. To identify tools and practices that foster psychological safety in neurodiverse collaborative mob programming, I will conduct a series of mixed-method, design-based studies. First, I conduct a survey and interview study to uncover the relationship between neurodivergent cognitive and communication traits and psychological safety in teams. Second, I generate design principles for psychological safety through the iterative design and evaluation of a neuroinclusive digital collaboration space. Third, I evaluate the impact of these design principles through an experiment with minority, majority, and all neurodivergent teams. My work makes the following contributions to accessible software engineering education and practice: 1) Novel descriptions of psychological safety relating to neurodivergent cognitive and communication attributes; 2) design principles for fostering psychological safety in collaborative software development teams; 3) a software development tool that scaffolds psychologically safe mobbing in neurodiverse software teams.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading49">
+<h5 class="mb-0">
+<button aria-controls="collapse49" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse49" data-toggle="collapse">
+Utilities To Execute Pipelines (UTEP)<br>Diego Juarez Rosales
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading49" class="collapse" data-parent="#accordion" id="collapse49">
+<div class="card-body">
+<p>
+To reduce human error in creating input files for simulations, especially when handling hundreds or even thousands of jobs, we developed a robust and versatile Python framework to streamline the generation and analysis of large-scale simulation datasets for various executables. This framework automates the creation, submission, and execution of simulations, significantly reducing the time spent on preparing, copying, and submitting input files, executables, and additional parameters (such as potentials). This approach has greatly improved the efficiency and accuracy of simulations, especially on Perlmutter, a NERSC supercomputer, though it is adaptable for use on other systems as well can be adapted to another computing. This framework was deployed on Perlmutter, a supercomputer delivered to the National Energy Research Scientific Computing Center (NERSC), with successful results and is adaptable to other computing platforms.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading50">
+<h5 class="mb-0">
+<button aria-controls="collapse50" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse50" data-toggle="collapse">
+A Modular Architecture for Detecting Contextual Divergence in Large Language Models<br>Hattie Lyons
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading50" class="collapse" data-parent="#accordion" id="collapse50">
+<div class="card-body">
+<p>
+Large Language Models (LLMs) are increasingly being used as agentic systems in hyper-specific information domains such as medicine, law, and therapeutic practices. However, their capacity to "drift" from their designated context or generate hallucinated information undermines trust. This project introduces a modular supervision architecture designed to detect and flag hallucinatory drift in LLM outputs. The system utilizes multiple layers, namely centroid-based embedding comparison and k-nearest neighbor (KNN) classification to evaluate alignment between generated output and source context. The toolkit is being developed with a focus on flexibility and usability. Researchers can configure supervision layers and evaluation strategies according to their domain needs. Prototypes have demonstrated the ability to identify divergence from baseline context in conversational LLM pipelines and agentic task-based systems like Anthropic's VendingBench simulation. Future versions aim to support broader applications, such as scientific/medical document summarization and content moderation. By providing a configurable framework for context drift detection, this project highlights the importance of reliability, interpretability, and reproducibility in AI research software.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading51">
+<h5 class="mb-0">
+<button aria-controls="collapse51" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse51" data-toggle="collapse">
+Innovative Web Applications for Demographic and Health Spatial Data Visualization<br>Laphatrada Richards
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading51" class="collapse" data-parent="#accordion" id="collapse51">
+<div class="card-body">
+<p>
+Rising suicide rates in the U.S. remain a critical public health issue, especially when viewed alongside social determinants of health (SDOH) such as income, education, and access to care. This project introduces an interactive web map built with Python to explore these relationships at the county level over a 20-year period. The platform allows users to dynamically filter, explore, and overlay suicide data with key demographic indicators to identify high-risk regions. This poster highlights how accessible, web-based GIS tools can help researchers, policymakers, and communities better understand spatial health disparities and support data-driven, equity-focused public health strategies.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading52">
+<h5 class="mb-0">
+<button aria-controls="collapse52" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse52" data-toggle="collapse">
+Software for Nuclear Data Analysis<br>Leonith Rodriguez
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading52" class="collapse" data-parent="#accordion" id="collapse52">
+<div class="card-body">
+<p>
+This project aims to analyze data from isotope production experiments at the Cyclotron Institute, a U.S. user facility. The experiment consisted of a beam of lithium-6 on a natural samarium target at different energies. From the NuDat database a chart of nuclides and focusing on the isotopes’ half-lives, stabilities, and properties can be used to predict outcomes of the experiments. The foils were counted a day after irradiation, using three high-purity germanium (HPGe) detectors. Background, natural samarium foils (with thicknesses of 100 and 250 micrometers), europium-152 source, and gold foils (with a thickness of 5 micrometers) data was collected on the HPGes. To analyze these spectra, the python toolkit called Curie was used to simplify the identification and fitting of the peaks. After calibrating the spectra using the europium-152 source in Curie, the resulting isotopes can be identified. With this data we can conclude that the isotope production of terbium-149 via this method may be possible, but more measurements will need to be performed to confirm the optimal production pathway.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading53">
+<h5 class="mb-0">
+<button aria-controls="collapse53" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse53" data-toggle="collapse">
+Accelerating GNN Inference for High-Speed Particle Track Reconstruction<br>Meara Whitely
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading53" class="collapse" data-parent="#accordion" id="collapse53">
+<div class="card-body">
+<p>
+Graph Neural Networks (GNNs) process large, sparse, and irregular graphs, making them useful for particle track reconstruction. This project uses GNNs with TrackML which is a particle tracking challenge with the goal of reconstructing the paths of particles that traveled through detectors, and doing so as fast as possible without sacrificing accuracy. The GNN input graphs are processed using float32, but it is possible to also use Automated Mixed Precision (AMP) or manually convert to different precisions.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading54">
+<h5 class="mb-0">
+<button aria-controls="collapse54" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse54" data-toggle="collapse">
+Evaluating Scalability and Modularity: A Comparative Study of Traditional Software Architectures<br>Onyedikachi Kanu
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading54" class="collapse" data-parent="#accordion" id="collapse54">
+<div class="card-body">
+<p>
+Monolithic software architectures are being replaced by microservices-based software architectures, which are more modular and flexible in design. Monoliths have all their components packaged within a single artifact and are deployed together. Microservices, on the other hand, is structured as a collection of smaller, independently deployable components with each component having its own responsibility. Many businesses adopt a software architectural style based on success stories, without a clear understanding of its benefits and trade-offs. There is a need to quantify the performance of each architecture to establish a solid foundation for understanding when and how to implement a given architecture best. As software systems become more complex, understanding the trade-offs between architectural choices becomes critical for long-term success. Our study evaluates the performance, scalability, and resource efficiency of monolithic and microservices architectures under varying levels of load. The Spring Petclinic applications were tested using prepared test cases on the local computer of one of the authors. The results were collected and compared using the JMeter tool. The results showed that the monolith outperformed the microservices in most metrics: it handled more requests, achieved over 70% higher throughput at maximum load, and maintained lower latency. The microservices architecture had a 0% error rate at low concurrency levels; however, as the load increased, the error rate rose to 63% at 100 users due to service failures caused by limited memory and CPU resources. Additionally, microservices consumed significantly more CPU and memory due to inter-service communication. These findings show that microservices provide modularity and deployment independence, but they need strong infrastructure to scale reliably. On the other hand, monolithic architecture is still a better choice for applications that run in constrained environments or have predictable workloads because it uses fewer resources and is more stable.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading55">
+<h5 class="mb-0">
+<button aria-controls="collapse55" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse55" data-toggle="collapse">
+Early Risk Assessment of Healthcare Conditions under Rural Data-Quality Constraints<br>Sonal Jha
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading55" class="collapse" data-parent="#accordion" id="collapse55">
+<div class="card-body">
+<p>
+Early risk assessment of healthcare conditions becomes particularly challenging in rural and resource-limited settings, where access to dense, continuous, and high-frequency medical data is constrained. Similar challenges arise in crisis scenarios, such as natural disasters, where robust monitoring infrastructure is unavailable. Despite these limitations, timely and real-time alerts are critical for enabling proactive clinical interventions. To address this gap, we explore graph-based algorithms that effectively leverage sparse, irregularly recorded, and low-frequency data to provide reliable early risk assessment under rural data-quality constraints.
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header d-flex justify-content-center" id="heading56">
+<h5 class="mb-0">
+<button aria-controls="collapse56" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse56" data-toggle="collapse">
+Epilepsy Foresight Toolkit<br>William Planic
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading56" class="collapse" data-parent="#accordion" id="collapse56">
+<div class="card-body">
+<p>
+The Epilepsy Foresight Toolkit is designed to be a comprehensive suite for analysis and research through data-driven insights. Users can directly upload datasets or access publicly available clinical trains or electronic health records for interpretation. Two predictive models, AutoRegressive Integrated Moving Average (ARIMA) and Long Short-Term Memory (LSTM) are used to forecast trends and epilepsy incidents for analyzing time-series data. The toolkit’s interface supports a variety of operations including report generation, data preprocessing, secure storage, and viewing reports or data. Exploratory data analysis offers insights into patterns and trends in epilepsy data with the goal of providing crucial information to clinicians and researchers to improve epilepsy patient outcomes.
+</p>
+</div>
+</div>
+</div>
+
+
+
+
+
+
 </div>
