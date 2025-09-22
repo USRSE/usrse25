@@ -81,13 +81,13 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 
 -   US-RSE Social Media Handles to follow:
 
-    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="16" height="16" style="vertical-align:middle;"/> **X/ Twitter:** [\@us_rse](https://x.com/us_rse)
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" style="width:16px;vertical-align:middle;"/> **X/ Twitter:** [\@us_rse](https://x.com/us_rse)
 
-    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg" width="16" height="16" style="vertical-align:middle;"/> **Mastodon:** [\@us_rse\@fosstodon.org](https://fosstodon.org/@us_rse)
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg" style="width:16px;vertical-align:middle;"/> **Mastodon:** [\@us_rse\@fosstodon.org](https://fosstodon.org/@us_rse)
 
-    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" width="16" height="16" style="vertical-align:middle;"/> **Bluesky:** [\@us-rse.bsky.social](https://bsky.app/profile/us-rse.bsky.social)
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" style="width:16px;vertical-align:middle;"/> **Bluesky:** [\@us-rse.bsky.social](https://bsky.app/profile/us-rse.bsky.social)
 
-    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="16" height="16" style="vertical-align:middle;"/> **LinkedIn:** [US Research Software Engineer Association](https://www.linkedin.com/company/us-rse)
+    -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" style="width:16px;vertical-align:middle;"/> **LinkedIn:** [US Research Software Engineer Association](https://www.linkedin.com/company/us-rse)
 
 -   Quick guide to [getting involved with US-RSE](https://us-rse.org/get-involved/).
 
