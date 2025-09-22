@@ -44,9 +44,9 @@ Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you ne
 -   **Food, drinks and DJ** at [Moshulu](https://www.moshulu.com/) (401 S. Columbus Blvd.) on Tuesday October 7th from 6:30 pm - 9:30 pm.
 -   **Local dining options** listed in [things to do or see](https://us-rse.org/usrse25/attend/local-info/).
 
-## Things to Do or See
+## Enjoy Philly
 
-Checkout this local [guide](https://us-rse.org/usrse25/attend/local-info/) for things to do or see while in Philly. It covers some historical and cultural must-see spots as well as a curated guide to dining options near the conference venue.
+Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for things to do or see while in Philly. It covers some historical and cultural must-see spots as well as a curated guide to dining options near the conference venue.
 
 ## What to Bring
 
