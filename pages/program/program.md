@@ -9,9 +9,12 @@ set_last_modified: true
 
 <i>All times listed in Eastern Time (ET) </i>
 
-**Please note:**
-- The schedule below is an outline and it is still evolving. Times and room assignments may shift. Further details will be added in the coming days and weeks.
-- The program below displays properly only with access to Google Drive resources. Visit the [alternate view of the program](https://us-rse.org/usrse25/program/program_alt/) for a Google-free version, but please note that it is less frequently updated.
+**Please note:** The program below displays properly only with access to Google Drive resources. Visit the [alternate view of the program](https://us-rse.org/usrse25/program/program_alt/) for a Google-free version, but please note that it is less frequently updated.
+
+**Individual photos:**  There are several opportunities to get a new professional photograph taken during the conference.  Head to the alcove near the Boardroom (there will be signs that the conference) during the following times if you're interested:
+* Monday: 10-10:30am (during break), 12:30-1:30pm (lunch), 4:50-5:15pm (break before poster session)
+* Tuesday: 10-10:30am (during break), 4:45-5:45pm (break)
+* Wednesday: 12:45-1:30pm (lunch)
 
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#floorplanModal">
