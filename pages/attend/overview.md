@@ -43,6 +43,7 @@ We are still finalizing event details and will provide more information as it is
 * All speakers (including those asking questions) are asked to use a microphone so that everyone can hear.
 * The walk to the Moshulu on Thursday evening is about half a mile and goes over a highway and along the river.  If this walk is inaccessible for you, please let the registration desk know by 3pm on Tuesday.
 * See information on food during the conference [below](#food).
+* There will be a DJ at the Moshulu; there are multiple decks on the ship if you are looking for a quieter area, but if you are noise sensitive, consider bringing ear plugs.  
 
 If there is something that you're concerned about, please contact us at [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org).  We want all members of the US-RSE community to be comfortable attending the event. 
 
@@ -55,7 +56,7 @@ Food restrictions shared on the conference registration form have been shared wi
 
 ### Sunday
 
-* Welcome: light refreshments
+* Welcome: light refreshments (plan on eating dinner elsewhere after)
   * Soda, beer, wine (one drink included; additional cash bar)
   * Sliders (beef/pork/crab)
   * Mediterranean vegetables, bread, meats
@@ -76,7 +77,7 @@ Food restrictions shared on the conference registration form have been shared wi
   * Bread
   * Dessert (gluten free option available)
 * Afternoon break: coffee, hot tea, soda, packaged snacks
-* Poster reception: light refreshments
+* Poster reception: light refreshments (plan on eating dinner elsewhere after)
   * Soda, beer, wine  (one drink included; additional cash bar)
   * Flatbreads (chicken/cheese/veggie & hummus)
   * Additional option TBD
