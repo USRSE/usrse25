@@ -15,45 +15,6 @@ as soon as possible, which may be before, during, or shortly after the conferenc
 <div id="accordion">
 
 <div class="card">
-<div class="card-header d-flex justify-content-center" id="heading0">
-<h5 class="mb-0">
-<button aria-controls="collapse0" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse0" data-toggle="collapse">
-  Teaching community scientists how to analyze iNaturalist data using R<br><b>Wai-Yin Kwan</b>
-</button>
-</h5>
-</div>
-<div aria-labelledby="heading0" class="collapse" data-parent="#accordion" id="collapse0">
-<div class="card-body">
-<p>
-                    iNaturalist is a program that encourages people to document
-the biodiversity around them using a smart phone. With 230
-million observations, iNaturalist is one of the biggest
-sources of biodiversity data in the world. In February 2025
-the Natural History Museum of Los Angeles County held a
-workshop to teach community scientists and community
-organizers how to analyze iNaturalist data using R.  Many
-iNaturalist projects encourage community scientists to
-collect data, but leave data analysis to “real” scientists.
-Our goal was to teach community scientists some basic
-skills so that they could look for answers to their own
-questions
-                </p>
-<p>
-                    We believe it is important to teach community
-scientists that their voice and questions matter. We took
-ideas from the software world, open science world, and open
-science data world to develop the workshop. During the
-first class, we covered how to download iNaturalist CSV
-data, create maps, and create charts using R. During the
-second class, each attendee presented their analysis. This
-presentation will cover what we learned from teaching the
-workshop.
-                </p>
-</div>
-</div>
-</div>
-
-<div class="card">
 <div class="card-header d-flex justify-content-center" id="heading1">
 <h5 class="mb-0">
 <button aria-controls="collapse1" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse1" data-toggle="collapse">
@@ -1765,55 +1726,6 @@ architecture, and fully automated development of workflows,
 RCAMS empowers institutions to tailor their accounting
 processes, enhance transparency, and streamline resource
 management.
-                </p>
-</div>
-</div>
-</div>
-
-<div class="card">
-<div class="card-header d-flex justify-content-center" id="heading29">
-<h5 class="mb-0">
-<button aria-controls="collapse29" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse29" data-toggle="collapse">
-Bayesian Modeling with Stan and Python: A Hands-on Introduction<br><b>Samvardhan Vishnoi</b>
-</button>
-</h5>
-</div>
-<div aria-labelledby="heading29" class="collapse" data-parent="#accordion" id="collapse29">
-<div class="card-body">
-<p>
-                    Bayesian methods provide a principled framework for
-modeling uncertainty, yet they remain underutilized across
-much of research computing due to perceived mathematical or
-tooling complexity. This poster introduces a reproducible
-and accessible pathway into Bayesian modeling using Stan
-and Python, designed especially for researchers, data
-scientists, and RSEs who may be unfamiliar with
-probabilistic methods.
-The project centers around a hands-on, interactive Google
-Colab notebook that introduces Bayesian regression using
-the `cmdstanpy` interface to Stan
-                </p>
-<p>
-                    The notebook includes
-hierarchical modeling examples, diagnostic tools (e.g.,
-R-hat, ESS, trace plots), and comparative outputs between
-Bayesian and frequentist approaches. Participants can
-modify priors, likelihoods, and data inputs to observe how
-uncertainty propagates through their models.
-This work was originally developed as a workshop to support
-researchers aiming to improve the statistical rigor and
-interpretability of their analyses. The notebook minimizes
-setup overhead, requiring only a Google account and a
-browser, and is ideal for self-paced learning or group
-training settings.
-By showcasing the notebook structure, example
-visualizations, and participant feedback, this poster
-highlights how well-designed tooling and pedagogy can lower
-barriers to entry for Bayesian inference in RSE contexts.
-This approach supports the broader mission of the US-RSE
-community by promoting statistical literacy,
-reproducibility, and the adoption of robust modeling
-frameworks in everyday research workflows.
                 </p>
 </div>
 </div>
