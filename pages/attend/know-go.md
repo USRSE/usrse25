@@ -11,7 +11,7 @@ set_last_modified: true
 
 # Know Before You Go - A Conference Guide for Attendees
 
-Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you need to know to make your experience smooth and enjoyable.
+Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you need to know to make your experience smooth and enjoyable.  Questions?  Reach out to usrse25-conference@us-rse.org.
 
 ## Essential Logistics
 
@@ -22,7 +22,8 @@ Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you ne
     -   Monday October 6th: 7:30 am - 3:30 pm
     -   Tuesday October 7th: 7:30 am - 3:30 pm
     -   Wednesday October 8th: 8:00 am - 8:30 am
--  **Seating**: There are tables in the main Ballroom, and just chairs in the Bromley/Claypoole room.  There are some outlets available around the hotel, but power is not accessible from most conference seats.  
+-  **Program**: The [online version](https://us-rse.org/usrse25/program/) includes links to a description of each session or paper/talk/notebook; a printed copy with an overview of the sessions will be provided at registration.
+-  **Seating**: There are tables in the main Ballroom and just chairs in the Bromley/Claypoole room.  There are some outlets available around the hotel, but power is not accessible from most conference seats. Expect the rooms to be fairly few with limited empty seats. 
 
 ## Travel & Transportation
 
@@ -49,7 +50,6 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 
 ## What to Bring & Weather
 
--   Photo ID and your conference badge
 -   Laptop, chargers
 -   Business cards or digital contact-sharing app
 -   Water bottle, notebook, sweater (rooms can be chilly!)
@@ -60,8 +60,8 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 
 -   **Guidelines:** Please do not attend if you are sick.  You are welcome and encouraged to wear a mask.  
 -   **On-Site Help Desk:** Visit the registration desk located outside of the main conference rooms (Ballroom foyer).
--   **Accessibility:** If you have a need that wasn't shared on the registration form, please contact usrse25-conference@us-rse.org ASAP.  If the walk to the Moshulu on Tuesday evening is not accessible for you, please let the registration desk know by 3pm on Tuesday so arrangements can be made.  
--   **Food Restrictions**: All fod restrictions that were noted on the registration form have been discussed with the food vendors.  We will be posting a menu overview on the website before the conference.  If you have additional concerns or questions, please get in touch with [Christian Tabedzki](mailto:ct5868@princeton.edu).  If you have any issues during the conference, please let us know at the registration desk.  
+-   **Accessibility:** If you have a need that wasn't shared on the registration form, please contact usrse25-conference@us-rse.org ASAP.  See more information in the [Accessibility section](https://us-rse.org/usrse25/attend/#accessibility). 
+-   **Food Restrictions**: All food restrictions that were noted on the registration form have been discussed with the food vendors.  A current [overview of the menu](https://us-rse.org/usrse25/attend/#food) is available.  If you have additional concerns or questions, please get in touch with [Christian Tabedzki](mailto:ct5868@princeton.edu).  If you have any issues during the conference, please let us know at the registration desk.  
 -   **Quiet Room** will be open in the Boardroom at the following times if you need a break:
     -   Monday October 6th: 8:00 am - 4:30 pm
     -   Tuesday October 7th: 8:00 am - 4:30 pm
@@ -103,6 +103,8 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 
 ## Networking Tips & New Attendee Orientation
 
+The US-RSE community is very friendly and welcoming.  It is OK to talk to anyone at the conference.  An attendee list will be provided before the conference including information about those who have opted in to share their contact information.  
+
 -   **Before the conference**
     -   **Set goals**: Know if you’re looking for collaborators, learning new tools, or meeting peers.
     -   **Research attendees & speakers**: Identify people to meet; follow them online for conversation starters.
@@ -110,7 +112,7 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
     -   **Join the US-RSE slack space**: Use the `#usrse25` channel to connect with attendees and conference organizers. Add your job title, Institute, LinkedIn, email and other handles to your Slack profile, so other attendees can know you better.
     -   **Update** your resume, LinkedIn, and other professional accounts.
     -   **Familiarize** yourself with our [Code of Conduct](https://us-rse.org/usrse25/about/code-of-conduct/).
-    -   Optionally, watchthe orientation video from [last year's conference](https://youtu.be/KgukUoBKBTk?si=FQ8HqBZae6crUm1S).
+    -   Optionally, watch the orientation video from [last year's conference](https://youtu.be/KgukUoBKBTk?si=FQ8HqBZae6crUm1S).
 -   **During the conference**
     -   Introduce yourself to someone new at each session or meal.
     -   Sit strategically for easy conversation.
@@ -118,15 +120,15 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
     -   Take notes for follow-up discussions.
     -   Focus on quality connections rather than quantity.
     -   Use social media and slack (`#usrse25`) to engage with attendees or find presenters you'd like to engage with
-    -   Sign up to present a Rapid Access Microtalk (RAM) [website link???]
-    -   Join the US-RSE Group Fair in Bromley/Claypoole during lunch on Tuesday October 7th to learn about US-RSE [working groups](https://us-rse.org/working-groups/) and affinity groups. Most groups have a corresponding slack channel starting with `#wg` or `#ag` (such as `#wg-testing` or `#ag-aiml`).
+    -   Sign up to present a Rapid Access Microtalk (RAM) [before](https://forms.gle/mnNSJtaZ2KC9BBPu9) or during the conference
+    -   Join the US-RSE Group Fair during lunch on Tuesday October 7th to learn about US-RSE [working groups](https://us-rse.org/working-groups/) and affinity groups. Most groups have a corresponding slack channel starting with `#wg` or `#ag` (such as `#wg-testing` or `#ag-aiml`).
 -   **Social events and receptions**
     -   Join the welcome reception, poster reception, and social night at Moshulu to connect with fellow attendees.
     -   Proactively introduce yourself to individuals or small groups.
     -   Sample conversation starters:
-        -   “Hi, I’m [Name], working on [topic]. What brought you to #usrse25?”
+        -   “Hi, I’m [Name], working on [topic]. What brought you to the conference?”
         -   “I really enjoyed your talk on [topic]. Can you tell me more about [specific detail]?”
-        -   “Have you attended USRSE before? Any sessions you’d recommend?”
+        -   “Have you attended a US-RSE conference or event before? Any sessions you’d recommend?”
     -   Use the `#usrse25` slack channel to gather attendees to get meals or coffee together.
 -   **Poster Sessions & Coffee Breaks**
     -   Ask presenters about their work.
