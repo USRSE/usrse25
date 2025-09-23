@@ -11,7 +11,7 @@ set_last_modified: true
 
 # Know Before You Go - A Conference Guide for Attendees
 
-Welcome to **USRSE'25** ! We’re excited to see you. Here’s everything you need to know to make your experience smooth and enjoyable.  Questions?  Reach out to usrse25-conference@us-rse.org.
+Welcome to **USRSE'25!** We’re excited to see you. Here’s everything you need to know to make your experience smooth and enjoyable.  Questions?  Reach out to usrse25-conference@us-rse.org.
 
 ## Essential Logistics
 
@@ -121,7 +121,7 @@ The US-RSE community is very friendly and welcoming.  It is OK to talk to anyone
     -   Focus on quality connections rather than quantity.
     -   Use social media and slack (`#usrse25`) to engage with attendees or find presenters you'd like to engage with
     -   Sign up to present a Rapid Access Microtalk (RAM) [before](https://forms.gle/mnNSJtaZ2KC9BBPu9) or during the conference
-    -   Join the US-RSE Group Fair during lunch on Tuesday October 7th to learn about US-RSE [working groups](https://us-rse.org/working-groups/) and affinity groups. Most groups have a corresponding slack channel starting with `#wg` or `#ag` (such as `#wg-testing` or `#ag-aiml`).
+    -   Join the US-RSE Group Fair during lunch on Tuesday October 7th to learn about US-RSE [working groups](https://us-rse.org/working-groups/) and [affinity groups](https://us-rse.org/about/affinity-groups/) (including regional groups). Most groups have a corresponding slack channel starting with `#wg-` or `#ag-` or `#rg-` (such as `#wg-testing` or `#ag-aiml` or `#rg-north-carolina`).
 -   **Social events and receptions**
     -   Join the welcome reception, poster reception, and social night at Moshulu to connect with fellow attendees.
     -   Proactively introduce yourself to individuals or small groups.
