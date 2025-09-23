@@ -23,7 +23,7 @@ Welcome to **USRSE'25!** We’re excited to see you. Here’s everything you nee
     -   Tuesday October 7th: 7:30 am - 3:30 pm
     -   Wednesday October 8th: 8:00 am - 8:30 am
 -  **Program**: The [online version](https://us-rse.org/usrse25/program/) includes links to a description of each session or paper/talk/notebook; a printed copy with an overview of the sessions will be provided at registration.
--  **Seating**: There are tables in the main Ballroom and just chairs in the Bromley/Claypoole room.  There are some outlets available around the hotel, but power is not accessible from most conference seats. Expect the rooms to be fairly few with limited empty seats. 
+-  **Seating**: There are tables in the main Ballroom and just chairs in the Bromley/Claypoole room.  There are some outlets available around the hotel, but power is not accessible from most conference seats. Expect the rooms to be fairly full with limited empty seats. 
 
 ## Travel & Transportation
 
