@@ -23,7 +23,7 @@ Welcome to **USRSE'25!** We’re excited to see you. Here’s everything you nee
     -   Tuesday October 7th: 7:30 am - 3:30 pm
     -   Wednesday October 8th: 8:00 am - 8:30 am
 -  **Program**: The [online version](https://us-rse.org/usrse25/program/) includes links to a description of each session or paper/talk/notebook; a printed copy with an overview of the sessions will be provided at registration.
--  **Seating**: There are tables in the main Ballroom and just chairs in the Bromley/Claypoole room.  There are some outlets available around the hotel, but power is not accessible from most conference seats. Expect the rooms to be fairly few with limited empty seats. 
+-  **Seating**: There are tables in the main Ballroom and just chairs in the Bromley/Claypoole room.  There are some outlets available around the hotel, but power is not accessible from most conference seats. Expect the rooms to be fairly full with limited empty seats. 
 
 ## Travel & Transportation
 
@@ -53,7 +53,7 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 -   Laptop, chargers
 -   Business cards or digital contact-sharing app
 -   Water bottle, notebook, sweater (rooms can be chilly!)
--   **Posters**: If you're presenting a poster, please bring the printed poster with you.  The regsitration desk can hold your poster on Monday if you need a place to store it.  
+-   **Posters**: If you're presenting a poster, please bring the printed poster with you.  The registration desk can hold your poster on Monday if you need a place to store it.  
 -   **Weather**: Philadelphia in early October averages highs near 70°F and lows around 50°F. Pack a light jacket or sweater. The hotel and conference rooms may be chilly.  The walk to the Tuesday evening event is approximately half a mile along the river.
 
 ## Health & Safety
