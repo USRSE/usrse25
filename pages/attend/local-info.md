@@ -36,7 +36,7 @@ Consult our [Google Map List](https://maps.app.goo.gl/JW73CWgCyTsP3mMr8) to get 
 
 ## Places to Eat
 
-Keep in mind, the conference registration fee includes breakfast and lunch on Monday, Tuesday, and Wednesday. Additional evening reception events (see the [program](https://us-rse.org/usrse25/program/)) with some food and drinks will also be held and included in the registration fee. 
+Keep in mind, the conference registration fee includes breakfast and lunch on Monday, Tuesday, and Wednesday, as well as some evening events. 
 
 **Places for Dinner (Old City)**
 
