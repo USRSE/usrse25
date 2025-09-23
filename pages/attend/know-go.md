@@ -53,7 +53,7 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 -   Laptop, chargers
 -   Business cards or digital contact-sharing app
 -   Water bottle, notebook, sweater (rooms can be chilly!)
--   **Posters**: If you're presenting a poster, please bring the printed poster with you.  The regsitration desk can hold your poster on Monday if you need a place to store it.  
+-   **Posters**: If you're presenting a poster, please bring the printed poster with you.  The registration desk can hold your poster on Monday if you need a place to store it.  
 -   **Weather**: Philadelphia in early October averages highs near 70°F and lows around 50°F. Pack a light jacket or sweater. The hotel and conference rooms may be chilly.  The walk to the Tuesday evening event is approximately half a mile along the river.
 
 ## Health & Safety
