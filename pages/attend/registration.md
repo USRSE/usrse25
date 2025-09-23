@@ -25,5 +25,9 @@ September 25: conference registration deadline
 * Conference registration (regular): $695
 * Student rate: $175
 
-Registration rates are inclusive of all fees.  Registration includes breakfast and lunch Monday-Wednesday, a conference dinner, and at least one reception.  
+Registration rates are inclusive of all fees.  Registration includes breakfast and lunch Monday-Wednesday and evening receptions Sunday-Tuesday.
+
+## Cancellations 
+
+We are unable to offer registration refunds at this point so close to the conference.  If you can no longer attend, we do still appreciate knowing so we can update food counts; let us know at usrse25-conference@us-rse.org.  If you have identified someone who can attend in your place, please email usrse25-conference@us-rse.org to discuss a change in attendee.  
 
