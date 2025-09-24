@@ -41,7 +41,7 @@ We are still finalizing event details and will provide more information as it is
 * If you need a letter to support a travel visa application, please contact [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org).
 * We take the [Code of Conduct](https://us-rse.org/usrse25/about/code-of-conduct/) seriously.
 * All speakers (including those asking questions) are asked to use a microphone so that everyone can hear.
-* The walk to the Moshulu on Thursday evening is about half a mile and goes over a highway and along the river.  If this walk is inaccessible for you, please let the registration desk know by 3pm on Tuesday.
+* The walk to the Moshulu on Tuesday evening is about half a mile and goes over a highway and along the river.  If this walk is inaccessible for you, please let the registration desk know by 3pm on Tuesday.
 * See information on food during the conference [below](#food).
 * There will be a DJ at the Moshulu; there are multiple decks on the ship if you are looking for a quieter area, but if you are noise sensitive, consider bringing ear plugs.  
 
