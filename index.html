@@ -93,7 +93,7 @@ fb-img:
 <div>
 <a href="https://shi.com/">
     <img src="{{ site.baseurl }}/assets/img/sponsor-logos/SHI_logo.jpg"
-         style="display: block; float: left; margin-top: 8%; margin-left: 7%; margin-right: auto; width: 20%;"
+         style="display: block; float: left; margin-top: 8%; margin-left: 10%; margin-right: 2%; width: 20%;"
          alt="SHI logo">
 </a>
 </div>
@@ -178,7 +178,7 @@ fb-img:
 <h3>Attendee Travel and Registration Support Provided By</h3>
 <div>
     <br>
-<a href="https://globus.org/">
+<a href="https://shinstitute.org/">
     <img src="{{ site.baseurl }}/assets/img/SustainableHorizons_LogoV2_transparent.png"
          style="display: block; float: left; margin-left: 15%; margin-right: 5%; width: 30%;"
          alt="Sustainable Horizons Institute logo">
@@ -218,6 +218,21 @@ fb-img:
 <br>
 <br>
 <br>
+
+        <h3>Additional Sponsors</h3>
+       <div>
+    <br>
+<a href="https://omnibond.com/project-eureka/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/projectEurekaLogo.blue.png"
+         style="display: block; margin-left: auto; margin-right: auto; width: 13%;"
+         alt="Omnibond Project Eureka logo">
+</a>
+</div>
+
+       <br>
+<br>
+<br>
+       
        </center>
 
 <div class="sectionheader">
@@ -229,6 +244,8 @@ fb-img:
   <center>
 
 {% if site.data.org-members.premier %}
+        <br>
+        <div style="width: 50%">
 <h3>Premier Level</h3>
 
 {% assign org_tier = site.data.org-members.premier | sort: "date_joined" %}
@@ -250,5 +267,5 @@ fb-img:
 {% assign org_tier = site.data.org-members.basic | sort: "date_joined" %}
 {% include org-card-group.html %}
 {% endif %}    
-
+        </div>
 
