@@ -57,15 +57,5 @@ SEPTA’s Airport Line runs approximately every 30 minutes and connects the airp
 * **By Taxi/Rideshare:**
 A taxi from the airport to Old City typically takes 15–35 minutes, depending on traffic, and has a flat rate of around $30–35 plus tip. This is the most convenient option, especially if you're carrying luggage or arriving during off-peak hours. If you're being reimbursed by your company, this is usually the simplest and most efficient choice.
 
-## Financial Support
 
-US-RSE is able to provide [financial support](https://us-rse.org/usrse25/attend/financialsupport/) to attend the conference to a limited number of attendees.
-
-### Sustainable Horizons Institute - Building Engagement (BE) program
-
-The BE program is designed to expand the professional association by supporting attendees from a variety of backgrounds. The application for funded participants opens August 11 with a deadline of August 22. The BE program also has [opportunities for volunteers](https://us-rse.org/usrse25/participate/volunteer/).
-
-Visit Sustainable Horizons Institute's [BE@US-RSE25 page](https://shinstitute.org/building-engagement-us-rse-2025/) for details on the application, eligibility, and key dates. If you have any questions please contact: BE@shinstitute.org
-
-<img src = "../../assets/img/SustainableHorizons_LogoV2_transparent.png" style="width:400px;height:auto;">
 
