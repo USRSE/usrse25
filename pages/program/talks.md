@@ -1402,7 +1402,7 @@ positions. </p>
 <h5 class="mb-0">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse24"
 aria-expanded="false" aria-controls="collapse24">
-Building RSE Capacity with the Experiential DataSquad Model<br><b>Paula Lackie and Elliot Pickens</b>
+The DataSquad Experiment: Some Lessons for Building RSE Capacity<br><b>Paula Lackie and Elliot Pickens</b>
 </button>
 </h5>
 </div>
