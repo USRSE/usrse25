@@ -72,7 +72,7 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 ## Connectivity & Tech
 
 -   **Wi-Fi Network:** A conference Wi-Fi network will be available onsite Monday-Wednesday.  Connection details will be on the printed conference program.  
--   There are some power outlets available around the hotel, but plugs are not accessible from most conference seats.  
+-   There are some power outlets available around the hotel, but plugs are not accessible from most conference seats.  There will be charging stations at the back of the ballroom.
 
 ## Connect on Social Media
 
