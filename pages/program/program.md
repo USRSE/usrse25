@@ -9,7 +9,7 @@ set_last_modified: true
 
 <i>All times listed in Eastern Time (ET) </i>
 
-**Please note:** The program below displays properly only with access to Google Drive resources. Visit the [alternate view of the program](https://us-rse.org/usrse25/program/program_alt/) for a Google-free version, but please note that it is less frequently updated.
+**Please note:** The program below displays properly only with access to Google Drive resources. The [program is also available as a PDF](https://us-rse.org/usrse25/program/program_pdf.pdf).
 
 **Individual photos:**  There are several opportunities to get a new professional photograph taken during the conference.  Head to the alcove near the Boardroom (there will be signs pointing the way) during the following times if you're interested:
 * Monday: 10-10:30am (during break), 12:30-1:30pm (lunch), 4:50-5:15pm (break before poster session)
