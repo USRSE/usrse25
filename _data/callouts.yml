@@ -1,4 +1,9 @@
 items:
+  - title: Program
+    subtitle: >
+      Plan your time at the conference. <br>
+    link: program/
+    link_name: Get Excited!
   - title: Volunteer
     subtitle: >
       Help make USRSE'25 a success. <br>
@@ -9,8 +14,3 @@ items:
       Registration is open (through 9/25)!  Reserve your hotel by 9/12. 
     link: https://us-rse.org/usrse25/attend/registration/
     link_name: Register
-  - title: Program
-    subtitle: >
-      Plan your time at the conference. <br>
-    link: program/
-    link_name: Get Excited!
