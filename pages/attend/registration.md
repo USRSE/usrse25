@@ -6,8 +6,8 @@ menubar: attend
 permalink: attend/registration/
 set_last_modified: true
 ---
-## Registration is now open! (through 9/25)
-[Register through Eventbrite](https://www.eventbrite.com/e/usrse25-conference-code-practices-and-people-tickets-1406300736359) by Thursday, September 25, 2025.
+## Registration is closed!
+[Registration through Eventbrite](https://www.eventbrite.com/e/usrse25-conference-code-practices-and-people-tickets-1406300736359) closed on Thursday, September 25, 2025.
 
 ## Deadlines
 
