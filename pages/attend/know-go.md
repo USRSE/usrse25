@@ -80,6 +80,12 @@ Check out this local [guide](https://us-rse.org/usrse25/attend/local-info/) for 
 
 -   Official Conference hashtag: **#usrse25**
 
+-   Download a graphic and pair it with your own message. Be sure to use the hashtag #usrse25 and tag us so we can amplify your post!
+
+    - Click to download: [USRSE'25 Promotional Graphic - Presenter]({{ site.baseurl }}/assets/img/presenter_graphic.png)
+    - Click to download: [USRSE'25 Promotional Graphic - Attendee]({{ site.baseurl }}/assets/img/attendee_graphic.png)
+
+
 -   US-RSE Social Media Handles to follow:
 
     -   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" style="width:16px;vertical-align:middle;"/> **X/Twitter:** [\@us_rse](https://x.com/us_rse)
