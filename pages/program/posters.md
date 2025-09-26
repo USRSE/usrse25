@@ -972,57 +972,6 @@ against riders.
 </div>
 
 <div class="card">
-<div class="card-header d-flex justify-content-center" id="heading18">
-<h5 class="mb-0">
-<button aria-controls="collapse18" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse18" data-toggle="collapse">
-Reconstruction and Analysis of 3D Tissue Volumes in the
-CODA Project<br><b>Margaret Eminizer and Tyler Newton</b>
-</button>
-</h5>
-</div>
-<div aria-labelledby="heading18" class="collapse" data-parent="#accordion" id="collapse18">
-<div class="card-body">
-<p>
-                    CODA [1] is a data analysis and machine learning pipeline
-originally developed by the Kieman Lab at Johns Hopkins
-University and now enhanced through collaboration with the
-Johns Hopkins Data Science &amp; AI Institute (JH-DSAI). CODA
-uses classical image analysis to reconstruct 3D volumes of
-biological tissue samples at cellular resolution from sets
-of serially-sectioned multimodal microscopy images. It
-employs machine learning-based segmentation algorithms to
-identify the locations, extents, and relationships of
-cellular and tissue microstructures, facilitating novel
-spatial and volumetric analyses of disease pathology in
-situ
-                </p>
-<p>
-                    Analyses of tissue volumes generated using the CODA
-framework have made impacts in understanding tumorigenesis
-in pancreatic cancer [1, 2, 3, 4], and integration of
-spatial genomics data has provided insights into the
-genetic variety of precancerous lesions observed in the
-pancreas [5]. Our poster provides technical detail on the
-classical and machine learning algorithms used in the
-next-generation CODA pipeline, and gives an overview of the
-software development and data engineering practices that
-are central to the continued support of
-professional-quality software. The next-generation CODA
-pipeline is one of the first software products developed
-through collaboration with the JH-DSAI; it is a landmark
-example of how the Institute is able to provide scientific
-domain experts with innovative, ready-to-run tools to
-impact research work along with the technical expertise
-needed to deploy those tools accessibly, continue their
-development, and manage their lifecycles to allow new
-collaborators and communities to benefit from the work of
-individual groups.
-                </p>
-</div>
-</div>
-</div>
-
-<div class="card">
 <div class="card-header d-flex justify-content-center" id="heading19">
 <h5 class="mb-0">
 <button aria-controls="collapse19" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse19" data-toggle="collapse">
