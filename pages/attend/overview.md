@@ -34,8 +34,8 @@ If there is an accommodation that will support your conference attendance, pleas
 
 We are still finalizing event details and will provide more information as it is available.  
 
-* An all-gender restroom will be available.
-* A small quiet room (sits about 10 people at a conference table) will be available during conference programming.  This is for people who need a sensory break and opportunity to reset alone in a quiet environment.  Those using this room are expected to be silent and to not engage others in the space.  If you need another private space during the conference, please check at the registration desk about other options.  
+* An single-occupant restroom is available on the third floor of the hotel.  Take the elevator and then turn left.
+* A small quiet room (sits about 10 people at a conference table) will be available during conference programming.  This is for people who need a sensory break and opportunity to reset alone in a quiet environment.  Those using this room are expected to be silent and to not engage others in the space.  If you need another private space during the conference, please check at the conference registration desk about other options.  
 * If you need a nursing or medical room during the event and will not have your own hotel room at the Marriott, please let us know at [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org) and we will ensure that one is available.
 * The [hotel website](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/) includes floorplan information and 3D walk-throughs of the common spaces if you'd like to familiarize yourself with venue before attending.
 * If you need a letter to support a travel visa application, please contact [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org).
@@ -80,7 +80,8 @@ Food restrictions shared on the conference registration form have been shared wi
 * Poster reception: light refreshments (plan on eating dinner elsewhere after)
   * Soda, beer, wine  (one drink included; additional cash bar)
   * Flatbreads (chicken/cheese/veggie & hummus)
-  * Additional option TBD
+  * Dumplings
+  * Mediterranean vegetables, bread, meats
 
 
 ### Tuesday
