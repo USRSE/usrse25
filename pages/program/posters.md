@@ -15,31 +15,6 @@ as soon as possible, which may be before, during, or shortly after the conferenc
 <div id="accordion">
 
 <div class="card">
-<div class="card-header d-flex justify-content-center" id="heading1">
-<h5 class="mb-0">
-<button aria-controls="collapse1" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse1" data-toggle="collapse">
-  Modeling Social Dynamics in Open Source Software Forking<br><b>Junaid Ahmed Iqbal</b>
-</button>
-</h5>
-</div>
-<div aria-labelledby="heading1" class="collapse" data-parent="#accordion" id="collapse1">
-<div class="card-body">
-<p>
-                    This dissertation explores the social dynamics of
-Open Source Software (OSS) communities leading up to forking events
-                </p>
-<p>
-                    It employs statistical modeling of longitudinal
-collaboration graphs to analyze community evolution. The research aims
-to identify key factors influencing forking, including
-measures of influence, conflict indicators, and early warning signs
-of community changes.
-                </p>
-</div>
-</div>
-</div>
-
-<div class="card">
 <div class="card-header d-flex justify-content-center" id="heading2">
 <h5 class="mb-0">
 <button aria-controls="collapse2" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse2" data-toggle="collapse">
