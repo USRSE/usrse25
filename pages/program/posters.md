@@ -917,36 +917,6 @@ processes in place can help manage this complexity.
 </div>
 
 <div class="card">
-<div class="card-header d-flex justify-content-center" id="heading17">
-<h5 class="mb-0">
-<button aria-controls="collapse17" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse17" data-toggle="collapse">
-Empowering Motorcyclists: Mobile 3D Scene Reconstruction
-for Fairer Post-Incident Insurance Adjudication<br><b>Ayush Saha, Vinay Bidin, Yawevan Mireku, and Saili Karkare</b>
-</button>
-</h5>
-</div>
-<div aria-labelledby="heading17" class="collapse" data-parent="#accordion" id="collapse17">
-<div class="card-body">
-<p>
-                    Motorcyclists are often unfairly blamed in insurance claims
-after crashes. Investigations can take a long time, and a
-lack of evidence or the influence of stereotypes can lead
-to incorrect judgments
-                </p>
-<p>
-                    Our mobile app helps motorcyclists
-capture accurate 3D reconstructions of crash scenes using
-their phones. These 3D models can be shown to insurance
-adjusters to provide a clearer picture of what actually
-happened. The goal is to make the claims process more fair
-by offering better visual evidence and reducing bias
-against riders.
-                </p>
-</div>
-</div>
-</div>
-
-<div class="card">
 <div class="card-header d-flex justify-content-center" id="heading19">
 <h5 class="mb-0">
 <button aria-controls="collapse19" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse19" data-toggle="collapse">
