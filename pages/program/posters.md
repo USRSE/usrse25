@@ -453,59 +453,6 @@ lessons have been learnt.
 </div>
 
 <div class="card">
-<div class="card-header d-flex justify-content-center" id="heading10">
-<h5 class="mb-0">
-<button aria-controls="collapse10" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse10" data-toggle="collapse">
-Are AI code assistants making research code vulnerable to
-major errors?<br><b>Gabrielle O'Brien</b>
-</button>
-</h5>
-</div>
-<div aria-labelledby="heading10" class="collapse" data-parent="#accordion" id="collapse10">
-<div class="card-body">
-<p>
-                    A new wave of programming aids powered by large language
-models (LLM) offer new
-capabilities for producing code, and tools ranging from
-ChatGPT to GitHub Copilot are currently being used by
-scientists across disciplines [1]. Because scientific
-programmers are often under-trained in software development
-[2], there is considerable excitement about how these tools
-may enhance their programming abilities and productivity
-[3]. However, a confluence of evidence from human computer
-interaction studies as well as the literature on research
-software development suggests there is a major possibility
-for LLM-based tools to inject scientifically-invalidating
-code errors without detection. The incidence of this would
-be almost impossible to measure in the near-term owing to
-sparse code sharing and post-publication review practices,
-and the effect on scientific research quality could be
-substantial.
-                </p>
-<p>
-                    This poster lays out arguments for why scientific
-programmers are at heightened risk for LLM-injected code
-errors: that (1) this population possesses risk factors for
-tool overreliance identified by a range of user studies
-[4-5], (2) LLM-generated code tends to contain more subtle
-errors than human-written code, as it will often execute
-without throwing runtime errors [6], and (3) historically,
-scientific programmers have often used informal code
-quality control measures, if any [7-8].
-                </p>
-<p>
-                    Beyond raising an argument for why these issues should be
-taken seriously as a matter of scientific integrity, this
-poster provides a setting for collaborative brainstorming
-about the unique leverage points and opportunities Research
-Software Engineers may have to proactively lead in
-upholding code quality in the coming years.
-                </p>
-</div>
-</div>
-</div>
-
-<div class="card">
 <div class="card-header d-flex justify-content-center" id="heading11">
 <h5 class="mb-0">
 <button aria-controls="collapse11" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse11" data-toggle="collapse">
