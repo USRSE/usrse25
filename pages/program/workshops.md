@@ -46,6 +46,9 @@ bioinformatics, civil engineering, climate modeling,
 earthquake science, molecular dynamics and other complex
 analyses.
 
+**Note:** You will need an ACCESS account (just an account, not an allocation) and your laptop for the interactive portion of the workshop.  If you have an existing ACCESS account, you're all set.  To set up a new ACCESS account, visit [https://operations.access-ci.org/identity/new-user](https://operations.access-ci.org/identity/new-user); Option 1 on the linked page is recommended.  Your institutional email address needs to match the institution you list on the application.  To check that you're ready for the workshop, verify that you can log in to [https://pegasus.access-ci.org](https://pegasus.access-ci.org).  If you have any trouble creating an ACCESS account, please contact <pegasus-support@isi.edu>.
+
+
 ------
 
 <a name="w-agile"></a>
