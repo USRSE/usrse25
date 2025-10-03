@@ -35,8 +35,7 @@ research projects.
 <a name="b-accelerating"></a>
 ## Accelerating Research: Strategies from the Field
 
-_Jen Rosiere Reynolds, Lance Parsons, Gail Rosenbaum, Jason
-Simms, and Sarah Stevens_
+_Jen Rosiere Reynolds, Lance Parsons, Gail Rosenbaum, Joost Wagenaar, and Sarah Stevens_
 
 Accelerating Research: Strategies from the Field is a Birds
 of a Feather (BoF) session aimed at exploring how research
