@@ -17,26 +17,21 @@ Authors of notebooks are expected to upload their notebook to the Zenodo site fo
 
 _Alyssa Travitz, Irfan Alibay, Hannah Baumann, David Dotson, James Eastwood, Mike Henry, Josh Horton, Ian Kenney, Iván Pulido, Benjamin Ries, and David Mobley_
 
-Alchemical free energy calculations are integral to
-state-of-the-art drug discovery pipelines, yet the need for
-domain expertise and reliance on closed-source software
-remain major barriers to their widespread use. The Open
-Free Energy (OpenFE) project is a pre-competitive
-collaboration between academic and industry partners to
-develop an ecosystem of extensible open-source tools for
-accessible and reproducible free energy calculations.
-OpenFE’s ecosystem includes Python-based tools for network
-planning, atom mapping, defining protocols for relative and
-absolute alchemical transformations, simulation execution,
-and data analysis. We will demonstrate how these tools can
-be used out of the box, adapted, or extended to create
-end-to-end workflows enabling robust free energy
-calculations at scale.
+Alchemical free energy calculations are integral to state-of-the-art drug discovery pipelines, 
+yet the need for domain expertise and reliance on closed-source software remain major barriers 
+to their widespread use. The Open Free Energy (OpenFE) project is a pre-competitive 
+collaboration between academic and industry partners to develop an ecosystem of extensible 
+open-source tools for accessible and reproducible free energy calculations. OpenFE’s ecosystem 
+includes Python-based tools for network planning, atom mapping, defining protocols for 
+relative and absolute alchemical transformations, simulation execution, and data analysis. We 
+will demonstrate how these tools can be used out of the box, adapted, or extended to create 
+end-to-end workflows enabling robust free energy calculations at scale.
 
-[Colab notebook](https://colab.research.google.com/github/OpenFreeEnergy/ExampleNotebooks/blob/main/showcase/openfe_showcase.ipynb)
+[Colab notebook](https://colab.research.google.com/github/OpenFreeEnergy/openfe-usrse-demo/blob/main/src/openfe_demo.ipynb)
 
-Git repository:
-[https://github.com/OpenFreeEnergy/ExampleNotebooks/tree/main/showcase](https://github.com/OpenFreeEnergy/ExampleNotebooks/tree/main/showcase)
+GitHub repository: [https://github.com/OpenFreeEnergy/openfe-usrse-demo/](https://github.com/OpenFreeEnergy/openfe-usrse-demo/)
+
+Open Free Energy: [https://openfree.energy/](https://openfree.energy/)
 
 ------
 
