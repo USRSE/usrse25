@@ -134,31 +134,6 @@ steps.
 
 ---
 
-<a name="p-hpc"></a>
-## A Hands-On Curriculum for Training in HPC Cluster Deployment and Management
-
-_Edwin F. Posada and Richard Berger_
-
-This paper presents the design, methodology, and
-outcomes of the High-Performance Computing Technologies
-(HPCT) course, a hands-on training program focused on the
-system-side of HPC cluster deployment and administration.
-Delivered as part of the Master in High Performance
-Computing (MHPC) program, the course introduces students to key
-concepts in cluster configuration, including networking, software
-stack provisioning, job scheduling, and monitoring. Initially
-taught in person, the course was transitioned to an online format
-during the COVID-19 pandemic. This shift led to the development of
-openly available instructional material and a flipped-classroom
-approach that continues to support both in-person and hybrid
-delivery. All course materials are publicly available at
-www.hpc.temple.edu/mhpc/hpc-technology/index.html. By documenting the
-structure, infrastructure, and evolution of HPCT, this paper offers a
-model for accessible HPC system training that supports workforce
-development in computational science.
-
----
-
 <a name="p-atr"></a>
 ## Integrating ATR Software with University HPC Infrastructure: balancing diverse compute needs
 
