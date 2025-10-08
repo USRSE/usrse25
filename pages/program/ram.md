@@ -28,3 +28,8 @@ or want to regale an abject project failure, this is your chance to shine!
 | Notebook-Driven-Development (NDD) for a research software packages | Tinashe Michael Tapera |
 | Challenging Conversations: Code Review | Jeff Soules |
 | Accidental RSE? You're in good company! Accidental Data Support people have been here for decades | Paula Lackie |
+
+
+Slides are available on [Zenodo](https://zenodo.org/records/17297728)
+
+
