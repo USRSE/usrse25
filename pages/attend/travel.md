@@ -15,26 +15,22 @@ set_last_modified: true
 [Philadelphia Marriott Old City](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/) <br>
 One Dock St, Philadelphia, PA 19106
 
+The conference hotel is also the conference venue!
 
 ### Room Reservations
 
-We'd greatly appreciate you staying at the conference hotel.  Maintaining reasonable conference registration rates requires that we fill the hotel room reservation block.
+We would greatly appreciate you staying at the conference hotel.  Maintaining reasonable conference registration rates requires that we fill the hotel room reservation block.
 
 Please plan to arrive on Sunday, October 5, 2025.  The conference starts early Monday morning, and we are planning an informal networking event on Sunday evening.
 
-A room block at the hotel is available for Sunday, Monday, and Tuesday nights.  
+A room block at the hotel is available only for Sunday, Monday, and Tuesday nights (Oct 5-7). The deadline to reserve a room in conference room block is September 12, but the room block may fill up before the deadline, so we encourage attendees to reserve a room as soon as possible. A reservation for those three nights can be made online through the links below. If you need to add Saturday night (Oct 4) and/or Wednesday night (Oct 8), please first make your online reservation and then email Andrea Rubinstein (alrubins@princeton.edu) with your request. Include your Marriott reservation confirmation number in your message to Andrea.
 
-* [Regular reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661853085&key=GRP&guestreslink2=true&app=resvlink ) - $239/night + taxes
-* [Government rate reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661921114&key=GRP&guestreslink2=true&app=resvlink ) (for valid government employee travel) - $218/night + taxes
+* [Regular reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737661853085&key=GRP&guestreslink2=true&app=resvlink ) - $239/night + taxes (**9/12 update: the regular rate room block is FULL**)
+* The government rate room block is FULL
 
-If the room block is full, please contact us at [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org) so we can investigate adding additional rooms.
+If the regular room block is full, please contact us at [usrse25-conference@us-rse.org](mailto:usrse25-conference@us-rse.org) so we can investigate adding additional rooms.
 
-Room reservations must be made by 2025-09-12.
-
-If you want to add additional days to your registration, please call the hotel to modify your registration (+1 215-238-6000).  If you plan to arrive Saturday, we encourage you to make your room reservation early; the hotel has indicated that they usually sell out on Saturday nights.
-
-We unfortunately needed to limit the room block to Sunday through Tuesday nights because we have to pay for rooms that aren't filled.
-
+If you plan to arrive Saturday (Oct 4), we encourage you to make your room reservation early; the hotel has indicated that they usually sell out on Saturday nights. We unfortunately needed to limit the room block to Sunday through Tuesday nights because we have to pay for rooms that are not filled.
 
 ## Food
 
@@ -45,16 +41,21 @@ Additional evening reception events with some food and drinks will also be held 
 
 ## Getting to Philadelphia
 
-The Philadelphia International Airport (PHL) is about 20 minutes/10 miles from the conference hotel.  The hotel does NOT have an airport shuttle.
+* The Philadelphia International Airport (PHL) is about 10 miles (15-35 minutes by car, depending on traffic) from the conference hotel. 
+* The Philadelphia Amtrak train station is 2.5 miles from the conference hotel.
+* Newark Liberty International Airport (EWR) is about 80 miles (75-100 minutes by car, depending on traffic) from Philadelphia.
+* The Baltimore/Washington International Airport (BWI) is about 100 miles from Philadelphia and may offer less expensive flights from some parts of the country. Reasonable train options connect Baltimore and Philadelphia. 
+* The hotel does NOT have an airport shuttle.
+* The daily parking rate at the hotel is $60.  There are additional parking garages approximately a half-mile from the hotel.  
 
-The Philadelphia Amtrak train station is 2.5 miles from the conference hotel. 
+### Transportation from PHL to the conference area (Old City)
+You have two main options to reach Old City from PHL:
 
-Newark Liberty International Airport (EWR) is a little over an hour from Philadelphia.
+* **By Train:**
+SEPTA’s Airport Line runs approximately every 30 minutes and connects the airport to **30th Street Station**, **Suburban Station**, and **Jefferson Station** in Center City. From there, you can transfer to the **Market-Frankford Line (MFL)** subway (also called the “El”) and take it eastbound toward **2nd Street Station**, which is within walking distance of Old City.
 
-The daily parking rate at the hotel is $60.  There are additional parking garages approximately a 1/2 mile from the hotel.  
+* **By Taxi/Rideshare:**
+A taxi from the airport to Old City typically takes 15–35 minutes, depending on traffic, and has a flat rate of around $30–35 plus tip. This is the most convenient option, especially if you're carrying luggage or arriving during off-peak hours. If you're being reimbursed by your company, this is usually the simplest and most efficient choice.
 
 
-## Travel Grants
-
-We are applying for grants to support travel for some students and individual attendees, but at this time, we do not know if such funds will be available.  We will post more information as we have it.
 

@@ -1,16 +1,16 @@
 items:
-  - title: Sponsor
+  - title: Program
     subtitle: >
-      Help make USRSE'25 a success 
-    link: sponsor/
-    link_name: Learn About Sponsorship Opportunities
-  - title: Join the Mailing List
+      Plan your time at the conference. <br>
+    link: program/
+    link_name: Get Excited!
+  - title: Volunteer
     subtitle: >
-      Keep up to date with conference information <br>
-    link: https://groups.google.com/a/us-rse.org/g/usrse-conference
-    link_name: Add Your Email
-  - title: Have Questions?
+      Help make USRSE'25 a success. <br>
+    link: participate/volunteer/
+    link_name: Volunteer to Help
+  - title: Join us in Philly
     subtitle: >
-      Contact the conference organizers <br>
-    link: mailto:usrse25-conference@us-rse.org
-    link_name: Get in Touch
+      Registration is closed! The conference is just around the corner. 
+    link: https://us-rse.org/usrse25/attend/know-go/
+    link_name: What to know before you go

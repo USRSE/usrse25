@@ -39,6 +39,30 @@ fb-img:
       </div>
 <br><br>
 
+{% assign callouts=site.data.callouts2 %}
+
+      <div class="grid grid-col-1">
+        {% for callout in callouts.items %}
+        <div class="grid-item">
+          <div class="grid-item-inside"  style="background-color: #eeeeee;">
+            <h3 class="grid-item-title line-left">
+             {{ callout.title }}
+            </h3>
+            <div class="grid-item-content">
+               <p>{% if callout.subtitle %}{{ callout.subtitle | newline_to_br }}{% endif %}
+               {% if callout.description %}{{ callout.description | newline_to_br }}{% endif %}
+               </p>
+            </div>
+            <div class="grid-item-buttons">
+            {% if callout.link %}
+            <a href="{{ callout.link | relative_url }}" style="color: var(--info); visited: var(--info); hover: var(--infodk);">
+             {{ callout.link_name }}</a>{% endif %}
+            </div>
+          </div>
+        </div>{% endfor %}
+      </div>
+<br><br>
+
 <div class="sectionheader">
   <center>
 <h2 class="sectionheader"> Conference Sponsors </h2>
@@ -46,62 +70,174 @@ fb-img:
 </div>
 
  <center>
-       
-<div>
-    <br>
-<a href="https://sloan.org/">
-    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/sloan.png"
-         style="display: block; margin-left: auto; margin-right: auto; width: 20%;"
-         alt="Sloan Foundation logo">
-</a>
-</div>
-
-<br>
-<h3>Platinum</h3>
+<div style="display: block; width: 100%; padding-top: 20px; clear: both;">
+<h3>Platinum Sponsors</h3>
+             </div>
 <div>
     <br>
 <a href="https://illinois.edu/">
     <img src="{{ site.baseurl }}/assets/img/org-logos/logo-uiuc.png"
-         style="display: block; margin-left: auto; margin-right: auto; width: 30%;"
+         style="display: block; float: left; margin-left: 15%; margin-right: auto; width: 30%;"
          alt="UIUC logo">
 </a>
 </div>
-<br>
-<h3>Gold</h3>
+
+<div>
+<a href="https://princeton.edu/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/Princeton_lockup.svg"
+         style="display: block; float: right; margin-left: auto; margin-right: 15%; width: 30%;"
+         alt="Princeton University logo">
+</a>
+</div>
+
+
+<div>
+<a href="https://shi.com/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/SHI_logo.jpg"
+         style="display: block; float: left; margin-top: 8%; margin-left: 10%; margin-right: 2%; width: 20%;"
+         alt="SHI logo">
+</a>
+</div>
+
+<div>
+<a href="https://dell.com/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/Dell_logo.svg"
+         style="display: block; float: left; margin-top: 9%; margin-left: 4%; margin-right: auto; width: 30%;"
+         alt="Dell logo">
+</a>
+</div>
+
+
+<div>
+<a href="https://www.schmidtsciences.org/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/schmidtsciences.png"
+         style="display: block; float: left; margin-top: 6%; margin-left: auto; margin-right: 2%; width: 30%;"
+         alt="Schmidt Sciences logo">
+</a>
+</div>
+
+
+
+<div style="display: block; width: 100%; padding-top: 5%; clear: both;">
+<h3>Gold Sponsors</h3>
+</div>
 <div>
     <br>
 <a href="https://globus.org/">
     <img src="{{ site.baseurl }}/assets/img/org-logos/logo-globus.png"
-         style="display: block; margin-left: auto; margin-right: auto; width: 30%;"
+         style="display: block; float: left; margin-top: 1%; margin-left: 4%; margin-right: auto; width: 20%;"
          alt="Globus logo">
 </a>
 </div>
 
+<div>
+<a href="https://www.lanl.gov/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/LANL.png"
+         style="display: block; float: left; margin-left: 4%; margin-right: 3%; width: 20%;"
+         alt="LANL logo">
+</a>
+</div>
+
+<div>
+<a href="https://www.ibm.com/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/IBM_logo.jpg"
+         style="display: block; float: left; margin-top: -3%; margin-left: auto; margin-right: 2%; width: 20%;"
+         alt="IBM logo">
+</a>
+</div>
+
+      <div>
+<a href="https://www.hpe.com/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/hpe_AMD_lockup_grn_pos_rgb.png"
+         style="display: block; float: left; margin-top: 1.5%; margin-left: auto; margin-right: 4%; width: 20%;"
+         alt="HPE/AMD logo">
+</a>
+</div>
+
+
+
+<div style="display: block; width: 100%; padding-top: 5%; clear: both;">
+<h3>Attendee Travel and Registration Support Provided By</h3>
+</div>
+<div>
+    <br>
+<a href="https://shinstitute.org/">
+    <img src="{{ site.baseurl }}/assets/img/SustainableHorizons_LogoV2_transparent.png"
+         style="display: block; float: left; margin-left: 15%; margin-right: 5%; width: 30%;"
+         alt="Sustainable Horizons Institute logo">
+</a>
+</div>
+
+<div>
+<a href="https://www.schmidtsciences.org/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/schmidtsciences.png"
+         style="display: block; float: left; margin-left: 5%; margin-right: 15%; width: 30%;"
+         alt="Schmidt Sciences logo">
+</a>
+</div>
+
+<div style="display: block; width: 100%; padding-top: 5%; clear: both;">
+       <h3>Special Thanks</h3>
+</div>
+       <div>
+    <br>
+<a href="https://sloan.org/">
+    <img src="{{ site.baseurl }}/assets/img/Alfred_P_Sloan_Foundation_Logo.png"
+         style="display: block; margin-left: auto; margin-right: auto; width: 25%;"
+         alt="Sloan Foundation logo">
+</a>
+</div>
+
+
+
+<div style="display: block; width: 100%; padding-top: 5%; clear: both;">
+        <h3>Additional Sponsors</h3>
+</div>
+       <div>
+    <br>
+<a href="https://omnibond.com/project-eureka/">
+    <img src="{{ site.baseurl }}/assets/img/sponsor-logos/projectEurekaLogo.blue.png"
+         style="display: block; margin-left: auto; margin-right: auto; width: 13%;"
+         alt="Omnibond Project Eureka logo">
+</a>
+</div>
+
+<br>
+<br>
        
- </center>
-       
-<br><br>
+       </center>
 
 <div class="sectionheader">
   <center>
-<h2 class="sectionheader"> US-RSE Organizational Members </h2>
+<h2 class="sectionheader"> US-RSE Organizational Founding Members </h2>
   </center>
 </div>
 <div>
   <center>
-  {% assign orgs = site.data.org-members %}
 
-  {%- for item in orgs -%}
-  <a href="{{ item.url }}"><img src="{{ site.baseurl }}/assets/img/org-logos/{{ item.figure }}" 
-    {% if item.background -%}
-    style=" margin-left: auto; margin-right: auto; width: 20%; padding: 10px; background-color: {{ item.background }}"
-    {%- else -%}
-    style="margin-left: auto; margin-right: auto; width: 20%; padding: 10px; "
-    {%- endif -%}
-         
-         alt="{{ item.name }} logo"></a>
-    {%- endfor -%}
-    </center>
-</div>
+{% if site.data.org-members.premier %}
+        <br>
+        <div style="width: 60%">
+<h3>Premier Level</h3>
 
+{% assign org_tier = site.data.org-members.premier | sort: "date_joined" %}
+{% include org-card-group.html %}
+{% endif %}
+
+
+{% if site.data.org-members.standard %}
+<h3>Standard Level</h3>
+
+{% assign org_tier = site.data.org-members.standard | sort: "date_joined" %}
+{% include org-card-group.html %}
+{% endif %}
+
+
+{% if site.data.org-members.basic %}
+<h3>Basic Level</h3>
+
+{% assign org_tier = site.data.org-members.basic | sort: "date_joined" %}
+{% include org-card-group.html %}
+{% endif %}    
+        </div>
 

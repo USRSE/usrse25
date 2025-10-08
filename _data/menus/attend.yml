@@ -1,0 +1,16 @@
+- label: Attend
+  items:
+    - name: Overview 
+      link: attend/
+    - name: Hotel and Travel
+      link: attend/travel/
+    - name: Philly Map & Things To Do
+      link: attend/local-info/
+    - name: Registration
+      link: attend/registration/
+    - name: Know Before You Go
+      link: attend/know-go/
+    - name: Financial Support
+      link: attend/financialsupport/
+    - name: Photo Policy
+      link: attend/photos/

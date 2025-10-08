@@ -2,8 +2,38 @@
   link: news/
 - name: Participate
   link: participate/
+  dropdown:
+    - name: Overview
+      link: participate/
+    - name: Volunteer
+      link: participate/volunteer
+    - name: Special Issue
+      link: participate/special-issue
+    - name: Proceedings
+      link: participate/proceedings
 - name: Program
   link: program/
+  dropdown:
+    - name: Full Program
+      link: program/
+    - name: Keynotes
+      link: program/keynotes/
+    - name: Birds of a Feather
+      link: program/bofs/
+    - name: Notebooks
+      link: program/notebooks/
+    - name: Papers
+      link: program/papers/
+    - name: Posters
+      link: program/posters/
+    - name: Student & Early Career Program
+      link: program/student-early-career-program/
+    - name: Talks
+      link: program/talks/
+    - name: Workshops
+      link: program/workshops/
+    - name: RAM
+      link: program/ram/
 - name: Attend
   link: attend/
   dropdown:
@@ -11,8 +41,16 @@
       link: attend/
     - name: Hotel and Travel
       link: attend/travel/
+    - name: Philly Map & Things To Do
+      link: attend/local-info/
     - name: Registration
-      link: attend/register/
+      link: attend/registration/
+    - name: Know Before You Go
+      link: attend/know-go/
+    - name: Financial Support
+      link: attend/financialsupport/
+    - name: Photo Policy
+      link: attend/photos/
 - name: Sponsor
   link: sponsor/
 - name: About

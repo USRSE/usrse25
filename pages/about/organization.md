@@ -34,7 +34,7 @@ Contact the organizers: [usrse25-conference@us-rse.org](mailto:usrse25-conferenc
 
 ### Logistics
 
-* Logistics Coordinator: Andrea Rubenstein, Princeton University
+* Logistics Coordinator: Andrea Rubinstein, Princeton University
 * A/V Liaison: Ethan Blackwood, University of Pennsylvania
 * Hotel/Local Info:	Christian Tabedzki, Princeton University
 * Transportation and Room Moderators: Jennifer Melot, Georgetown University
@@ -49,7 +49,6 @@ Contact the organizers: [usrse25-conference@us-rse.org](mailto:usrse25-conferenc
 ### Sponsorship
 
 * Chair: Abbey Roelofs, University of Michigan
-* Vice Chair: Kristina Riemer, University of Arizona
 
 ### Student Program
 
