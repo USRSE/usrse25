@@ -19,7 +19,7 @@ as soon as possible, which may be before, during, or shortly after the conferenc
 <h5 class="mb-0">
 <button aria-controls="collapse2" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse2" data-toggle="collapse">
  INnovative Training Enabled by a Research Software
- Engineering ity of Trainers (INTERSECT)<br><b>Jeffrey Carver and Ian Cosden</b>
+ Engineering Community of Trainers (INTERSECT)<br><b>Jeffrey Carver and Ian Cosden</b>
 </button>
 </h5>
 </div>
