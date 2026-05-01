@@ -8,7 +8,19 @@ menubar_toc: true
 permalink: participate/
 set_last_modified: true
 ---
+<!-- This section is temporary to redirect people to this year's conference -->
+<!DOCTYPE html
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://us-rse.org/usrse26/participate/" />
+</head>
+<body>
+    <p>Redirecting to <a href="https://us-rse.org/usrse26/participate/">USRSE'26 Participate</a>...</p>
+</body>
+</html>
+<!-- This section is temporary to redirect people to this year's conference -->
 
+<!-- Temporarily commenting out to handle the redirect
 ## Call for Submissions
 
 The submission deadlines for all tracks have passed!
@@ -164,3 +176,4 @@ Poster submissions are due 11:59pm (anywhere on Earth), July 20, 2025.
 Notifications for submissions other than posters will be sent by 11:59pm (anywhere on Earth), July 14, 2025. Poster notifications will be sent by 11:59pm (anywhere on Earth), August 15, 2025.  
 
 Accepted abstracts/descriptions will be published in the conference program.
+-->
