@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: null
+#layout: page
 title: Participate
 description: 
 menubar: participate
@@ -9,7 +10,7 @@ permalink: participate/
 set_last_modified: true
 ---
 <!-- This section is temporary to redirect people to this year's conference -->
-<!DOCTYPE html
+<!DOCTYPE html>
 <html>
 <head>
     <meta http-equiv="refresh" content="0; url=https://us-rse.org/usrse26/participate/" />
