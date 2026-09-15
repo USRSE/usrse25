@@ -26,6 +26,10 @@ Topics of interest include (but are not limited to):
 * Building a research software engineer (RSE) profession
 * Accessibility and belonging for RSEs
 
+## Accepted papers
+
+A summary of all accepted papers is available [here](https://www.sciencedirect.com/science/article/pii/S0167739X26004516). 
+
 ## Editorial board
 
 * Patrick Diehl, Los Alamos National Laboratory 
